@@ -1,14 +1,25 @@
 'use client';
 
 import Link from 'next/link';
+import { useState } from 'react';
 import type { Product } from '@/lib/types';
 import { BRANDS } from '@/lib/brands';
 import { useCompare } from '@/lib/compare-context';
+import { openZohoBooksWithName } from '@/lib/zoho';
 
 export default function ProductCard({ product }: { product: Product }) {
   const { toggle, isCompared, canAdd } = useCompare();
   const compared = isCompared(product.id);
   const brand = BRANDS[product.brand];
+  const [zohoCopied, setZohoCopied] = useState(false);
+
+  const handleZoho = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setZohoCopied(true);
+    setTimeout(() => setZohoCopied(false), 2000);
+    await openZohoBooksWithName(product.name);
+  };
 
   return (
     <div className="card card-hover p-5 flex flex-col h-full group relative">
@@ -30,29 +41,52 @@ export default function ProductCard({ product }: { product: Product }) {
             </Link>
           </h3>
         </div>
-        <button
-          onClick={(e) => { e.preventDefault(); e.stopPropagation(); toggle(product.id); }}
-          disabled={!compared && !canAdd}
-          className={`relative z-10 shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-xs transition-all border ${
-            compared
-              ? 'bg-lapiz-ink text-white border-lapiz-ink'
-              : canAdd
-              ? 'bg-white text-lapiz-ink/60 border-[var(--line)] hover:border-lapiz-ink hover:text-lapiz-ink'
-              : 'bg-white text-lapiz-ink/25 border-[var(--line)] cursor-not-allowed'
-          }`}
-          aria-label={compared ? 'Remove from compare' : 'Add to compare'}
-          title={compared ? 'Remove from compare' : canAdd ? 'Compare' : 'Compare limit is 3'}
-        >
-          {compared ? (
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
-              <polyline points="20 6 9 17 4 12"/>
-            </svg>
-          ) : (
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M12 5v14M5 12h14"/>
-            </svg>
-          )}
-        </button>
+        <div className="flex items-center gap-1.5 shrink-0">
+          <button
+            onClick={handleZoho}
+            className={`relative z-10 shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-xs transition-all border ${
+              zohoCopied
+                ? 'bg-emerald-500 text-white border-emerald-500'
+                : 'bg-white text-lapiz-ink/60 border-[var(--line)] hover:border-lapiz-ink hover:text-lapiz-ink'
+            }`}
+            aria-label="Check stock in Zoho Books"
+            title={zohoCopied ? 'Name copied — paste in Zoho' : 'Check stock in Zoho Books (copies name)'}
+          >
+            {zohoCopied ? (
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+            ) : (
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M20 7H4a2 2 0 00-2 2v10a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/>
+                <path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/>
+              </svg>
+            )}
+          </button>
+          <button
+            onClick={(e) => { e.preventDefault(); e.stopPropagation(); toggle(product.id); }}
+            disabled={!compared && !canAdd}
+            className={`relative z-10 shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-xs transition-all border ${
+              compared
+                ? 'bg-lapiz-ink text-white border-lapiz-ink'
+                : canAdd
+                ? 'bg-white text-lapiz-ink/60 border-[var(--line)] hover:border-lapiz-ink hover:text-lapiz-ink'
+                : 'bg-white text-lapiz-ink/25 border-[var(--line)] cursor-not-allowed'
+            }`}
+            aria-label={compared ? 'Remove from compare' : 'Add to compare'}
+            title={compared ? 'Remove from compare' : canAdd ? 'Compare' : 'Compare limit is 3'}
+          >
+            {compared ? (
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+            ) : (
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M12 5v14M5 12h14"/>
+              </svg>
+            )}
+          </button>
+        </div>
       </div>
 
       {product.classification && (

@@ -7,7 +7,7 @@ import type { Alternative } from '@/lib/products';
 import { BRANDS } from '@/lib/brands';
 import { useCompare } from '@/lib/compare-context';
 import { useRecentlyViewed } from '@/lib/recent';
-import { zohoBooksItemsUrl } from '@/lib/zoho';
+import { openZohoBooksWithName } from '@/lib/zoho';
 import CoverageCalculator from './CoverageCalculator';
 import ShareMenu from './ShareMenu';
 
@@ -33,12 +33,9 @@ export default function ProductDetailClient({
   useEffect(() => { record(product.id); }, [product.id, record]);
 
   const openZohoBooks = async () => {
-    try {
-      await navigator.clipboard.writeText(product.name);
-      setZohoCopied(true);
-      setTimeout(() => setZohoCopied(false), 2500);
-    } catch {}
-    window.open(zohoBooksItemsUrl, '_blank', 'noopener,noreferrer');
+    setZohoCopied(true);
+    setTimeout(() => setZohoCopied(false), 2500);
+    await openZohoBooksWithName(product.name);
   };
 
   const specs: { label: string; value: React.ReactNode }[] = [];
