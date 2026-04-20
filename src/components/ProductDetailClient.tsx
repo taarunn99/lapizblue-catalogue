@@ -7,7 +7,7 @@ import type { Alternative } from '@/lib/products';
 import { BRANDS } from '@/lib/brands';
 import { useCompare } from '@/lib/compare-context';
 import { useRecentlyViewed } from '@/lib/recent';
-import { zohoBooksSearchUrl } from '@/lib/zoho';
+import { zohoBooksItemsUrl } from '@/lib/zoho';
 import CoverageCalculator from './CoverageCalculator';
 import ShareMenu from './ShareMenu';
 
@@ -25,11 +25,21 @@ export default function ProductDetailClient({
   alternatives: Alternative[];
 }) {
   const [tab, setTab] = useState<Tab>('specs');
+  const [zohoCopied, setZohoCopied] = useState(false);
   const { toggle, isCompared, canAdd } = useCompare();
   const { record } = useRecentlyViewed();
   const compared = isCompared(product.id);
 
   useEffect(() => { record(product.id); }, [product.id, record]);
+
+  const openZohoBooks = async () => {
+    try {
+      await navigator.clipboard.writeText(product.name);
+      setZohoCopied(true);
+      setTimeout(() => setZohoCopied(false), 2500);
+    } catch {}
+    window.open(zohoBooksItemsUrl, '_blank', 'noopener,noreferrer');
+  };
 
   const specs: { label: string; value: React.ReactNode }[] = [];
   if (product.classification) specs.push({ label: 'Classification', value: <span className="font-mono">{product.classification}</span> });
@@ -152,21 +162,24 @@ export default function ProductDetailClient({
                 </a>
               )}
 
-              <a
-                href={zohoBooksSearchUrl(product.name)}
-                target="_blank"
-                rel="noreferrer"
+              <button
+                type="button"
+                onClick={openZohoBooks}
                 className="btn btn-secondary w-full justify-between"
               >
                 <span className="flex items-center gap-2">
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <path d="M20 7H4a2 2 0 00-2 2v10a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/>
-                    <path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/>
-                  </svg>
-                  View in Zoho Books
+                  {zohoCopied ? (
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+                  ) : (
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <path d="M20 7H4a2 2 0 00-2 2v10a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/>
+                      <path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/>
+                    </svg>
+                  )}
+                  {zohoCopied ? 'Name copied — paste in Zoho search' : 'View in Zoho Books'}
                 </span>
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M7 17L17 7M7 7h10v10"/></svg>
-              </a>
+              </button>
 
               <div className="grid grid-cols-2 gap-2">
                 <button
