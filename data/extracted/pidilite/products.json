@@ -1,0 +1,675 @@
+{
+  "pidilite-pegoland-classic": {
+    "id": "pidilite-pegoland-classic",
+    "brand": "pidilite",
+    "name": "PEGOLAND CLASSIC",
+    "category": "tile-adhesives",
+    "description": "C1 cementitious adhesive for bonding ceramic tiles with medium water absorption on interior and exterior floors and interior wall tiling. Economical general-purpose tile adhesive.",
+    "classification": "C1 (EN 12004 / ISO 13007 / UNE 138002)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "\u22650.5 N/mm\u00b2 (C1 class)"
+    },
+    "pack_size": [
+      "20 kg plastic-lined paper bag"
+    ],
+    "colors": [
+      "grey"
+    ],
+    "shelf_life": "1 year (in sealed original packaging)",
+    "application_areas": [
+      "Interior and exterior floors",
+      "Interior wall tiling",
+      "Medium-to-high water absorption ceramic tiles"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-classic-c1-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-uno": {
+    "id": "pidilite-pegoland-uno",
+    "brand": "pidilite",
+    "name": "PEGOLAND UNO",
+    "category": "tile-adhesives",
+    "description": "C1 cementitious tile adhesive for bonding ceramic tiles with medium-to-high water absorption. For interior and exterior floors and interior walls.",
+    "classification": "C1 (EN 12004)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Interior and exterior floors",
+      "Interior wall tiling",
+      "Ceramic tiles (medium-to-high absorption)"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-uno-c1-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-uno-plus": {
+    "id": "pidilite-pegoland-uno-plus",
+    "brand": "pidilite",
+    "name": "PEGOLAND UNO PLUS",
+    "category": "tile-adhesives",
+    "description": "C1TE cementitious tile adhesive with improved slip resistance (T) and extended open time (E). For interior and exterior floors and interior walls. Upgrade from standard Pegoland Uno.",
+    "classification": "C1 TE (EN 12004)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Interior and exterior floors",
+      "Interior walls and baseboards",
+      "Large surface installations"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-uno-plus-c1-te-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-dos": {
+    "id": "pidilite-pegoland-dos",
+    "brand": "pidilite",
+    "name": "PEGOLAND DOS",
+    "category": "tile-adhesives",
+    "description": "C2T cementitious adhesive with mixed binders, improved adhesion. For bonding ceramic tiles, porcelain, marble and granite on interior/exterior floors and interior walls.",
+    "classification": "C2 T (EN 12004)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Interior and exterior floors",
+      "Interior wall tiling",
+      "Porcelain, marble, granite, ceramic"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-dos-c2-t-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-dos-plus": {
+    "id": "pidilite-pegoland-dos-plus",
+    "brand": "pidilite",
+    "name": "PEGOLAND DOS PLUS",
+    "category": "tile-adhesives",
+    "description": "C2TE cementitious adhesive with mixed binders, improved adhesion, slip resistance and extended open time. Especially recommended for installing rectified tiles and new flooring over old ceramic floors.",
+    "classification": "C2 TE (EN 12004)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Interior and exterior floors, interior tile walls",
+      "Rectified tile installation",
+      "Overlays on old ceramic floors",
+      "Skirting-board tile installation",
+      "Drywall/plasterboard interiors"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-dos-plus-c2-te-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-dos-plus-extra-white": {
+    "id": "pidilite-pegoland-dos-plus-extra-white",
+    "brand": "pidilite",
+    "name": "PEGOLAND DOS PLUS EXTRA WHITE",
+    "category": "tile-adhesives",
+    "description": "C2TE extra-white cementitious tile adhesive with mixed binders. High-whiteness formulation for translucent stones and mosaics where white background is critical.",
+    "classification": "C2 TE (EN 12004), extra-white",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "colors": [
+      "extra-white"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Translucent stones, glass mosaics",
+      "White grout systems",
+      "High-end residential tile work"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-dos-plus-c2-te-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-flex": {
+    "id": "pidilite-pegoland-flex",
+    "brand": "pidilite",
+    "name": "PEGOLAND FLEX",
+    "category": "tile-adhesives",
+    "description": "C2TE S1 deformable cementitious tile adhesive with mixed bonding agents. High flexibility and adherence, reduced slip, extended open time. Specially recommended for fa\u00e7ades, large areas, and underfloor heating systems.",
+    "classification": "C2 TE S1 (EN 12004 / EN 12002)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "\u22651.0 N/mm\u00b2",
+      "deformability": "S1 (2.5-5 mm deflection per EN 12002)"
+    },
+    "pack_size": [
+      "25 kg bag",
+      "5 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year (25 kg), 2 years (5 kg)",
+    "application_areas": [
+      "Fa\u00e7ades",
+      "Large-area floor installation",
+      "Underfloor heating systems",
+      "All types of ceramic tiles",
+      "Indoor and outdoor use"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-flex-c2-te-s1-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-superflex": {
+    "id": "pidilite-pegoland-superflex",
+    "brand": "pidilite",
+    "name": "PEGOLAND SUPERFLEX",
+    "category": "tile-adhesives",
+    "description": "C2TE S2 highly deformable cementitious tile adhesive. Excellent workability, high flexibility and adhesion, reduced slip, extended open time. For slate and demanding installations.",
+    "classification": "C2 TE S2 (EN 12004 / EN 12002)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "\u22651.0 N/mm\u00b2",
+      "deformability": "S2 (>5 mm deflection)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "shelf_life": "1 year",
+    "application_areas": [
+      "Slate",
+      "Highly-stressed fa\u00e7ades",
+      "Large-format tiles",
+      "Pools, terraces, balconies",
+      "Substrates subject to deformation"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-superflex-c2-te-s2-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-fast-flex": {
+    "id": "pidilite-pegoland-fast-flex",
+    "brand": "pidilite",
+    "name": "PEGOLAND FAST FLEX",
+    "category": "tile-adhesives",
+    "description": "C2FTE S1 fast-hardening deformable cementitious tile adhesive with mixed bonding agents. Reduced slip, fast drying. Does not stain stones after curing. Especially for fa\u00e7ades, large floors, underfloor heating and fast-track projects.",
+    "classification": "C2 F TE S1 (EN 12004)",
+    "coverage": {
+      "value": "~4",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "25 kg plastic-lined paper bag"
+    ],
+    "colors": [
+      "grey"
+    ],
+    "shelf_life": "6 months (fast-setting product)",
+    "application_areas": [
+      "Fast-track installations",
+      "Water-absorbing/staining tiles",
+      "Fa\u00e7ades, large floors",
+      "Underfloor heating"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-fast-flex-c2-fte-s1-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-pegoland-elastic": {
+    "id": "pidilite-pegoland-elastic",
+    "brand": "pidilite",
+    "name": "PEGOLAND ELASTIC R2T",
+    "category": "tile-adhesives",
+    "description": "Two-component reactive epoxy-polyurethane tile adhesive (R2T). Improved white bicomponent reactive adhesive with no vertical sliding. For ceramic tiles, mosaics, natural stones and resin conglomerates.",
+    "classification": "R2 T (EN 12004) \u2014 reactive epoxy-PU adhesive",
+    "strength": {
+      "bond": "\u22652.0 N/mm\u00b2 (R2 class)"
+    },
+    "pack_size": [
+      "Two-component kit (A+B)"
+    ],
+    "colors": [
+      "white"
+    ],
+    "application_areas": [
+      "Chemical-resistant tile installations",
+      "Mosaic and glass tile",
+      "Natural stones and resin conglomerates",
+      "Laboratories, food/pharma production areas",
+      "Swimming pools with aggressive water"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/pegoland-elastic-r2t-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-morcemcolor-universal-grout": {
+    "id": "pidilite-morcemcolor-universal-grout",
+    "brand": "pidilite",
+    "name": "MORCEMCOLOR UNIVERSAL GROUT",
+    "category": "tile-grouts",
+    "description": "Coloured cementitious grout with additives, great fineness and plasticity. For sealing joints 2 to 15 mm in all types of floor and wall tiling. Special for grouting low-porosity pieces (porcelain stoneware) and swimming pools.",
+    "classification": "CG2 A W (EN 13888 \u2014 improved cementitious grout with reduced water absorption and abrasion resistance)",
+    "coverage": {
+      "value": "Depends on joint width",
+      "unit": "kg/m\u00b2",
+      "notes": "e.g. 15\u00d715 cm tile with 5 mm joint = 0.68 kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg plastic-coated paper bag",
+      "5 kg polyethylene bag"
+    ],
+    "joint_width": "2-15 mm",
+    "colors": [
+      "wide range (~20 colours)"
+    ],
+    "shelf_life": "1 year (20 kg), 2 years (5 kg)",
+    "application_areas": [
+      "Grouting joints 2-15 mm",
+      "Porcelain stoneware tiles",
+      "Swimming pools",
+      "Indoor and outdoor floors"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/morcemcolor-universal-grout-cg2-a-w-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-morcemcolor-plus-flexible": {
+    "id": "pidilite-morcemcolor-plus-flexible",
+    "brand": "pidilite",
+    "name": "MORCEMCOLOR PLUS FLEXIBLE",
+    "category": "tile-grouts",
+    "description": "Coloured water-repellent CG2 WA cementitious grout with mixed binders, anti-fungal and anti-algae bioactive technology. AQUASTOP effect for pearl water beading. For low-porosity tiles and pools.",
+    "classification": "CG2 W A (EN 13888 \u2014 with reduced water absorption W and abrasion resistance A)",
+    "coverage": {
+      "value": "Depends on joint width",
+      "unit": "kg/m\u00b2",
+      "notes": "e.g. 30\u00d740 cm tile with 5 mm joint = 0.30 kg/m\u00b2"
+    },
+    "pack_size": [
+      "2, 3 and 5 kg polyethylene bags"
+    ],
+    "joint_width": "2-15 mm",
+    "colors": [
+      "wide colour range (~25 colours)"
+    ],
+    "application_areas": [
+      "Swimming pools, spas, wet areas",
+      "Porcelain stoneware, low-porosity tiles",
+      "Areas prone to mould/algae growth",
+      "Underfloor heating areas",
+      "Interior and exterior"
+    ],
+    "certifications": [
+      "Bioactive (anti-fungal/anti-algae)",
+      "Water-repellent AQUASTOP"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/morcemcolor-plus-flexible-cg2-a-w-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-morcemcolor-epoxy": {
+    "id": "pidilite-morcemcolor-epoxy",
+    "brand": "pidilite",
+    "name": "MORCEMCOLOR EPOXY",
+    "category": "tile-grouts",
+    "description": "RG reactive resin epoxy grout. Highly acid-resistant and impermeable. For pools, ponds, spas, thermal baths with saline or acid-treated water, and areas with extreme temperature fluctuations.",
+    "classification": "RG (EN 13888 \u2014 reactive resin grout)",
+    "pack_size": [
+      "Two-component kit (A+B)"
+    ],
+    "joint_width": "2-15 mm",
+    "colors": [
+      "range of colours"
+    ],
+    "application_areas": [
+      "Swimming pools, spas, thermal baths",
+      "Chemical-resistant joints",
+      "Food industry, pharma, laboratories",
+      "Freeze/thaw environments"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/morcemcolor-epoxy-rg-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-fevicol-floorfix-supertac": {
+    "id": "pidilite-fevicol-floorfix-supertac",
+    "brand": "pidilite",
+    "name": "FEVICOL FLOORFIX SUPERTAC",
+    "category": "specialty-adhesives",
+    "description": "Water-based acrylic tackifier for dry-lay installation of floor tiles and carpets. Provides releasable tacky bond for modular flooring.",
+    "classification": "Water-based acrylic tackifier",
+    "pack_size": [
+      "5 kg pail",
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Dry-lay carpet tile installation",
+      "Modular carpet tiles",
+      "Releasable PVC/vinyl plank flooring"
+    ],
+    "tds_url": "https://pidilitemea.com/media/6ffc7-fevicol-supertac.pdf",
+    "tds_direct": "https://pidilitemea.com/media/6ffc7-fevicol-supertac.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-fevicol-floorfix-xpress": {
+    "id": "pidilite-fevicol-floorfix-xpress",
+    "brand": "pidilite",
+    "name": "FEVICOL FLOORFIX XPRESS",
+    "category": "specialty-adhesives",
+    "description": "Multipurpose acrylic adhesive for bonding vinyl, rubber, linoleum, and carpet flooring. Fast-grab, high-strength dispersion adhesive.",
+    "classification": "Multi-purpose acrylic dispersion flooring adhesive",
+    "pack_size": [
+      "4 kg pail",
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Vinyl flooring (sheet and tile)",
+      "Rubber flooring",
+      "Linoleum",
+      "Carpet (conventional installation)"
+    ],
+    "tds_url": "https://pidilitemea.com/media/50780-floorfix-xpress-new-.pdf",
+    "tds_direct": "https://pidilitemea.com/media/50780-floorfix-xpress-new-.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-r-202": {
+    "id": "pidilite-stauf-r-202",
+    "brand": "pidilite",
+    "name": "STAUF R 202",
+    "category": "specialty-adhesives",
+    "description": "One-component polyurethane adhesive for rubber, PVC, vinyl and textile floor coverings on absorbent and non-absorbent substrates.",
+    "classification": "1K polyurethane flooring adhesive",
+    "pack_size": [
+      "14 kg pail"
+    ],
+    "application_areas": [
+      "Rubber flooring (sheet and tile)",
+      "PVC and vinyl sheet flooring",
+      "Textile flooring (needle-punched, latex-backed)",
+      "Indoor sports surfaces"
+    ],
+    "tds_url": "https://pidilitemea.com/brands_details/stauf/downloads",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-r-105": {
+    "id": "pidilite-stauf-r-105",
+    "brand": "pidilite",
+    "name": "STAUF R 105",
+    "category": "specialty-adhesives",
+    "description": "Two-component polyurethane adhesive for floor coverings. Waterproof and highly-resistant for demanding rubber and synthetic sports flooring installations.",
+    "classification": "2K polyurethane waterproof flooring adhesive",
+    "pack_size": [
+      "Two-component kit"
+    ],
+    "application_areas": [
+      "Rubber sports flooring",
+      "Synthetic turf perimeter bonding",
+      "Wet-area installations",
+      "Outdoor playground surfaces"
+    ],
+    "tds_url": "https://pidilitemea.com/brands_details/stauf/downloads",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-puk-447": {
+    "id": "pidilite-stauf-puk-447",
+    "brand": "pidilite",
+    "name": "STAUF PUK 447",
+    "category": "specialty-adhesives",
+    "description": "Hard two-component elastic polyurethane wood flooring adhesive, shear strength >680 psi. For wide plank and solid parquet. Complies with ISO 17178 (hard elastic classification).",
+    "classification": "2K PU wood flooring adhesive \u2014 ISO 17178 (hard elastic)",
+    "pack_size": [
+      "Two-component kit (~7 kg)"
+    ],
+    "application_areas": [
+      "Solid parquet and engineered wood",
+      "Wide-plank flooring (>120 mm)",
+      "Mosaic parquet",
+      "Underfloor heating compatible"
+    ],
+    "tds_url": "https://pidilitemea.com/media/a169e-stauf-puk-447.pdf",
+    "tds_direct": "https://pidilitemea.com/media/a169e-stauf-puk-447.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-multilayer": {
+    "id": "pidilite-stauf-multilayer",
+    "brand": "pidilite",
+    "name": "STAUF MULTILAYER",
+    "category": "specialty-adhesives",
+    "description": "One-component elastic hybrid (MS polymer) wood flooring adhesive per ISO 17178 for elastically-deformable engineered multi-layer wood flooring. Water and solvent-free \u2014 no wood swelling. Underfloor-heating compatible.",
+    "classification": "1K MS-polymer hybrid wood flooring adhesive \u2014 ISO 17178",
+    "pack_size": [
+      "13 kg pail",
+      "18 kg pail"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "application_areas": [
+      "Multi-layer engineered wood flooring (DIN EN 13489)",
+      "Underfloor heating (UFH) \u2014 ideal",
+      "Concrete, calcium sulphate, chipboard, OSB subfloors"
+    ],
+    "tds_url": "https://pidilitemea.com/media/5ba63-tm-stauf-multilayer-en_tds.pdf",
+    "tds_direct": "https://pidilitemea.com/media/5ba63-tm-stauf-multilayer-en_tds.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-floorfix-d53": {
+    "id": "pidilite-stauf-floorfix-d53",
+    "brand": "pidilite",
+    "name": "STAUF FLOORFIX D 53",
+    "category": "primers-bonding",
+    "description": "Self-levelling floor leveling compound for fine-finish cementitious subfloor preparation before wood/resilient flooring.",
+    "classification": "CT (EN 13813) self-levelling smoothing compound",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "up to 10 mm",
+    "application_areas": [
+      "Cementitious subfloor preparation",
+      "Pre-treatment under wood/resilient flooring",
+      "Interior leveling 1-10 mm"
+    ],
+    "tds_url": "https://pidilitemea.com/media/df708-stauf-d53_tds.pdf",
+    "tds_direct": "https://pidilitemea.com/media/df708-stauf-d53_tds.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-floorfix-d63": {
+    "id": "pidilite-stauf-floorfix-d63",
+    "brand": "pidilite",
+    "name": "STAUF FLOORFIX D 63",
+    "category": "primers-bonding",
+    "description": "High-performance self-levelling floor leveling compound for heavier traffic applications and greater thickness range than D 53.",
+    "classification": "CT (EN 13813) self-levelling compound",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "up to 20 mm",
+    "application_areas": [
+      "Heavy-duty cementitious leveling",
+      "Commercial/industrial floor preparation",
+      "Interior leveling 3-20 mm"
+    ],
+    "tds_url": "https://pidilitemea.com/media/37cbc-stauf-d63_tds.pdf",
+    "tds_direct": "https://pidilitemea.com/media/37cbc-stauf-d63_tds.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-stauf-floorfix-vep93": {
+    "id": "pidilite-stauf-floorfix-vep93",
+    "brand": "pidilite",
+    "name": "STAUF FLOORFIX VEP 93",
+    "category": "primers-bonding",
+    "description": "Two-component solvent-free epoxy primer and bonding agent for flooring substrates. Moisture vapor barrier on damp concrete (above 4% RH).",
+    "classification": "2K epoxy primer / moisture barrier",
+    "pack_size": [
+      "Two-component kit"
+    ],
+    "application_areas": [
+      "Damp-concrete primer (moisture barrier)",
+      "Non-porous substrate consolidation",
+      "Primer before self-levelling compounds"
+    ],
+    "tds_url": "https://pidilitemea.com/media/1daea-stauf-vep93_tds.pdf",
+    "tds_direct": "https://pidilitemea.com/media/1daea-stauf-vep93_tds.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-dr-fixit-epoxy-putty": {
+    "id": "pidilite-dr-fixit-epoxy-putty",
+    "brand": "pidilite",
+    "name": "DR. FIXIT EPOXY PUTTY (PIDIPOXY)",
+    "category": "concrete-repair",
+    "description": "Two-component epoxy putty/repair compound. High bonding, compressive and flexural strength for horizontal, vertical and overhead jobs. Bonds fresh-to-hardened concrete, anchors engine bolts and marble to plywood. Immersible permanently in water.",
+    "classification": "Two-component epoxy repair putty (EN 1504-3 equivalent)",
+    "pack_size": [
+      "1 kg kit (A+B)",
+      "5 kg kit (A+B)"
+    ],
+    "application_areas": [
+      "Filling cracks, voids, and honeycombs",
+      "Anchoring dowel bars, base plates, engine bolts",
+      "Bonding new concrete to old",
+      "Overlay protection",
+      "Overhead structural repair"
+    ],
+    "chemical_resistance": "Vegetable/mineral oils, alkalis, continuous water immersion",
+    "tds_url": "https://pidilitemea.com/brands_details/dr-fixit/downloads",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-paviland-sl-10": {
+    "id": "pidilite-paviland-sl-10",
+    "brand": "pidilite",
+    "name": "PAVILAND SL 10 / SOLERA AUTONIVELANTE",
+    "category": "flooring-systems",
+    "description": "CT C25 F5 cementitious self-levelling screed of great fluidity and normal setting. For interior self-levelling screeds 10-50 mm (bonded) or 50-100 mm (floating). Radiant heating compatible.",
+    "classification": "CT C25 F5 (EN 13813)",
+    "strength": {
+      "compressive": "\u226525 N/mm\u00b2",
+      "flexural": "\u22655 N/mm\u00b2"
+    },
+    "coverage": {
+      "value": "~1.9",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "25 kg plastic-lined paper bag"
+    ],
+    "mix_ratio": "25 kg powder : 4.1-4.6 L water",
+    "thickness_range": "10-50 mm bonded / 50-100 mm floating",
+    "application_areas": [
+      "Interior self-levelling screeds",
+      "Radiant heating floors",
+      "Pre-finish before ceramic, wood, resilient"
+    ],
+    "tds_url": "https://www.grupopuma.com/en-AE/products/show/paviland-solera-autonivelante-ae-en",
+    "gcc_site": "grupopuma.com/en-AE"
+  },
+  "pidilite-dr-fixit-fastflex": {
+    "id": "pidilite-dr-fixit-fastflex",
+    "brand": "pidilite",
+    "name": "DR. FIXIT FASTFLEX",
+    "category": "waterproofing",
+    "description": "High-performance polymer-modified flexible cementitious waterproofing membrane. Two-component system for wet areas and water-retaining structures (swimming pools, water features). Potable-water-tank rated.",
+    "classification": "Flexible cementitious waterproofing (EN 14891 CM class)",
+    "coverage": {
+      "value": "1.1",
+      "unit": "kg/m\u00b2 per coat per mm",
+      "notes": "Minimum 2 coats"
+    },
+    "pack_size": [
+      "12 kg kit (7 kg powder + 5 kg polymer)",
+      "24 kg kit"
+    ],
+    "recoat_wait": "15-30 minutes (max 8 hours before second coat)",
+    "cure_time": "7 days before water filling",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Roofs, terraces, balconies",
+      "Swimming pools, water tanks",
+      "Wet areas (bathrooms, showers)",
+      "Basement and foundation damp-proofing",
+      "Potable water tanks (non-toxic)"
+    ],
+    "certifications": [
+      "Non-toxic (potable water approved)",
+      "Crack-bridging"
+    ],
+    "tds_url": "https://pidilitemea.com/media/636db-dr-fixit-fastflex.pdf",
+    "tds_direct": "https://pidilitemea.com/media/636db-dr-fixit-fastflex.pdf",
+    "gcc_site": "pidilitemea.com"
+  },
+  "pidilite-dr-fixit-unicem-31": {
+    "id": "pidilite-dr-fixit-unicem-31",
+    "brand": "pidilite",
+    "name": "DR. FIXIT UNICEM 3.1",
+    "category": "waterproofing",
+    "description": "Two-component acrylic copolymer-based flexible cementitious waterproofing system. Crack-bridging, carbonation/chloride protection, potable-water-tank rated. For roofs, balconies, wet areas, concrete tanks.",
+    "classification": "Flexible cementitious waterproofing (EN 14891 CM O1 P)",
+    "coverage": {
+      "value": "2",
+      "unit": "kg/m\u00b2 per mm thickness",
+      "notes": "Apply in 2 coats"
+    },
+    "pack_size": [
+      "20 kg kit (15 kg powder + 5 kg liquid)"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Roofs and balconies waterproofing",
+      "Concrete water tank lining",
+      "Wet areas (showers, bathroom floors/walls)",
+      "Back-coating of natural stone and mineral cladding",
+      "Basement/foundation damp-proofing"
+    ],
+    "certifications": [
+      "Non-toxic (potable water approved)",
+      "Carbonation and chloride protection"
+    ],
+    "tds_url": "https://pidilitemea.com/brands_details/dr-fixit/downloads/1000",
+    "gcc_site": "pidilitemea.com"
+  }
+}

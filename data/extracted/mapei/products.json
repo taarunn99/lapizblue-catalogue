@@ -1,0 +1,2006 @@
+{
+  "mapei-mapeset": {
+    "id": "mapei-mapeset",
+    "brand": "mapei",
+    "name": "MAPESET",
+    "category": "tile-adhesives",
+    "description": "Cementitious adhesive with no vertical slip for internal and external bonding of ceramic tiles and mosaics, single-fired and double-fired tiles for floors and walls.",
+    "classification": "C1",
+    "classification_detail": "Normal (1) cementitious (C) adhesive (EN 12004 / ISO 13007-1)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C1 EN 12004 (\u22650.5 N/mm\u00b2)"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag"
+    ],
+    "pot_life": "6-8 hours",
+    "open_time": "> 20 minutes",
+    "grouting_wait": {
+      "walls": "4-8 hours",
+      "floors": "24 hours"
+    },
+    "light_traffic": "~24 hours",
+    "ready_for_use": "~14 days",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Internal and external walls/floors",
+      "Ceramic tiles, mosaics, single- & double-fired tiles"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapeset",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00095_mapeset_en-ae_570b20a991a04ad3b8dc8ecb4d4ae07d.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-keraset": {
+    "id": "mapei-keraset",
+    "brand": "mapei",
+    "name": "KERASET",
+    "category": "tile-adhesives",
+    "description": "Dry-set mortar for interior/exterior residential and light commercial floor and wall applications. C1 classification when mixed with water.",
+    "classification": "C1",
+    "classification_detail": "Normal cementitious adhesive (C1 with water; C2ES1P1 with Keraply additive)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Exceeds ANSI A118.1 (with water); ANSI A118.4/A118.11 (with Keraply)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "Standard",
+    "open_time": "Standard",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Interior/exterior floor and wall residential & light commercial"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/keraset",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-kerabond-t": {
+    "id": "mapei-kerabond-t",
+    "brand": "mapei",
+    "name": "KERABOND T",
+    "category": "tile-adhesives",
+    "description": "Cementitious adhesive with no vertical slip for ceramic tiles (thickness of adhesive up to 5 mm).",
+    "classification": "C1T",
+    "classification_detail": "Normal (1) slip-resistant (T) cementitious (C) adhesive (EN 12004)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2",
+      "notes": "Mosaics ~2-3, medium tiles ~4-5, large tiles >6, spot-bonding insulation 0.5-1.5"
+    },
+    "strength": {
+      "bond": "1.4 N/mm\u00b2 initial adhesion at 28 days"
+    },
+    "pack_size": [
+      "25 kg bag",
+      "4\u00d75 kg Alupack"
+    ],
+    "pot_life": "> 8 hours",
+    "open_time": "20 minutes",
+    "grouting_wait": {
+      "walls": "4-8 hours",
+      "floors": "24 hours"
+    },
+    "light_traffic": "~24 hours",
+    "ready_for_use": "~14 days",
+    "service_temp": "-30\u00b0C to +90\u00b0C",
+    "thickness_range": "up to 5 mm",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "mix_ratio": "100 parts powder : 24-26 parts water",
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Indoor/outdoor ceramic tiles and mosaics",
+      "Walls, floors, ceilings",
+      "Spot-bonding insulation"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/kerabond-t",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-kerabond-plus": {
+    "id": "mapei-kerabond-plus",
+    "brand": "mapei",
+    "name": "KERABOND PLUS",
+    "category": "tile-adhesives",
+    "description": "Improved cementitious adhesive with extended open time for bonding all types of ceramic tile and mosaic on internal and external floors, walls and ceilings.",
+    "classification": "C2E",
+    "classification_detail": "Cementitious (C), improved (2), extended open time (E). When mixed with Isolastic: C2ES2",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004 (\u22651.0 N/mm\u00b2)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "> 8 hours",
+    "open_time": "Extended",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Ordinary/suspended concrete slabs",
+      "Renders or cement mortar walls",
+      "Gypsum substrates/anhydrite with Primer G",
+      "Spot-bonding insulation"
+    ],
+    "certifications": [
+      "LGAI TT No. 16/12733-1528",
+      "LGAI TT No. 16/12733-1529"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/kerabond-plus",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider8/products-documents/1_00087_kerabond-plus_en_1c9689a0367248bfaadbdb7c8e3a29ae.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-adesilex-p7": {
+    "id": "mapei-adesilex-p7",
+    "brand": "mapei",
+    "name": "ADESILEX P7",
+    "category": "tile-adhesives",
+    "description": "High-performance cementitious adhesive with no vertical slip for ceramic and porcelain tiles. Interior and exterior bonding of ceramic tiles, porcelain and mosaics.",
+    "classification": "C2T",
+    "classification_detail": "Improved (2) slip resistant (T) cementitious (C) adhesive",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004 (\u22651.0 N/mm\u00b2)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "> 8 hours",
+    "open_time": "20 minutes",
+    "adjustability": "~60 minutes",
+    "grouting_wait": {
+      "walls": "4-8 hours",
+      "floors": "24 hours"
+    },
+    "light_traffic": "24 hours",
+    "ready_for_use": "14 days",
+    "mix_ratio": "100 parts powder : 24-26 parts water",
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Interior/exterior ceramic & porcelain tiles",
+      "Walls, floors, ceilings",
+      "Spot-bonding insulation"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/adesilex-p7",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider47/products-documents/1_61-adesilexp7-gbxes_5ead5f9c8f0d49d8becbcd20c0528763.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-adesilex-p9": {
+    "id": "mapei-adesilex-p9",
+    "brand": "mapei",
+    "name": "ADESILEX P9",
+    "category": "tile-adhesives",
+    "description": "High-performance cementitious adhesive with no vertical slip and extended open time for ceramic, vitrified and mosaic tiles, stone.",
+    "classification": "C2TE",
+    "classification_detail": "Cementitious (C), improved (2), slip resistant (T), extended open time (E)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004 (\u22651.0 N/mm\u00b2)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "> 8 hours",
+    "open_time": "30 minutes",
+    "light_traffic": "~24 hours",
+    "ready_for_use": "~14 days",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Interior/exterior ceramic, vitrified, stone, mosaics",
+      "Tile-on-tile up to 900 cm\u00b2",
+      "Small pools/basins"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/adesilex-p9",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-adesilex-p10": {
+    "id": "mapei-adesilex-p10",
+    "brand": "mapei",
+    "name": "ADESILEX P10",
+    "category": "tile-adhesives",
+    "description": "High-performance cementitious adhesive for glass/ceramic/vitrified/marble mosaic and stone tiles.",
+    "classification": "C2TE",
+    "classification_detail": "Improved (2) slip-resistant (T) cementitious (C) extended open time (E)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white"
+    ],
+    "application_areas": [
+      "Mesh-backed glass/ceramic/vitrified/marble mosaics",
+      "Ceramic tiles and natural stone"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/adesilex-p10",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-keraflex": {
+    "id": "mapei-keraflex",
+    "brand": "mapei",
+    "name": "KERAFLEX",
+    "category": "tile-adhesives",
+    "description": "Cementitious adhesive with good deformability, excellent bond, high performance, extended open time and no vertical slip. Suitable for ceramic and natural stone, perfect for mosaic.",
+    "classification": "C2TE",
+    "classification_detail": "Improved (2) slip-resistant (T) cementitious (C) extended open time (E)",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "> 8 hours",
+    "open_time": "30 minutes",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EMICODE EC1 R Plus",
+      "LEED credits"
+    ],
+    "application_areas": [
+      "Interior/exterior floors & walls",
+      "Ceramic, natural stone, mosaic",
+      "Over existing ceramic",
+      "Heated floors, waterproofed surfaces"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/keraflex",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-keraflex-maxi-s1-zero": {
+    "id": "mapei-keraflex-maxi-s1-zero",
+    "brand": "mapei",
+    "name": "KERAFLEX MAXI S1 ZERO",
+    "category": "tile-adhesives",
+    "description": "High-performance, deformable, grey and ultra-white cementitious adhesive with no vertical slip, extended open time, and Low Dust technology. Carbon-neutral product (CO2 offset via certified carbon credits). Designed for ceramic and natural stone tiles, excellent for large-format tiles.",
+    "classification": "C2TE S1",
+    "classification_detail": "Cementitious (C), improved (2), slip-resistant (T), extended open time (E), deformable (S1)",
+    "coverage": {
+      "value": "Varies by notch",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004",
+      "deformability": "S1: transversal deformability \u2265 2.5 mm"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "~8 hours",
+    "open_time": "\u2265 30 minutes",
+    "thickness_range": "3-15 mm",
+    "colors": [
+      "grey",
+      "ultra-white"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus",
+      "LEED credits",
+      "Marine Industry certified",
+      "EPD verified",
+      "Carbon-neutral"
+    ],
+    "application_areas": [
+      "Large-format ceramic & natural stone",
+      "High-thickness applications",
+      "Marine applications"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/keraflex-maxi-s1-zero",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00056_keraflex-maxi-s1-zero_en-ae_4b98364cc07a4dd6b4da1496e999d941.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultralite-s2-flex": {
+    "id": "mapei-ultralite-s2-flex",
+    "brand": "mapei",
+    "name": "ULTRALITE S2 FLEX",
+    "category": "tile-adhesives",
+    "description": "One-component, high-performance, highly deformable, lightweight cementitious adhesive with extended open time, Low Dust technology and extremely high yield. Specifically for large-format tiles including external facades and insulation systems.",
+    "classification": "C2 TE S2",
+    "classification_detail": "Cementitious (C), improved (2), anti-slip (T), extended open time (E), highly deformable (S2)",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2",
+      "notes": "Lightweight \u2014 13.5 kg bag = same volume as 20 kg standard bag"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004",
+      "deformability": "S2: transversal deformability \u2265 5 mm"
+    },
+    "pack_size": [
+      "13.5 kg bag"
+    ],
+    "thickness_range": "up to 10 mm per pass",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EMICODE (very low VOC)",
+      "LEED credits",
+      "LGAI TT 21/32302496",
+      "LGAI TT 21/32302497"
+    ],
+    "application_areas": [
+      "Large-format porcelain tiles (incl. thin)",
+      "External facades & thermal insulation",
+      "Swimming pools, basins",
+      "Mapetherm Tile System XL"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultralite-s2-flex",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider51/products-documents/1_02866_ultralite-s2-flex_en_0f7dcb26a192411d88bac1c31a545a18.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-granirapid": {
+    "id": "mapei-granirapid",
+    "brand": "mapei",
+    "name": "GRANIRAPID",
+    "category": "tile-adhesives",
+    "description": "Two-component, rapid-setting cementitious adhesive for bonding ceramic tiles and stone with extraordinary bonding and fast-setting characteristics. Suitable for rapid re-tiling where flooring must be ready within short times.",
+    "classification": "C2F S1",
+    "classification_detail": "Improved (2) fast-setting (F) cementitious (C) deformable (S1)",
+    "coverage": {
+      "value": "Varies by notch",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets C2 EN 12004",
+      "deformability": "S1"
+    },
+    "pack_size": [
+      "25 kg Part A (grey) + liquid",
+      "22.5 kg Part A (white) + liquid"
+    ],
+    "pot_life": "~45 minutes at +20\u00b0C",
+    "light_traffic": "3 hours",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus",
+      "LGAI TT 85330201.101",
+      "TUM 25070279/Gi"
+    ],
+    "application_areas": [
+      "Supermarkets, factories, malls (rapid re-tiling)",
+      "Natural stone incl. green marble",
+      "Artificial/conglomerate marble",
+      "Walls/floors under movement"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/granirapid",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider52/products-documents/1_00113_granirapid_en-sg_2e2cdd9b3e8d4bb1a731a856ffde7766.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-keralastic-t": {
+    "id": "mapei-keralastic-t",
+    "brand": "mapei",
+    "name": "KERALASTIC T",
+    "category": "tile-adhesives",
+    "description": "Two-component high-performance polyurethane adhesive (thixotropic version) for ceramic tiles and stone. Particularly suitable for vertical applications. Essential for natural stone/agglomerates subject to movement and moisture.",
+    "classification": "R2T",
+    "classification_detail": "Improved (2) reaction resin (R) polyurethane adhesive with no vertical slip (T)",
+    "coverage": {
+      "value": "2.5-5",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets R2 EN 12004"
+    },
+    "pack_size": [
+      "5 kg unit (A+B)",
+      "10 kg unit (A+B)"
+    ],
+    "mix_ratio": "A : B = 94 : 6 by weight",
+    "open_time": "50 minutes",
+    "grouting_wait": "12 hours",
+    "light_traffic": "~12 hours",
+    "ready_for_use": "~7 days",
+    "deformability": "Highly deformable",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "shelf_life": "24 months",
+    "certifications": [
+      "CE marked",
+      "TUM 25040320/Gi",
+      "TUM 25040471/Gi"
+    ],
+    "application_areas": [
+      "Interior/exterior walls/floors",
+      "Ceramic, natural stone, agglomerates, mosaic",
+      "Metal, wood, fibre-cement, rubber, PVC, linoleum",
+      "Moisture-sensitive stones/marble"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/keralastic-t",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-kerapoxy-adhesive": {
+    "id": "mapei-kerapoxy-adhesive",
+    "brand": "mapei",
+    "name": "KERAPOXY ADHESIVE",
+    "category": "tile-adhesives",
+    "description": "Two-component, epoxy resin-based, high-strength adhesive with silica sand. Thixotropic mix for internal/external bonding of ceramic, porcelain and stone to floors and walls at thicknesses up to 1 cm in a single coat.",
+    "classification": "R2T",
+    "classification_detail": "Improved (2) reaction resin (R) with no vertical slip (T)",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2"
+    },
+    "strength": {
+      "bond": "Meets R2 EN 12004",
+      "compressive": "High (epoxy)"
+    },
+    "pack_size": [
+      "10 kg kit (A+B)"
+    ],
+    "thickness_range": "Up to 10 mm in one coat",
+    "application_areas": [
+      "Internal/external ceramic, porcelain, stone",
+      "Walls, floors, chemically aggressive environments",
+      "Food industry, marine environments"
+    ],
+    "certifications": [
+      "CE marked",
+      "TUM 25070399/Gi",
+      "2008-B-2748/4.1, 2008-B-2748/5.1, 2008-B-2748/6.1"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/kerapoxy-adhesive",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider38/products-documents/1_00144_kerapoxy-adhesive_en_b0133944ce2a42429c861a2298a71fce.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapecryll-eco": {
+    "id": "mapei-mapecryll-eco",
+    "brand": "mapei",
+    "name": "MAPECRYLL ECO",
+    "category": "tile-adhesives",
+    "description": "Ready-to-use, high-performance, paste tile adhesive for indoor wall tiling. Solvent-free, very low VOC emissions (EMICODE EC1 Plus).",
+    "classification": "D2TE",
+    "classification_detail": "Improved (2) dispersion adhesive (D) with no vertical slip (T) and extended open time (E)",
+    "coverage": {
+      "value": "~1.3-1.7",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg tub",
+      "12 kg tub"
+    ],
+    "pot_life": "Ready to use - unlimited",
+    "open_time": "> 30 minutes",
+    "light_traffic": "24-48 hours",
+    "ready_for_use": "~14 days",
+    "colors": [
+      "white"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Interior wall tiling",
+      "Ceramic, mosaic, glass mosaic",
+      "Plaster/plasterboard walls"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapecryll-eco",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-adesilex-g19": {
+    "id": "mapei-adesilex-g19",
+    "brand": "mapei",
+    "name": "ADESILEX G19",
+    "category": "tile-adhesives",
+    "description": "Two-component epoxy-polyurethane adhesive for bonding rubber, PVC, vinyl, textile, and linoleum floor coverings. Specifically developed for rubber athletic tracks and areas under heavy mechanical stress.",
+    "classification": "Two-component epoxy-polyurethane (not classified under EN 12004)",
+    "classification_detail": "Solvent-free, two-part epoxy-polyurethane adhesive",
+    "coverage": {
+      "value": "~2",
+      "unit": "kg/m\u00b2",
+      "notes": "~20 m\u00b2/10 kg; 10 m\u00b2/5 kg; 4 m\u00b2/2 kg"
+    },
+    "pack_size": [
+      "2 kg",
+      "5 kg",
+      "10 kg kits"
+    ],
+    "setting_time": "~24 hours (full chemical cure without shrinkage)",
+    "colors": [
+      "beige"
+    ],
+    "application_areas": [
+      "Rubber athletic tracks",
+      "PVC, vinyl, rubber, linoleum flooring",
+      "Non-absorbent/moisture-sensitive substrates",
+      "Industrial floors under heavy traffic"
+    ],
+    "notes": "Also available as ADESILEX G19 FR (fire-resistant EN 45545-2 HL1-HL2) and ADESILEX G19 FAST (rapid setting)",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/adesilex-g19",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider2/products-documents/1_00252_adesilex-g19_en_05f528c6a1b049b1b2ea1d28a795ffe0.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-keracolor-ff": {
+    "id": "mapei-keracolor-ff",
+    "brand": "mapei",
+    "name": "KERACOLOR FF",
+    "category": "tile-grouts",
+    "description": "High-performance, polymer-modified cementitious mortar with water-repellent DropEffect\u00ae technology for grouting joints up to 6 mm. Suitable for interior/exterior floors and walls.",
+    "classification": "CG2 WA",
+    "classification_detail": "Improved (2) cementitious (CG) grout with reduced water absorption (W) and high abrasion resistance (A). EN 13888 / ISO 13007-3",
+    "joint_width": "up to 6 mm",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2",
+      "notes": "Depends on joint width, tile size and thickness"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag",
+      "5 kg Alupak",
+      "2 kg Alupak"
+    ],
+    "pot_life": "~2 hours",
+    "finishing_wait": "10-20 minutes",
+    "light_traffic": "24 hours",
+    "ready_for_use": "7 days",
+    "colors": [
+      "14 colours from MAPEI range"
+    ],
+    "mix_ratio": "100 parts powder : 25-29 parts water (colour-dependent)",
+    "certifications": [
+      "EMICODE EC1 R Plus",
+      "DropEffect\u00ae water-repellent"
+    ],
+    "application_areas": [
+      "Ceramic tiles, stone, glass/marble mosaics",
+      "Interior/exterior floors and walls",
+      "Swimming pools (with Fugolastic)",
+      "Polished porcelain, polished marble",
+      "Industrial flooring (non-chemical)"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/keracolor-ff",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider44/products-documents/1_00131_keracolor-ff_en_7edc742e31d3403f99718b3a7802fc76.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultracolor-plus": {
+    "id": "mapei-ultracolor-plus",
+    "brand": "mapei",
+    "name": "ULTRACOLOR PLUS",
+    "category": "tile-grouts",
+    "description": "High-performance, quick-setting, polymer-modified, Portland-cement-free cementitious grout with water-repellent DropEffect\u00ae and anti-mould BioBlock\u00ae technology. For joints 2-20 mm. Anti-efflorescence.",
+    "classification": "CG2 WA",
+    "classification_detail": "Improved (2) cementitious (CG) grout, reduced water absorption (W), high abrasion resistance (A). EN 13888 / ISO 13007-3 CG2WAF",
+    "joint_width": "2-20 mm",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg Alupack (4x5 kg boxes)"
+    ],
+    "pot_life": "20-25 minutes",
+    "application_temp": "+5\u00b0C to +35\u00b0C",
+    "light_traffic": "~3 hours",
+    "colors": [
+      "34 colours from MAPEI range"
+    ],
+    "mix_ratio": "100 parts powder : 21-23 parts water",
+    "certifications": [
+      "EMICODE EC1 Plus",
+      "DropEffect\u00ae",
+      "BioBlock\u00ae anti-mould",
+      "CO2 offset line",
+      "EPD S-P-07051 / S-P-07044"
+    ],
+    "application_areas": [
+      "All types of ceramic, stone, glass/marble mosaic",
+      "Swimming pools, facades, balconies, terraces",
+      "High-traffic commercial floors",
+      "Residential hotels and houses"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultracolor-plus",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider26/products-documents/1_2801_ultracolorplus__gb_f3ca3cd73f6341819d68bd1c6526a116.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-kerapoxy": {
+    "id": "mapei-kerapoxy",
+    "brand": "mapei",
+    "name": "KERAPOXY",
+    "category": "tile-grouts",
+    "description": "Two-component acid-resistant high-performance epoxy grout for grouting ceramic tiles and stone material. For joints of at least 3 mm. Also usable as an adhesive.",
+    "classification": "RG",
+    "classification_detail": "Reactive resin (R) grout (G), high chemical resistance. EN 13888",
+    "joint_width": "\u2265 3 mm",
+    "coverage": {
+      "value": "Varies (grouting); 2-4 kg/m\u00b2 (bonding)",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg unit",
+      "10 kg unit",
+      "12\u00d72 kg boxes"
+    ],
+    "pot_life": "45 minutes",
+    "light_traffic": "24 hours",
+    "ready_for_use": "4 days (chemical exposure after 4 days)",
+    "colors": [
+      "15 colours"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus",
+      "CE marked",
+      "Acid-resistant"
+    ],
+    "application_areas": [
+      "Industrial flooring under chemical attack",
+      "Food industry, swimming pools (saline)",
+      "Laboratories, pharmaceutical facilities",
+      "Grouting + tile bonding dual-use"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/kerapoxy",
+    "gcc_site": "mapei.com/ae/en",
+    "shelf_life": "24 months"
+  },
+  "mapei-mapegrout-me-05": {
+    "id": "mapei-mapegrout-me-05",
+    "brand": "mapei",
+    "name": "MAPEGROUT ME05",
+    "category": "concrete-repair",
+    "description": "Pre-blended powder of selected cement, aggregates, and special additives designed to be shrinkage compensated. Forms a fluid micro-concrete for pouring/pumping into formwork without segregation. For pile cap treatment, column jacketing, and structural repair.",
+    "classification": "EN 1504-3 / EN 1504-6 / EN 1504-9 structural micro-concrete",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2 per mm thickness",
+      "notes": "For voids up to 220 mm"
+    },
+    "strength": {
+      "compressive": "High (structural grade, R4 class typical)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "mix_ratio": "3.1-3.3 L water per 25 kg (or with Mapecure SRA)",
+    "application_areas": [
+      "Pile cap/head treatment",
+      "Column jacketing",
+      "Deep structural repair",
+      "Void filling up to 220 mm"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapegrout-me05",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00497_mapegrout-me05_en-ae_dc8335e6689643aca05021d68f6aeafb.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapegrout-me-06": {
+    "id": "mapei-mapegrout-me-06",
+    "brand": "mapei",
+    "name": "MAPEGROUT ME06",
+    "category": "concrete-repair",
+    "description": "High-strength, shrinkage-compensated, super-flow micro-concrete. Used for structural repair where thickness and deterioration require high-flow concrete, and for grouting gaps 30-250 mm thick.",
+    "classification": "EN 1504-3 structural micro-concrete",
+    "coverage": {
+      "value": "Varies",
+      "unit": "kg/m\u00b2 per mm thickness",
+      "notes": "For voids up to 250 mm"
+    },
+    "strength": {
+      "compressive": "High structural grade"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "yield": "12.3 L per 25 kg bag",
+    "mix_ratio": "100 parts powder : 12.4-13.6 parts water (3.1-3.4 L per bag)",
+    "application_areas": [
+      "Structural repair with high flow",
+      "Grouting 30-250 mm gaps",
+      "Micro-concrete jacketing"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapegrout-me-06",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00485_mapegrout-me-06_en-ae_ee8246496c5b4fea9e9bcb61feace947.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapegrout-t60-me": {
+    "id": "mapei-mapegrout-t60-me",
+    "brand": "mapei",
+    "name": "MAPEGROUT T60 ME",
+    "category": "concrete-repair",
+    "description": "Thixotropic, sulphate and chloride resistant, fibre-reinforced structural repair mortar. For repairs to new and old concrete structures subject to aggressive atmospheric conditions including chloride and sulphate attack.",
+    "classification": "EN 1504-3 R4 class structural repair mortar",
+    "coverage": {
+      "value": "1.85",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "strength": {
+      "compressive": "60 MPa at 28 days"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "1 hour",
+    "final_set": "12-16 hours at +20\u00b0C",
+    "yield": "12.6 L per 25 kg bag",
+    "thickness_range": "Up to 50 mm/layer (vertical), 20 mm/layer (ceiling, no formwork)",
+    "mix_ratio": "100 parts powder : 15 parts water + 0.25% Mapecure SRA",
+    "application_areas": [
+      "Vertical concrete surface repair",
+      "Columns, balconies, soffits",
+      "Sulphate-attack environments",
+      "Tunnel linings, canal linings"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapegrout-t60-me",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapegrout-t80-me": {
+    "id": "mapei-mapegrout-t80-me",
+    "brand": "mapei",
+    "name": "MAPEGROUT T80 ME",
+    "category": "concrete-repair",
+    "description": "Single-component sulphate and chloride resistant, fibre-reinforced thixotropic mortar for repair of concrete. Higher strength version of T60. Suitable for new/old concrete subject to chloride and sulphate attack.",
+    "classification": "EN 1504-3 R4 class structural repair mortar",
+    "coverage": {
+      "value": "~1.9",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "strength": {
+      "compressive": "~80 MPa at 28 days"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "~1 hour at +20\u00b0C",
+    "yield": "13 L per 25 kg bag",
+    "thickness_range": "10-60 mm in a single layer",
+    "mix_ratio": "100 parts powder : 15-17 parts water + 0.25% Mapecure SRA",
+    "application_areas": [
+      "Heavy-duty structural repair",
+      "Vertical surfaces, overhead soffits",
+      "Aggressive environments"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapegrout-t80-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00481_mapegrout-t80-_en-ae_eb10721667824069b5b331f2aea9b7d0.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapefill-gp-me": {
+    "id": "mapei-mapefill-gp-me",
+    "brand": "mapei",
+    "name": "MAPEFILL GP ME",
+    "category": "concrete-repair",
+    "description": "Pre-blended powdered grout based on high-strength cement, graded aggregates (1.2 mm diameter) and special additives with an expansive agent. Total absence of shrinkage (ASTM C940) in the plastic phase. Very highly fluid grout for filling intricate spaces.",
+    "classification": "EN 1504-9 / EN 1504-6 compliant (general purpose non-shrink grout)",
+    "coverage": {
+      "value": "~2.2",
+      "unit": "kg/m\u00b2 per mm thickness",
+      "notes": "13-14 L yield per 25 kg bag"
+    },
+    "strength": {
+      "compressive": "High early flexural and compressive strength"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "yield": "13-14 L per 25 kg bag",
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Filling gaps in precast elements",
+      "Grouting base plates and bridge bearings",
+      "Anchoring mechanical equipment and steel bars",
+      "Underpinning, pressure grouting"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapefill-gp-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00479_mapefill-gp-me_en-ae_e9eb5b5de7254a94850742688c2bf356.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapefill-sp-me": {
+    "id": "mapei-mapefill-sp-me",
+    "brand": "mapei",
+    "name": "MAPEFILL SP ME",
+    "category": "concrete-repair",
+    "description": "Pre-blended powdered grout with high-strength cement, graded aggregates and expansive agent. Very high early strength. Total absence of shrinkage in plastic phase (ASTM C940) and expansion in hardened phase (ASTM C878). For precision anchoring.",
+    "classification": "Non-shrink precision grout (ASTM C940, ASTM C878)",
+    "coverage": {
+      "value": "~2.0",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "strength": {
+      "compressive": "Very high early compressive strength"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "yield": "13-14 L per 25 kg bag",
+    "thickness_max": "60 mm (single pour for connecting precast elements)",
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Precision anchoring of machinery",
+      "Steel and concrete structures",
+      "Base plates, bridge bearings",
+      "Small-gap filling <100 mm"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapefill-sp-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00478_mapefill-sp-me_en-ae_82a1d7de6c2f4760bb574f8d1b24bcbe.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-planitop-110-me": {
+    "id": "mapei-planitop-110-me",
+    "brand": "mapei",
+    "name": "PLANITOP 110 ME",
+    "category": "concrete-repair",
+    "description": "Single-component, normal setting cementitious mortar for smoothing concrete surfaces. Protection, smoothing and levelling of concrete surface imperfections up to 2 mm in a single application. Fine-aggregate mortar with synthetic polymers.",
+    "classification": "EN 1504-3 class R2 (non-structural repair mortar)",
+    "coverage": {
+      "value": "1.2",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "~1 hour",
+    "thickness_max": "2 mm per single application",
+    "yield": "16.4 L per 20 kg bag",
+    "mix_ratio": "100 parts powder : 31-32 parts water (6.2-6.4 L per bag)",
+    "application_areas": [
+      "Smoothing blemishes on vertical surfaces",
+      "Filling blowholes in concrete",
+      "Surface levelling before coatings"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/planitop-110-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_01141_planitop-110-me-_en-ae_5e40bff6fcdf485d960267e475651b6c.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-adesilex-pg2-tg": {
+    "id": "mapei-adesilex-pg2-tg",
+    "brand": "mapei",
+    "name": "ADESILEX PG2 TG",
+    "category": "concrete-repair",
+    "description": "Two-component epoxy resin-based structural bonding adhesive with fine-grain aggregates. Thixotropic, applicable on vertical surfaces up to 1 cm in single layer. Hardens without shrinkage. Specifically for high temperatures (+25\u00b0C to +50\u00b0C).",
+    "classification": "EN 1504-4 structural bonding",
+    "pot_life": "~50 min at +23\u00b0C; 20 min at +50\u00b0C",
+    "thickness_max": "10 mm in single layer",
+    "application_temp": "+25\u00b0C to +50\u00b0C (high-temperature formulation)",
+    "application_areas": [
+      "Structural repair, bonding and reinforcement",
+      "Bonding fresh concrete to hardened concrete",
+      "Segmental bridge elements",
+      "Plate-bonding reinforcement"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/adesilex-pg2-tg",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider21/products-documents/1_00379_adesilex-pg2-tg_en-my_e94b27db500a4d658e20a8229fcc06ca.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapefix-ep-100": {
+    "id": "mapei-mapefix-ep-100",
+    "brand": "mapei",
+    "name": "MAPEFIX EP 100",
+    "category": "concrete-repair",
+    "description": "Two-component pure epoxy resin chemical anchor. Certified for threaded bar and rebar in rough or smooth (core-drilled) holes in all types of building materials. Certified for seismic loads (C1 and C2 classes). Suitable for damp/wet/underwater holes.",
+    "classification": "ETA Option 1 (tension/compression), Option 7, REBAR, seismic C1/C2; CE marked",
+    "strength": {
+      "compressive": "122 MPa after final hardening"
+    },
+    "pack_size": [
+      "585 ml cartridge",
+      "385 ml cartridge"
+    ],
+    "pot_life": "30 min at +20\u00b0C",
+    "final_set": "10-12 hours dry substrate, 20-24 hours wet substrate (at +20\u00b0C)",
+    "certified_bars": "M8-M30; \u00d88-\u00d840",
+    "application_areas": [
+      "Threaded bar anchoring",
+      "Rebar post-installation",
+      "Seismic-rated anchoring (C1, C2)",
+      "Underwater/damp concrete anchoring",
+      "Structural strengthening"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapefix-ep-100",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider58/products-documents/1_5da92fe3-08bd-4cdc-a163-08da2d9a240f-pdf_89433f5b9aaa487bbefd493a1f7c0a3b.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-planigrout-300-me": {
+    "id": "mapei-planigrout-300-me",
+    "brand": "mapei",
+    "name": "PLANIGROUT 300 ME",
+    "category": "concrete-repair",
+    "description": "Three-component, multi-purpose fluid epoxy resin grout with selected well-graded aggregates. Free flowing, specifically developed for heavy-duty structural support under static and dynamic loads.",
+    "classification": "EN 1504-6 (anchoring steel reinforcement)",
+    "coverage": {
+      "value": "2.2",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "pack_size": [
+      "50.6 kg kit (A=4.8kg + B=1.8kg + C=2\u00d722kg)",
+      "25.3 kg kit (A=2.4kg + B=0.9kg + C=22kg)"
+    ],
+    "pot_life": "1 hour",
+    "hardening": "~8 hours at +23\u00b0C (without shrinkage)",
+    "thickness_max": "5 cm per layer",
+    "aggregate_size": "5.0 mm max",
+    "application_temp": "+5\u00b0C to +40\u00b0C",
+    "mix_ratio": "A:B:C = 4.8 : 1.8 : 44",
+    "application_areas": [
+      "Grouting under rotating equipment (pumps, machines)",
+      "Crane/transporter rails",
+      "Large void filling in concrete",
+      "Foundations for heavy machinery",
+      "Bridge beam bearings",
+      "Structural tie-rods/bolts"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/planigrout-300-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_00382_planigrout-300-me-_en-ae_edc817b16f9c4936a65bb1f4bf29dbe6.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-planigrout-300-me-pct": {
+    "id": "mapei-planigrout-300-me-pct",
+    "brand": "mapei",
+    "name": "PLANIGROUT 300 ME PCT",
+    "category": "concrete-repair",
+    "description": "Three-component, castable, impermeable epoxy grout for pile cap treatment (PCT). Specifically for treatment of pile heads with Mapeplan range of synthetic membranes and other waterproofing materials.",
+    "classification": "EN 1504-6 structural; impermeable epoxy grout (PCT-rated)",
+    "coverage": {
+      "value": "2.2",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "pack_size": [
+      "60.6 kg kit (A=4.8kg + B=1.8kg + C=2\u00d727kg)"
+    ],
+    "pot_life": "1 hour",
+    "thickness_max": "5 cm per layer",
+    "application_areas": [
+      "Pile cap treatment (PCT)",
+      "Pile head treatment with waterproofing membranes",
+      "Under Mapeplan and other synthetic membrane systems"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/planigrout-300-me-pct",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-eporip": {
+    "id": "mapei-eporip",
+    "brand": "mapei",
+    "name": "EPORIP",
+    "category": "concrete-repair",
+    "description": "Two-component solvent-free epoxy adhesive for monolithic sealing of cracks in screeds and for bonding of fresh concrete to hardened concrete (cold construction joints).",
+    "classification": "EN 1504-4 structural bonding of concrete",
+    "pack_size": [
+      "10 kg kit (A+B)",
+      "2 kg kit (A+B)"
+    ],
+    "pot_life": "60 minutes",
+    "open_time": "5 hours",
+    "setting_time": "24 hours",
+    "application_areas": [
+      "Monolithic crack sealing in screeds",
+      "Cold construction joints (fresh-to-old concrete bonding)",
+      "Structural bonding"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/eporip",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapelastic-smart": {
+    "id": "mapei-mapelastic-smart",
+    "brand": "mapei",
+    "name": "MAPELASTIC SMART",
+    "category": "waterproofing",
+    "description": "Two-component, high-flexibility cementitious mortar with crack-bridging >2 mm. For waterproofing balconies, terraces, bathrooms, swimming pools, water tanks, potable water structures. Applied by trowel/roller/spray.",
+    "classification": "CM O1 P (EN 14891); EN 1504-2 (C) PI-MC-IR",
+    "coverage": {
+      "value": "1.6 (trowel/roller) or 2.2 (spray)",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "strength": {
+      "crack_bridging": ">2 mm",
+      "elongation": "170% (Class II AS/NZS 4858)"
+    },
+    "pack_size": [
+      "30 kg kit (A=20 kg bag + B=10 kg drum)"
+    ],
+    "pot_life": "60 minutes",
+    "recoat_wait": "4-5 hours between coats",
+    "tile_wait": "5 days before tiling",
+    "flood_test_wait": "3 days minimum",
+    "full_immersion_wait": "5 days minimum",
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "EN 1504-2",
+      "EN 14891",
+      "AS/NZS 4020:2018 potable water",
+      "AS/NZS 4858:2004 Class II",
+      "UV-resistant",
+      "EC1 Plus (0 g/L VOC)"
+    ],
+    "application_areas": [
+      "Balconies, terraces, bathrooms",
+      "Swimming pools, channels, dams, water tanks",
+      "Irregular surfaces, crazed/crack-susceptible concrete",
+      "Protection of new/repaired concrete"
+    ],
+    "reinforcement": "Mapetex Sel N or Mapenet 150 mesh",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapelastic-smart",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapelastic-easy": {
+    "id": "mapei-mapelastic-easy",
+    "brand": "mapei",
+    "name": "MAPELASTIC EASY",
+    "category": "waterproofing",
+    "description": "Two-component acrylic-modified cementitious, flexible waterproof coating easy to apply. For waterproofing balconies, terraces, and bathrooms.",
+    "classification": "CM O1 P (EN 14891) / EN 1504-2",
+    "coverage": {
+      "value": "~1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "24 kg kit"
+    ],
+    "pot_life": "~60 minutes",
+    "colors": [
+      "grey"
+    ],
+    "application_areas": [
+      "Balconies, terraces",
+      "Bathrooms, showers",
+      "Wet area floors/walls before tiling"
+    ],
+    "shelf_life_a": "12 months",
+    "shelf_life_b": "24 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapelastic-easy",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapelastic-aquadefense": {
+    "id": "mapei-mapelastic-aquadefense",
+    "brand": "mapei",
+    "name": "MAPELASTIC AQUADEFENSE",
+    "category": "waterproofing",
+    "description": "Ready-to-use, ultra-quick-drying, flexible one-component liquid rubber membrane for internal and external waterproofing. Light blue synthetic resin paste in water dispersion. Dries in 30-50 minutes; flood-testable in 12 hours.",
+    "classification": "ANSI A118.10-LV and A118.12; AS/NZS 4858:2004 Class III; AS 4654.1-2012",
+    "coverage": {
+      "value": "1.3",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "strength": {
+      "crack_bridging": "3.2 mm (at +23\u00b0C, no reinforcement)"
+    },
+    "pack_size": [
+      "7.5 kg drum",
+      "15 kg drum"
+    ],
+    "recoat_wait": "~1 hour between first and second coat",
+    "tile_wait": "3-4 hours (C2F adhesive: tiles + grout then 12 hr to foot traffic)",
+    "colors": [
+      "light green"
+    ],
+    "min_thickness": "0.8 mm in 2 coats",
+    "shelf_life": "24 months",
+    "application_temp": "+5\u00b0C to +35\u00b0C",
+    "certifications": [
+      "AS/NZS 4858:2004 Class III",
+      "ANSI A118.10-LV, A118.12",
+      "IAPMO-listed shower-pan liner"
+    ],
+    "application_areas": [
+      "Residential, commercial, industrial wet areas",
+      "Under tile/stone installations",
+      "Shower pans, balconies/decks (with primary membrane)",
+      "Steam rooms, steam showers"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapelastic-aquadefense",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapetex-sel-n": {
+    "id": "mapei-mapetex-sel-n",
+    "brand": "mapei",
+    "name": "MAPETEX SEL N",
+    "category": "waterproofing",
+    "description": "Non-woven polypropylene reinforcement fabric for use with Mapelastic Turbo and Mapelastic Smart flexible cementitious waterproofing membranes. Improves toughness, punch-resistance, elongation and crack-bridging.",
+    "classification": "Synthetic reinforcement fabric",
+    "pack_size": [
+      "25 m \u00d7 1 m rolls"
+    ],
+    "application_areas": [
+      "Reinforcement for Mapelastic Turbo and Mapelastic Smart systems",
+      "Concrete surfaces under deformation stress",
+      "Crack-bridging improvement"
+    ],
+    "installation": "Embed between first and second coat of Mapelastic membrane; overlap 5 cm minimum",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapetex-sel-n",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-purtop-easy": {
+    "id": "mapei-purtop-easy",
+    "brand": "mapei",
+    "name": "PURTOP EASY",
+    "category": "waterproofing",
+    "description": "One-component, elastic polyurethane waterproofing membrane in thick-liquid form for flat roofs, terraces, and balconies. Forms a seamless continuous membrane.",
+    "classification": "One-component elastic polyurethane liquid waterproofing",
+    "coverage": {
+      "value": "2.0",
+      "unit": "kg/m\u00b2",
+      "notes": "~1.5 mm dry coat thickness"
+    },
+    "pack_size": [
+      "15 kg drum"
+    ],
+    "recoat_wait": "24 hours at +23\u00b0C",
+    "colors": [
+      "white",
+      "grey",
+      "red"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Flat roofs",
+      "Terraces, balconies",
+      "Waterproofing of old bituminous membranes",
+      "Wet areas"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/purtop-easy",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-plastimul-dpc": {
+    "id": "mapei-plastimul-dpc",
+    "brand": "mapei",
+    "name": "PLASTIMUL DPC",
+    "category": "waterproofing",
+    "description": "Bitumen waterproofing emulsion for foundations and below-ground applications. Damp Proof Course formulation.",
+    "classification": "Bitumen/rubber waterproofing emulsion (foundations/DPC)",
+    "coverage": {
+      "value": "~3-5",
+      "unit": "m\u00b2/L per coat"
+    },
+    "pack_size": [
+      "20 L drum",
+      "200 L drum"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Foundations, below-ground walls",
+      "Damp proof courses (DPC)",
+      "Protection of buried concrete"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/plastimul-dpc",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-plastimul-dpm": {
+    "id": "mapei-plastimul-dpm",
+    "brand": "mapei",
+    "name": "PLASTIMUL DPM",
+    "category": "waterproofing",
+    "description": "Bitumen/rubber latex flexible waterproofing emulsion. Solvent-free emulsion of selected water-emulsified bitumen, rubber latex, special fillers. Flexible waterproof coating resistant to re-emulsifying after prolonged immersion in slightly acid/alkaline water.",
+    "classification": "Bitumen/rubber latex flexible waterproofing emulsion",
+    "coverage": {
+      "value": "3-5",
+      "unit": "m\u00b2 per litre per coat"
+    },
+    "pack_size": [
+      "20 L drum",
+      "200 L drum"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Foundations, retaining walls, below ground",
+      "Flat roofs (as DPM)",
+      "Waterproofing vertical and sloping surfaces",
+      "Curing membrane on damp/green concrete"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/plastimul-dpm",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_07620_plastimul-dpm_en-ae_e51e22d85cf5408ea8eb9f736eb4e4af.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-aquaflex-roof-hr": {
+    "id": "mapei-aquaflex-roof-hr",
+    "brand": "mapei",
+    "name": "AQUAFLEX ROOF HR",
+    "category": "waterproofing",
+    "description": "Ready-to-use, white, high-reflectance liquid waterproofing membrane for external applications. Synthetic resin in water dispersion. Forms a continuous flexible membrane. SRI 105 (cool roof). UV-resistant.",
+    "classification": "EN 1504-2 coating (C) PI-MC-IR / liquid-applied reflective waterproofing",
+    "coverage": {
+      "value": "~1.5-2.0",
+      "unit": "kg/m\u00b2 (applied in 2 coats)"
+    },
+    "pack_size": [
+      "20 kg drum"
+    ],
+    "recoat_wait": "8-12 hours between first and second coat",
+    "colors": [
+      "white"
+    ],
+    "application_temp": "+5\u00b0C to +35\u00b0C",
+    "certifications": [
+      "SRI 105 (solar reflectance)",
+      "LEED contribution (heat island)",
+      "EN 1504-2"
+    ],
+    "application_areas": [
+      "Cool roof over bituminous membrane",
+      "Roof, terrace, balcony waterproofing",
+      "External coating over ceramic, concrete, metal"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/aquaflex-roof-hr",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider29/products-documents/1_02152_aquaflex-roof-hr_en_8698b1172310455aae3c2bb8f9db8bce.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-planiseal-88": {
+    "id": "mapei-planiseal-88",
+    "brand": "mapei",
+    "name": "PLANISEAL 88",
+    "category": "waterproofing",
+    "description": "One-component osmotic mortar composed of cement-based compound, selected graded aggregates and special synthetic resins. Waterproofs even in presence of negative water pressure (up to 1 atm). Certified for potable water contact.",
+    "classification": "Osmotic (crystalline) cementitious waterproofing \u2014 negative pressure rated",
+    "coverage": {
+      "value": "~1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "certifications": [
+      "AS/NZS 4020:2018 potable water certified",
+      "Negative pressure resistant to 1 atm"
+    ],
+    "application_areas": [
+      "Underground masonries with water seepage",
+      "Basements, water tanks, reservoirs",
+      "Potable water tanks and pipes",
+      "Sewage water tanks",
+      "Swimming pool bases"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/planiseal-88",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-lamposilex": {
+    "id": "mapei-lamposilex",
+    "brand": "mapei",
+    "name": "LAMPOSILEX",
+    "category": "waterproofing",
+    "description": "Pre-blended powder binder composed of high-strength cements and special admixtures. Ultra-fast setting hydraulic binder for blocking active water leaks ('flash set').",
+    "classification": "Flash-setting hydraulic plug mortar",
+    "pack_size": [
+      "5 kg bucket",
+      "25 kg bag"
+    ],
+    "setting_time": "3-5 minutes (flash set)",
+    "application_areas": [
+      "Blocking active water leaks",
+      "Plugging water ingress in underground structures",
+      "Emergency water-stop in cracks"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/lamposilex",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-topcem-pronto": {
+    "id": "mapei-topcem-pronto",
+    "brand": "mapei",
+    "name": "TOPCEM PRONTO",
+    "category": "flooring-systems",
+    "description": "Pre-blended ready-to-use mortar with normal setting and controlled shrinkage, fast-drying screed. Just mix with water. For bonded, unbonded, and floating screeds, with 12-hour trafficable and 4-day fully dry cure.",
+    "classification": "CT - C30 - F6 - A1FL (EN 13813)",
+    "strength": {
+      "compressive": "\u226530 N/mm\u00b2 (C30)",
+      "flexural": "\u22656 N/mm\u00b2 (F6)"
+    },
+    "coverage": {
+      "value": "~18-20",
+      "unit": "kg/m\u00b2 per cm thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "light_traffic": "12 hours",
+    "ready_for_ceramic": "24 hours",
+    "ready_for_stone": "2 days",
+    "ready_for_wood": "4 days",
+    "application_areas": [
+      "Fast-drying screeds (interior and exterior)",
+      "Heated floors (high thermal conductivity)",
+      "Prior to wood parquet, PVC, linoleum, ceramic",
+      "Supermarkets, shops, fast-track jobs"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/topcem-pronto",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider14/products-documents/1_00209_topcem-pronto_en-au_1b2415f730934b5783552c229b763375.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultraplan-eco": {
+    "id": "mapei-ultraplan-eco",
+    "brand": "mapei",
+    "name": "ULTRAPLAN ECO",
+    "category": "flooring-systems",
+    "description": "Self-levelling smoothing compound for interiors. For levelling and smoothing differences in thickness from 1 to 10 mm on new or existing substrates before laying all kinds of floorings.",
+    "classification": "EN 13813 self-levelling compound, EC1 Plus",
+    "coverage": {
+      "value": "1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "23 kg bag"
+    ],
+    "pot_life": "20-30 minutes",
+    "setting_time": "45-60 min",
+    "light_traffic": "~3 hours",
+    "thickness_range": "1-10 mm per coat",
+    "colors": [
+      "pinkish grey"
+    ],
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Levelling concrete slabs and cementitious screeds",
+      "Under wood parquet, ceramic, resilient flooring",
+      "Interior use only"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultraplan-eco",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultraplan-eco-20": {
+    "id": "mapei-ultraplan-eco-20",
+    "brand": "mapei",
+    "name": "ULTRAPLAN ECO 20",
+    "category": "flooring-systems",
+    "description": "Rapid hydrating, fast-drying self-levelling compound for interiors, thicknesses 1-10 mm. For substrates requiring high resistance to loads and traffic: hospitals, hotels, theatres, schools, shopping centres.",
+    "classification": "EN 13813 self-levelling compound; EC1 R Plus",
+    "coverage": {
+      "value": "1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "23 kg bag"
+    ],
+    "pot_life": "20-30 minutes",
+    "setting_time": "45-60 min",
+    "light_traffic": "3-4 hours",
+    "subsequent_bonding_wait": "24-48 hours",
+    "thickness_range": "1-10 mm per coat (max 20 mm)",
+    "colors": [
+      "grey"
+    ],
+    "mix_ratio": "100 parts powder : 24-25 parts water",
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "High-traffic commercial floors",
+      "Hospitals, hotels, schools, shopping centres",
+      "Under ceramic, stone, resilient, carpet"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultraplan-eco-20",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_04005_ultraplan-eco-20_en-ae_9b74c239ccfa436b97b449bd7a0661b1.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultraplan-maxi": {
+    "id": "mapei-ultraplan-maxi",
+    "brand": "mapei",
+    "name": "ULTRAPLAN MAXI",
+    "category": "flooring-systems",
+    "description": "Ultra-fast drying self-levelling compound for thicknesses from 3 to 40 mm per coat without shrinkage, cracking or crazing. Very high compressive and flexural strength; very low VOC.",
+    "classification": "EN 13813 self-levelling compound with high performance",
+    "coverage": {
+      "value": "~1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "30-40 minutes at +23\u00b0C",
+    "thickness_range": "3-40 mm per coat",
+    "colors": [
+      "grey"
+    ],
+    "mix_ratio": "20 kg powder : 3.6-3.8 L water",
+    "certifications": [
+      "EMICODE (very low VOC)"
+    ],
+    "application_areas": [
+      "Levelling large thickness variations (3-40 mm)",
+      "Electric heated floor screeds before tiling",
+      "Rapid re-flooring projects",
+      "Interior use only"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultraplan-maxi",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider14/products-documents/1_00510_ultraplan-maxi_en-au_e9bfd8a1077f4ea29ae933c83c338262.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapefloor-fc200-me": {
+    "id": "mapei-mapefloor-fc200-me",
+    "brand": "mapei",
+    "name": "MAPEFLOOR FC200 ME",
+    "category": "flooring-systems",
+    "description": "Two-component epoxy formulate with high solid content used to create multi-layered resin coatings with non-slip or roll-coat/structured finish. Durable high-build epoxy floor coating for light industries.",
+    "classification": "High-build epoxy resin floor coating",
+    "pack_size": [
+      "25.5 kg kit (A=22 kg + B=3.5 kg)"
+    ],
+    "colors": [
+      "Range of colours"
+    ],
+    "application_areas": [
+      "Light industrial flooring",
+      "Multi-layered resin coatings",
+      "Non-slip or structured finishes",
+      "Chemical-resistant smooth floors"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapefloor-fc-200-me",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapefloor-finish-450-me": {
+    "id": "mapei-mapefloor-finish-450-me",
+    "brand": "mapei",
+    "name": "MAPEFLOOR FINISH 450 ME",
+    "category": "flooring-systems",
+    "description": "Two-component, aliphatic, elastic coloured polyurethane finish. High resistance to wear, abrasion, and UV rays. Protective topcoat for outdoor car parks, bridges, and walkways after polyurethane waterproofing.",
+    "classification": "Two-component elastic aliphatic polyurethane topcoat",
+    "coverage": {
+      "value": "0.2-0.5",
+      "unit": "kg/m\u00b2 (depends on application method and surface)"
+    },
+    "pack_size": [
+      "Part A + Part B kit"
+    ],
+    "colors": [
+      "RAL colours (full range)"
+    ],
+    "application_areas": [
+      "Outdoor car park floors (topcoat)",
+      "Bridges, walkways after PU waterproofing",
+      "Protection over Mapefloor PU 410/400",
+      "Protective topcoat requiring UV resistance"
+    ],
+    "certifications": [
+      "UV-resistant",
+      "Weathering-resistant"
+    ],
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapefloor-finish-450-me",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_08913_mapefloor-finish-450-me_en-ae_69289d5eb0f84b09b67c840af00a28b9.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-primer-g": {
+    "id": "mapei-primer-g",
+    "brand": "mapei",
+    "name": "PRIMER G",
+    "category": "primers-bonding",
+    "description": "Synthetic resin-based primer in water dispersion. Used for treating gypsum or anhydrite surfaces prior to installing ceramic tiles and stone, and to provide even absorption before levelling.",
+    "classification": "Acrylic water-dispersion primer (EMICODE EC1)",
+    "coverage": {
+      "value": "0.1-0.2",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg drum",
+      "10 kg drum",
+      "25 kg drum",
+      "12\u00d71 kg boxes"
+    ],
+    "drying_time": "~2 hours (dilution-dependent)",
+    "dilution": "Neat to 1:3 with water depending on substrate absorption",
+    "colors": [
+      "blue"
+    ],
+    "certifications": [
+      "EMICODE EC1"
+    ],
+    "application_areas": [
+      "Gypsum / anhydrite surfaces (<0.5% moisture)",
+      "Absorbent substrates before tile laying or screeding",
+      "Dust-binding on cementitious substrates"
+    ],
+    "shelf_life": "12 months (protect from frost)",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/primer-g",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-eco-prim-t-plus": {
+    "id": "mapei-eco-prim-t-plus",
+    "brand": "mapei",
+    "name": "ECO PRIM T PLUS",
+    "category": "primers-bonding",
+    "description": "Universal acrylic levelling primer for treating absorbent and non-absorbent substrates before applying skim coats, levelling compounds, or cementitious adhesives. Solvent-free, low-odour.",
+    "classification": "Acrylic resin primer in water dispersion (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.1-0.2",
+      "unit": "kg/m\u00b2 (depends on dilution)"
+    },
+    "pack_size": [
+      "5 kg drum",
+      "10 kg drum"
+    ],
+    "dilution": "Neat on non-absorbent substrates; 1:2 with water on cementitious/anhydrite",
+    "colors": [
+      "light blue"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Gypsum, anhydrite, wood, marine plywood",
+      "Terrazzo, ceramic, natural stone",
+      "Cementitious subfloors before self-levelling",
+      "Bonding aid over Mapeproof membranes"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/eco-prim-t-plus",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider12/products-documents/1_02930_eco-prim-t-plus_en-gb_c438432c403c4dbb913a0ed8281cc4de.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-eco-prim-grip-plus": {
+    "id": "mapei-eco-prim-grip-plus",
+    "brand": "mapei",
+    "name": "ECO PRIM GRIP PLUS",
+    "category": "primers-bonding",
+    "description": "Multi-purpose, ready-to-use bonding promoter primer for renders, smoothing compounds and cementitious adhesives. Synthetic resin with bond-promoting silica aggregates. Ideal for tile-on-tile installations. Odourless, solvent-free.",
+    "classification": "Bond-promoter primer with aggregates (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.20-0.30",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "1 kg drum",
+      "5 kg drum",
+      "10 kg drum"
+    ],
+    "render_wait": "15-20 minutes",
+    "smoothing_wait": "30 minutes",
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Tile-on-tile (over existing ceramic)",
+      "Non-absorbent surfaces: epoxy, polyurethane, terrazzo, natural stone",
+      "Improving bond of renders on brickwork / concrete blocks",
+      "Metal / PVC details under waterproofing"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/eco-prim-grip-plus",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider47/products-documents/1_02946_eco-prim-grip-plus_en_aa93ab07408f4d6091d35dabf63b26c1.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-primer-sn": {
+    "id": "mapei-primer-sn",
+    "brand": "mapei",
+    "name": "PRIMER SN",
+    "category": "primers-bonding",
+    "description": "Two-component epoxy primer with fillers. Specifically formulated for preliminary priming before applying Mapefloor epoxy/polyurethane resin systems and Ultratop self-levelling cementitious mortars. Radon-barrier compliant (DIN ISO/TS 11665-13).",
+    "classification": "Two-component fillerized epoxy primer",
+    "coverage": {
+      "value": "0.25-0.70",
+      "unit": "kg/m\u00b2 per coat (substrate-dependent)"
+    },
+    "pack_size": [
+      "5 kg kit (A=4 kg + B=1 kg)",
+      "20 kg kit (A=16 kg + B=4 kg)"
+    ],
+    "mix_ratio": "A : B = 80 : 20 by weight",
+    "pot_life": "30 minutes",
+    "light_traffic": "24 hours at +23\u00b0C",
+    "final_set": "7 days",
+    "dust_dry": "6 hours at +23\u00b0C / 50% R.H.",
+    "application_temp": "+8\u00b0C to +35\u00b0C",
+    "colors": [
+      "neutral (may be tinted with Mapecolor Paste)"
+    ],
+    "certifications": [
+      "Radon barrier (DIN ISO/TS 11665-13)"
+    ],
+    "application_areas": [
+      "Under Mapefloor epoxy/PU resin systems",
+      "Under Ultratop / Ultratop Loft",
+      "Civil and industrial floors",
+      "Radon-barrier applications"
+    ],
+    "shelf_life": "24 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/primer-sn",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider59/products-documents/1_02901_primer-sn_en-ae_ce84efefb9dd4295ab9f25ba58c9456f.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-primer-mf": {
+    "id": "mapei-primer-mf",
+    "brand": "mapei",
+    "name": "PRIMER MF",
+    "category": "primers-bonding",
+    "description": "Two-component, solvent-free epoxy primer used as bonding promoter for Mapefloor products, for consolidating and waterproofing against residual damp on cementitious substrates, and as anti-dust impregnator on concrete floors.",
+    "classification": "Two-component solvent-free epoxy primer",
+    "coverage": {
+      "value": "0.20-0.30",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "1 kg kit (A+B)",
+      "6 kg kit (A+B)"
+    ],
+    "mix_ratio": "A : B = 3 : 1",
+    "pot_life": "90 minutes",
+    "subsequent_laying_wait": "24-48 hours",
+    "colors": [
+      "transparent yellow"
+    ],
+    "application_areas": [
+      "Bonding primer under Mapefloor resin systems",
+      "Damp barrier on cementitious substrates",
+      "Anti-dust impregnator on concrete floors",
+      "Consolidation of friable concrete"
+    ],
+    "shelf_life": "24 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/primer-mf",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapeflex-pu-s25": {
+    "id": "mapei-mapeflex-pu-s25",
+    "brand": "mapei",
+    "name": "MAPEFLEX PU S25",
+    "category": "sealants-joints",
+    "description": "Low-modulus elastic polyurethane sealant specifically developed for sealing internal and external vertical expansion and construction joints. One-component moisture-curing.",
+    "classification": "Low-modulus elastic polyurethane sealant (ISO 11600 F-class)",
+    "pack_size": [
+      "600 ml sausage (24/box)"
+    ],
+    "movement_capacity": "\u00b125% (low-modulus)",
+    "colors": [
+      "grey",
+      "beige",
+      "off-white"
+    ],
+    "application_areas": [
+      "Internal and external vertical expansion joints",
+      "Construction joints in concrete structures",
+      "Facade joints"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapeflex-pu-s25",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-mapeflex-pu-45-ft": {
+    "id": "mapei-mapeflex-pu-45-ft",
+    "brand": "mapei",
+    "name": "MAPEFLEX PU 45 FT",
+    "category": "sealants-joints",
+    "description": "One-component, thixotropic, rapid-hardening paintable polyurethane sealant and adhesive with high modulus of elasticity. Dual-purpose: joint sealant AND flexible bonding adhesive. Solvent-free.",
+    "classification": "ISO 11600 class F-20 HM (high-modulus); EN 15651-1 F-EXT-INT CC; EN 15651-4 PW-EXT-INT-CC",
+    "strength": {
+      "modulus_100pct": "0.70 N/mm\u00b2",
+      "shore_a": "40"
+    },
+    "pack_size": [
+      "600 ml cartridge",
+      "600 ml soft cartridge (sausage)"
+    ],
+    "workability_time": "40 minutes",
+    "movement_capacity": "\u00b120%",
+    "final_set": "24 h at 3.3 mm / 48 h at 5.2 mm / 7 days at 8.5 mm (at +20\u00b0C)",
+    "colors": [
+      "Silver Grey 111 (and others)"
+    ],
+    "certifications": [
+      "ISO 11600 F-20 HM",
+      "EN 15651-1 F-EXT-INT CC",
+      "EN 15651-4 PW-EXT-INT-CC"
+    ],
+    "application_areas": [
+      "Expansion joints on walls and floors",
+      "Joints subject to hydrocarbon exposure",
+      "Flexible bonding of dissimilar materials (concrete, steel, aluminium, wood, glass, PVC)",
+      "Pedestrian walkway joints"
+    ],
+    "paintable": true,
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/mapeflex-pu-45-ft",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-eco-375": {
+    "id": "mapei-ultrabond-eco-375",
+    "brand": "mapei",
+    "name": "ULTRABOND ECO 375",
+    "category": "specialty-adhesives",
+    "description": "Adhesive in water dispersion with strong and quick initial bond, long open time and very low VOC, specifically for vinyl floors.",
+    "classification": "Water-dispersion vinyl floor adhesive (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.25-0.35",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "16 kg drum"
+    ],
+    "open_time": "40-50 minutes",
+    "waiting_time": "10-20 minutes",
+    "light_traffic": "3-4 hours",
+    "ready_for_use": "24-48 hours",
+    "colors": [
+      "light beige"
+    ],
+    "application_method": "N\u00b0 1 trowel, TKB A2, B1",
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Homogeneous & heterogeneous PVC/vinyl sheets and tiles",
+      "LVT, vinyl plank",
+      "Low-VOC indoor environments"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-eco-375",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-eco-170": {
+    "id": "mapei-ultrabond-eco-170",
+    "brand": "mapei",
+    "name": "ULTRABOND ECO 170",
+    "category": "specialty-adhesives",
+    "description": "Non-flammable carpet adhesive \u2014 acrylic water-dispersion adhesive with long open time for textile floor coverings including carpet tiles and broadloom.",
+    "classification": "Acrylic water-dispersion carpet adhesive (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.3-0.45",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "12 kg drum",
+      "16 kg drum"
+    ],
+    "open_time": "~30-40 minutes",
+    "light_traffic": "3-5 hours",
+    "ready_for_use": "24-48 hours",
+    "colors": [
+      "light beige"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Carpet tiles and broadloom",
+      "Textile floor coverings with latex/PVC/polyurethane foam backing",
+      "Natural jute, ActionBac-backed carpets"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-eco-170",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-eco-fix": {
+    "id": "mapei-ultrabond-eco-fix",
+    "brand": "mapei",
+    "name": "ULTRABOND ECO FIX",
+    "category": "specialty-adhesives",
+    "description": "Tackifier / release adhesive for loose-lay carpet tiles and PVC tiles. Water-based dispersion with a permanent tack \u2014 tiles can be repositioned or removed.",
+    "classification": "Water-based tackifier / pressure-sensitive adhesive (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.08-0.15",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg drum",
+      "14 kg drum"
+    ],
+    "colors": [
+      "white (dries transparent)"
+    ],
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Loose-lay carpet tiles",
+      "PVC modular tiles",
+      "Raised access floors where tiles must be removable"
+    ],
+    "shelf_life": "12 months (protect from frost)",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-eco-fix",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-eco-v4sp": {
+    "id": "mapei-ultrabond-eco-v4sp",
+    "brand": "mapei",
+    "name": "ULTRABOND ECO V4SP",
+    "category": "specialty-adhesives",
+    "description": "Multi-purpose acrylic adhesive in water dispersion with long open time and very low VOC. For laying rubber, PVC, vinyl, polyolephinic, linoleum and carpet flooring.",
+    "classification": "Multi-purpose acrylic water-dispersion adhesive (EMICODE EC1 Plus)",
+    "coverage": {
+      "value": "0.25-0.5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "8 kg drum",
+      "16 kg drum"
+    ],
+    "open_time": "30-40 minutes",
+    "waiting_time": "~10-20 minutes",
+    "light_traffic": "3-5 hours",
+    "ready_for_use": "24-48 hours",
+    "colors": [
+      "light beige"
+    ],
+    "application_method": "N\u00b0 1 or 2 notched trowel, TKB A1/A2/B1/B2",
+    "certifications": [
+      "EMICODE EC1 Plus"
+    ],
+    "application_areas": [
+      "Rubber, PVC, vinyl, polyolefin",
+      "Linoleum",
+      "Carpet flooring"
+    ],
+    "shelf_life": "12 months (protect from frost)",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-eco-v4sp",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-turf-pu-1k": {
+    "id": "mapei-ultrabond-turf-pu-1k",
+    "brand": "mapei",
+    "name": "ULTRABOND TURF PU 1K",
+    "category": "specialty-adhesives",
+    "description": "Fast-setting, moisture-curing, one-component, polyurethane urethane adhesive specifically designed for bonding of synthetic turf jointing strips. Meets FIFA standards for sports turf bond strength. Indoor and outdoor use.",
+    "classification": "One-component polyurethane turf adhesive (FIFA-compliant)",
+    "pack_size": [
+      "15 kg bucket",
+      "600 ml soft cartridge"
+    ],
+    "open_time": "80-100 minutes",
+    "light_traffic": "~12 hours",
+    "colors": [
+      "green"
+    ],
+    "certifications": [
+      "Meets FIFA requirements for sports turf"
+    ],
+    "application_areas": [
+      "Synthetic turf sports fields (FIFA-grade)",
+      "Landscape synthetic grass",
+      "Indoor & outdoor grass panel seaming"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-turf-pu-1k",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-turf-2-star-pro-green": {
+    "id": "mapei-ultrabond-turf-2-star-pro-green",
+    "brand": "mapei",
+    "name": "TURF 2 STAR PRO GREEN",
+    "category": "specialty-adhesives",
+    "description": "Two-component, fast-set polyurethane adhesive for high-performance seaming and direct bonding of synthetic turf in athletic and landscape installations. Coloured green. Cures in 2-4 hours. Meets FIFA 2-STAR performance.",
+    "classification": "Two-component polyurethane turf seam adhesive (FIFA 2-star certified)",
+    "coverage": {
+      "value": "Varies",
+      "unit": "m\u00b2 per kit",
+      "notes": "Coverage depends on trowel notch and turf backing"
+    },
+    "pack_size": [
+      "2 gallon kit (\u22487.57 L)"
+    ],
+    "mix_ratio": "A : B = 90 : 10 by weight",
+    "pot_life": "~40 minutes",
+    "final_set": "2-4 hours (light traffic), full cure ~24 hours",
+    "colors": [
+      "green"
+    ],
+    "certifications": [
+      "FIFA 2-star standards for seam strength"
+    ],
+    "application_areas": [
+      "Professional athletic synthetic turf fields",
+      "Landscape grass installation seams",
+      "Direct bonding of turf (low humidity, cool climate)"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-turf-2-star-pro-green",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-p909-2k": {
+    "id": "mapei-ultrabond-p909-2k",
+    "brand": "mapei",
+    "name": "ULTRABOND P909 2K",
+    "category": "specialty-adhesives",
+    "description": "Two-component, water and solvent-free polyurethane adhesive with very low VOC. 'Hard' category adhesive per EN 14293 for all types of wood/parquet flooring.",
+    "classification": "EN 14293 'hard' class two-component polyurethane wood adhesive (EMICODE EC1 R Plus)",
+    "coverage": {
+      "value": "~0.8-1.2",
+      "unit": "kg/m\u00b2 (trowel-dependent)"
+    },
+    "pack_size": [
+      "10 kg kit (A+B)"
+    ],
+    "mix_ratio": "Component A (PU polymer) + Component B (liquid hardener)",
+    "final_set": "~24 hours at room temperature",
+    "colors": [
+      "beige / neutral"
+    ],
+    "certifications": [
+      "EN 14293 hard-class",
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Solid wood parquet (EN 13226/13227)",
+      "Wood mosaic (EN 13488)",
+      "Pre-assembled/multi-layer parquet (EN 13629/13489)",
+      "Heated floors, anhydrite, ceramic, marble substrates"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-p909-2k",
+    "gcc_site": "mapei.com/ae/en"
+  },
+  "mapei-ultrabond-p990-1k": {
+    "id": "mapei-ultrabond-p990-1k",
+    "brand": "mapei",
+    "name": "ULTRABOND P990 1K",
+    "category": "specialty-adhesives",
+    "description": "Ready-to-use one-component, moisture-curing, solvent-free elastic polyurethane adhesive for pre-finished, multi-layered and traditional jointed solid wood parquet. ~30% higher yield than 2K products.",
+    "classification": "EN 14293 one-component moisture-curing polyurethane wood adhesive",
+    "coverage": {
+      "value": "~0.7-1.0",
+      "unit": "kg/m\u00b2 (trowel-dependent)"
+    },
+    "pack_size": [
+      "7 kg aluminium bag in bucket",
+      "15 kg aluminium bag in bucket",
+      "20\u00d7600 ml sausages"
+    ],
+    "open_time": "110 minutes",
+    "adjustability": "3 hours",
+    "light_traffic": "12 hours",
+    "polishing_wait": "3 days",
+    "colors": [
+      "beige"
+    ],
+    "certifications": [
+      "EMICODE EC1 R Plus"
+    ],
+    "application_areas": [
+      "Pre-finished/jointed solid wood parquet (all sizes)",
+      "Lamparquet, pin-wheels, planks",
+      "Cementitious, Mapecem/Topcem screeds",
+      "Over existing ceramic/marble/wood",
+      "Heated floors, anhydrite screeds"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.mapei.com/ae/en/products-and-solutions/products/detail/ultrabond-p990-1k",
+    "tds_direct": "https://cdnmedia.mapei.com/docs/librariesprovider37/products-documents/1_00279_ultrabond-p990-1k_en_444d3894cedf434999863c8aa9e14422.pdf",
+    "gcc_site": "mapei.com/ae/en"
+  }
+}

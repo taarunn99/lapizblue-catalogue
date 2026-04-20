@@ -1,0 +1,121 @@
+{
+  "xchem-enifix-va": {
+    "id": "xchem-enifix-va",
+    "brand": "xchem",
+    "name": "ENIFIX VA",
+    "category": "specialty-adhesives",
+    "description": "High-quality, low-emission, high-strength water-based dispersion adhesive for vinyl floor covering, textile floor coverings with latex/PVC/PUR foam backing, polyolefin sheeting, Quartz Vinyl Floor, rubber sheets and tiles up to 2.5 mm thickness with smooth & sanded back.",
+    "classification": "Water-based dispersion vinyl floor adhesive",
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Vinyl floor coverings (PVC)",
+      "Textile floor coverings with latex/PVC/PUR foam backing",
+      "Polyolefin sheeting",
+      "Quartz vinyl floor, rubber sheets and tiles (\u22642.5 mm)"
+    ],
+    "certifications": [
+      "Low-VOC emission"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  },
+  "xchem-enifix-ca": {
+    "id": "xchem-enifix-ca",
+    "brand": "xchem",
+    "name": "ENIFIX CA (CA303)",
+    "category": "specialty-adhesives",
+    "description": "High-coverage contact adhesive based on polychloroprene rubber, designed for carpet and tile fixing. Double-stick carpet flooring adhesive delivering strong durable bond.",
+    "classification": "Polychloroprene rubber contact adhesive",
+    "pack_size": [
+      "650 ml bottle",
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Carpet fixing (double-stick method)",
+      "Tile/carpet bonding (general purpose)",
+      "DIY and professional installations"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  },
+  "xchem-enifix-ct": {
+    "id": "xchem-enifix-ct",
+    "brand": "xchem",
+    "name": "ENIFIX CT",
+    "category": "specialty-adhesives",
+    "description": "Water-based acrylic polymer tackifier adhesive for flooring. Used for dry-lay applications of carpet tiles and similar modular flooring requiring light tack.",
+    "classification": "Water-based acrylic polymer tackifier",
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Dry-lay carpet tile installation",
+      "Releasable flooring / modular systems",
+      "Tackifier for removable flooring"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  },
+  "xchem-turf-fix-511": {
+    "id": "xchem-turf-fix-511",
+    "brand": "xchem",
+    "name": "TURF FIX 511",
+    "category": "specialty-adhesives",
+    "description": "Single-component, hot-climate-formulated artificial grass adhesive. High-strength all-weather adhesive suitable for indoor and outdoor use. Excellent water and heat resistance, bonds to wide variety of substrates. Made in UAE.",
+    "classification": "Single-component moisture-cure polyurethane turf adhesive",
+    "pack_size": [
+      "20 kg pail",
+      "5 kg can"
+    ],
+    "application_areas": [
+      "Artificial grass / synthetic turf installation",
+      "Indoor and outdoor turf bonding",
+      "Seaming and perimeter bonding"
+    ],
+    "key_features": [
+      "All-weather",
+      "UAE hot-climate formulated",
+      "Water-resistant"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  },
+  "xchem-turf-flx-550": {
+    "id": "xchem-turf-flx-550",
+    "brand": "xchem",
+    "name": "TURF FLX 550",
+    "category": "specialty-adhesives",
+    "description": "Polychloroprene rubber-based flexible adhesive for turf and flooring applications. High-performance bonding for flexible substrates.",
+    "classification": "Polychloroprene rubber flexible adhesive",
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Artificial turf bonding (flexible joint)",
+      "Flexible flooring systems",
+      "Rubber/synthetic substrates"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  },
+  "xchem-turf-flx-570": {
+    "id": "xchem-turf-flx-570",
+    "brand": "xchem",
+    "name": "TURF FLX 570",
+    "category": "specialty-adhesives",
+    "description": "Premium turf and flexible flooring adhesive (upgraded from TURF FLX 550). High-strength elastomeric bonding with improved durability.",
+    "classification": "Premium polychloroprene/elastomeric flexible adhesive",
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Premium artificial turf installation",
+      "High-traffic flexible flooring",
+      "Sports surfaces"
+    ],
+    "tds_url": "https://xchem.ae/products/adhesive.html",
+    "gcc_site": "xchem.ae"
+  }
+}

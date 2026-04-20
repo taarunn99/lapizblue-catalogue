@@ -1,0 +1,746 @@
+{
+  "vetonit-premium-fix": {
+    "id": "vetonit-premium-fix",
+    "brand": "vetonit",
+    "name": "PREMIUM FIX",
+    "category": "tile-adhesives",
+    "description": "Premium cementitious tile adhesive composed of hydraulic binders, selected aggregates and special additives. For ceramic and terrazzo tiles. Applied at 3-10 mm thickness.",
+    "classification": "C1 T / C2 T (EN 12004)",
+    "coverage": {
+      "value": "3-6",
+      "unit": "kg/m\u00b2 (3-10 mm thickness)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Ceramic and terrazzo tiles",
+      "Interior and exterior floors and walls",
+      "Horizontal and vertical surfaces"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/tiling-systems/premium-fix/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-tile-fix-universal": {
+    "id": "vetonit-tile-fix-universal",
+    "brand": "vetonit",
+    "name": "TILE FIX UNIVERSAL",
+    "category": "tile-adhesives",
+    "description": "Universal cementitious tile adhesive. Composed of hydraulic binders, selected aggregates and special additives. For bonding ceramic tiles on walls and floors.",
+    "classification": "C1 (EN 12004)",
+    "coverage": {
+      "value": "3-6",
+      "unit": "kg/m\u00b2 (3-10 mm thickness)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "colors": [
+      "grey"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Standard ceramic tile installation",
+      "Interior walls and floors",
+      "General-purpose tiling"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/tiling-systems/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-tile-fix-universal-c2te": {
+    "id": "vetonit-tile-fix-universal-c2te",
+    "brand": "vetonit",
+    "name": "TILE FIX UNIVERSAL C2TE",
+    "category": "tile-adhesives",
+    "description": "Upgraded C2TE cementitious tile adhesive with improved adhesion, slip resistance and extended open time. For larger-format and lower-absorption tiles.",
+    "classification": "C2 TE (EN 12004)",
+    "coverage": {
+      "value": "3-6",
+      "unit": "kg/m\u00b2 (3-10 mm thickness)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Large-format ceramic and porcelain",
+      "Vertical wall tiling (no slip)",
+      "Interior/exterior floors"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/tiling-systems/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-porcelain-tile-fix": {
+    "id": "vetonit-porcelain-tile-fix",
+    "brand": "vetonit",
+    "name": "PORCELAIN TILE FIX (PORCELAIN PLUS GREEN)",
+    "category": "tile-adhesives",
+    "description": "Deformable cementitious adhesive with improved characteristics, slip resistance and extended open time. Specially for porcelain and large non-absorbent tiles. Applied at 3-10 mm.",
+    "classification": "C2 TE S1 (EN 12004 / EN 12002)",
+    "coverage": {
+      "value": "~4-6",
+      "unit": "kg/m\u00b2 (3-10 mm thickness)"
+    },
+    "strength": {
+      "bond": "\u22651.0 N/mm\u00b2",
+      "deformability": "S1"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "mix_ratio": "5-7 L water per 20 kg bag",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Porcelain tiles (non-absorbent)",
+      "Large-format tiles",
+      "Smooth concrete, lightweight bricks, plasterboards",
+      "Cement/gypsum boards"
+    ],
+    "tds_url": "https://www.saveto.com/products/porcelain-tile-fix",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-ultra": {
+    "id": "vetonit-ultra",
+    "brand": "vetonit",
+    "name": "VETONIT ULTRA",
+    "category": "tile-adhesives",
+    "description": "High-performance cementitious mortar adhesive for fixing tiles, terrazzo tiles, marble, and Riyadh stones. Applied at 3-10 mm thickness.",
+    "classification": "C2 TE (EN 12004)",
+    "coverage": {
+      "value": "3-6",
+      "unit": "kg/m\u00b2 (3-10 mm thickness)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "mix_ratio": "5-6.8 L water per 20 kg bag",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "shelf_life": "12 months",
+    "application_areas": [
+      "Terrazzo tiles, marble",
+      "Riyadh stones",
+      "High-quality project ceramic installations",
+      "Horizontal and vertical surfaces"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/tiling-systems/vetonit-ultra/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoset-ca545": {
+    "id": "vetonit-vetoset-ca545",
+    "brand": "vetonit",
+    "name": "VETOSET CA545 (A+B)",
+    "category": "tile-adhesives",
+    "description": "Two-component polymer-modified cementitious tile adhesive. Enhanced adhesion and flexibility for demanding tile installations. Ideal for pools, fountains, and water tanks.",
+    "classification": "C2 E S1 two-component cementitious adhesive",
+    "coverage": {
+      "value": "~4-5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "Two-component kit (20 kg powder + 5 kg liquid polymer)"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Swimming pools, fountains, water tanks",
+      "Marine-grade installations",
+      "Chemically-exposed tile installations"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoset-ca545",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoset-ea454": {
+    "id": "vetonit-vetoset-ea454",
+    "brand": "vetonit",
+    "name": "VETOSET EA454",
+    "category": "tile-adhesives",
+    "description": "Three-component R2 reaction-resin epoxy tile adhesive. Chemically-resistant, high-strength bonding for demanding installations.",
+    "classification": "R2 (EN 12004) \u2014 3K epoxy tile adhesive",
+    "strength": {
+      "bond": "\u22652.0 N/mm\u00b2"
+    },
+    "pack_size": [
+      "Three-component epoxy kit (A+B+C)"
+    ],
+    "application_areas": [
+      "Chemically-resistant pool and tank linings",
+      "Food/pharma industry tiling",
+      "Laboratory and clean-room installations",
+      "Acid-resistant floor tiling"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/tiling-systems/vetoset-ea454/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoset-ua456": {
+    "id": "vetonit-vetoset-ua456",
+    "brand": "vetonit",
+    "name": "VETOSET UA456",
+    "category": "tile-adhesives",
+    "description": "Two-component polyurethane-based binder for sandwich panels and flexible bonding. For demanding tile and panel installations.",
+    "classification": "2K PU structural tile/panel adhesive",
+    "pack_size": [
+      "Two-component PU kit"
+    ],
+    "application_areas": [
+      "Sandwich panel bonding",
+      "Insulation board fixing",
+      "Flexible panel installations"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoset-ua456",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetofix-vinyl": {
+    "id": "vetonit-vetofix-vinyl",
+    "brand": "vetonit",
+    "name": "VETOFIX VINYL",
+    "category": "specialty-adhesives",
+    "description": "One-component acrylic vinyl floor adhesive with extended open time. For vinyl, linoleum, and textile floor coverings.",
+    "classification": "1K acrylic dispersion floor covering adhesive",
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "application_areas": [
+      "Vinyl floor coverings (PVC sheet and tile)",
+      "Linoleum",
+      "Textile floor coverings"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetofix-vinyl",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetofix-parquet": {
+    "id": "vetonit-vetofix-parquet",
+    "brand": "vetonit",
+    "name": "VETOFIX PARQUET",
+    "category": "specialty-adhesives",
+    "description": "One-component solvent-free elastic polyurethane wood flooring adhesive. For engineered wood, parquet, and multi-layer wood flooring. Underfloor-heating compatible.",
+    "classification": "1K elastic PU wood flooring adhesive (ISO 17178)",
+    "pack_size": [
+      "15 kg pail"
+    ],
+    "application_areas": [
+      "Solid and engineered parquet",
+      "Multi-layer wood flooring",
+      "Underfloor heating compatible"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/vetofix-parquet",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetorep-cr520": {
+    "id": "vetonit-vetorep-cr520",
+    "brand": "vetonit",
+    "name": "VETOREP CR520 (formerly VETOMORTAR CHR)",
+    "category": "concrete-repair",
+    "description": "High-strength structural repair mortar for concrete substrates. R4-class cementitious mortar for load-bearing repairs.",
+    "classification": "EN 1504-3 Class R4 structural repair mortar",
+    "strength": {
+      "compressive": "\u226545 N/mm\u00b2 (R4 class)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Structural concrete repair",
+      "Load-bearing columns and beams",
+      "High-strength patch repair"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetorep-cr520",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetorep-cr521": {
+    "id": "vetonit-vetorep-cr521",
+    "brand": "vetonit",
+    "name": "VETOREP CR521",
+    "category": "concrete-repair",
+    "description": "High-strength structural non-shrink self-compacting micro-concrete for deep repairs. Used with formwork for columns, beams, and voids.",
+    "classification": "EN 1504-3 Class R4 non-shrink micro-concrete",
+    "strength": {
+      "compressive": "\u226550 N/mm\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Deep structural repairs with formwork",
+      "Column jacketing",
+      "Void filling 30-250 mm"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetorep-cr521",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetorep-cr523": {
+    "id": "vetonit-vetorep-cr523",
+    "brand": "vetonit",
+    "name": "VETOREP CR523",
+    "category": "concrete-repair",
+    "description": "R1/R2 single-component cementitious fairing coat for smoothing concrete surfaces and filling surface imperfections.",
+    "classification": "EN 1504-3 Class R1/R2 fairing coat",
+    "coverage": {
+      "value": "~1.5",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Concrete surface smoothing",
+      "Blowhole and pinhole filling",
+      "Pre-coating surface preparation"
+    ],
+    "tds_url": "https://sa.saveto.com/en/products/concrete-repairs-%26-grouts/vetorep-cr523/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetorep-er350": {
+    "id": "vetonit-vetorep-er350",
+    "brand": "vetonit",
+    "name": "VETOREP ER350",
+    "category": "concrete-repair",
+    "description": "Two-component epoxy-based thixotropic solvent-free putty. For repair of surface imperfections, blowhole filling, anchoring, and leveling. Smooth-buttery paste, non-slump, can be feather-edged and built up to 3 mm in single layer.",
+    "classification": "Two-component epoxy putty / anchoring compound",
+    "coverage": {
+      "value": "0.7",
+      "unit": "L/kg"
+    },
+    "pack_size": [
+      "5 kg kit (A+B)"
+    ],
+    "cure_time": "24 hours foot traffic, 7 days full strength",
+    "application_areas": [
+      "Surface imperfection repair",
+      "Blowhole and pore filling",
+      "Anchoring bolts and bars",
+      "Vertical/overhead leveling"
+    ],
+    "tds_url": "https://sa.saveto.com/en/products/concrete-repairs-&-grouts/vetorep-er350/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetonet-pls-221": {
+    "id": "vetonit-vetonet-pls-221",
+    "brand": "vetonit",
+    "name": "VETONET PLS 221",
+    "category": "concrete-repair",
+    "description": "Premix plaster for general concrete and masonry finishing. For internal application on block walls and rough surfaces.",
+    "classification": "GP CSII W2 cementitious plaster (EN 998-1)",
+    "pack_size": [
+      "25 kg bag",
+      "40 kg bag"
+    ],
+    "application_areas": [
+      "Internal plaster on block walls",
+      "Rough surface finishing",
+      "Levelling of masonry"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetonet-pls-221",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetonet-pls-222": {
+    "id": "vetonit-vetonet-pls-222",
+    "brand": "vetonit",
+    "name": "VETONET PLS 222",
+    "category": "concrete-repair",
+    "description": "Upgraded premix plaster for smoother finish and exterior application. Polymer-modified for improved adhesion.",
+    "classification": "GP CSIII W2 polymer-modified cementitious plaster (EN 998-1)",
+    "pack_size": [
+      "25 kg bag",
+      "40 kg bag"
+    ],
+    "application_areas": [
+      "Smoother plastered finishes",
+      "Exterior walls",
+      "Concrete and block substrates"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetonet-pls-222",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetogrout-cg510": {
+    "id": "vetonit-vetogrout-cg510",
+    "brand": "vetonit",
+    "name": "VETOGROUT CG510",
+    "category": "concrete-repair",
+    "description": "Non-metallic cementitious precision grout. For accurate anchoring, base plate grouting, and machinery bedding.",
+    "classification": "EN 1504-6 non-shrink precision grout",
+    "strength": {
+      "compressive": "\u226560 N/mm\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Base plate grouting",
+      "Anchoring of machinery",
+      "Precision non-shrink filling"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetogrout-cg510",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetogrout-cg519": {
+    "id": "vetonit-vetogrout-cg519",
+    "brand": "vetonit",
+    "name": "VETOGROUT CG519",
+    "category": "concrete-repair",
+    "description": "Ultra-high-strength non-shrink cementitious grout (>85 MPa). For heavy-duty machinery bedding, structural anchoring, and demanding grouting applications.",
+    "classification": "EN 1504-6 ultra-high-strength non-shrink grout",
+    "strength": {
+      "compressive": ">85 N/mm\u00b2"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Heavy machinery bases",
+      "Bridge bearings",
+      "Crane/transporter rails",
+      "High-load structural anchoring"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetogrout-cg519",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-betocem-80": {
+    "id": "vetonit-betocem-80",
+    "brand": "vetonit",
+    "name": "BETOCEM 80 / VETOTOP CS536",
+    "category": "concrete-repair",
+    "description": "Premixed 30-100 mm thick cementitious screed for floor leveling and renovation. For bonded and unbonded applications.",
+    "classification": "CT C25 F5 (EN 13813)",
+    "strength": {
+      "compressive": "\u226525 N/mm\u00b2",
+      "flexural": "\u22655 N/mm\u00b2"
+    },
+    "coverage": {
+      "value": "~19",
+      "unit": "kg/m\u00b2 per cm thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "30-100 mm",
+    "application_areas": [
+      "Floor screeds over heating",
+      "Deep levelling",
+      "Industrial floor base"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/flooring-systems/vetotop-cs536/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetotop-cl530": {
+    "id": "vetonit-vetotop-cl530",
+    "brand": "vetonit",
+    "name": "VETOTOP CL530",
+    "category": "flooring-systems",
+    "description": "Premixed 2-10 mm thick cementitious self-leveller for final floor finishing. High flowability and smooth finish.",
+    "classification": "CT C30 F7 (EN 13813) self-levelling underlayment",
+    "strength": {
+      "compressive": "\u226530 N/mm\u00b2",
+      "flexural": "\u22657 N/mm\u00b2"
+    },
+    "coverage": {
+      "value": "~1.7",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "2-10 mm",
+    "application_areas": [
+      "Final floor levelling pre-covering",
+      "Under vinyl, wood, ceramic flooring",
+      "Thin-section smoothing"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/flooring-systems/vetotop-cl530/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetotop-cs536": {
+    "id": "vetonit-vetotop-cs536",
+    "brand": "vetonit",
+    "name": "VETOTOP CS536",
+    "category": "flooring-systems",
+    "description": "Premixed 30-100 mm thick cementitious screed for bonded and unbonded applications. Suitable for underfloor heating.",
+    "classification": "CT C25 F5 (EN 13813)",
+    "strength": {
+      "compressive": "\u226525 N/mm\u00b2",
+      "flexural": "\u22655 N/mm\u00b2"
+    },
+    "coverage": {
+      "value": "~19",
+      "unit": "kg/m\u00b2 per cm thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "30-100 mm",
+    "application_areas": [
+      "Floor screeds, underfloor heating",
+      "Bonded and floating screeds",
+      "Pre-tile finishing layer"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/flooring-systems/vetotop-cs536/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetotop-ec498": {
+    "id": "vetonit-vetotop-ec498",
+    "brand": "vetonit",
+    "name": "VETOTOP EC498",
+    "category": "flooring-systems",
+    "description": "Solvent-free high-performance high-build epoxy floor topping. Two-component epoxy system for heavy industrial floors.",
+    "classification": "Solvent-free 2K epoxy high-build floor coating",
+    "pack_size": [
+      "Two-component kit (A+B)"
+    ],
+    "colors": [
+      "8 standard colors + custom RAL"
+    ],
+    "application_areas": [
+      "Heavy industrial floors",
+      "Warehouses, workshops",
+      "Chemical and abrasion-resistant floors"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetotop-ec498",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetobond-pb433": {
+    "id": "vetonit-vetobond-pb433",
+    "brand": "vetonit",
+    "name": "VETOBOND PB433",
+    "category": "primers-bonding",
+    "description": "Polymer bonding admixture for cementitious repair mortars and screeds. Improves adhesion, flexibility, and water resistance.",
+    "classification": "Polymer (SBR/acrylic) bonding admixture",
+    "pack_size": [
+      "5 L drum",
+      "20 L drum"
+    ],
+    "application_areas": [
+      "Bonding coat additive for mortars",
+      "Screed bonding to existing substrates",
+      "Improving adhesion of patch repairs"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetobond-pb433",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-monneli-primer-ac": {
+    "id": "vetonit-monneli-primer-ac",
+    "brand": "vetonit",
+    "name": "MONNELI PRIMER AC",
+    "category": "primers-bonding",
+    "description": "Acrylic water-based primer (Monneli brand \u2014 sibling distribution to Saveto). For consolidating absorbent surfaces before coating or smoothing compound application.",
+    "classification": "Water-based acrylic primer",
+    "pack_size": [
+      "5 L drum",
+      "20 L drum"
+    ],
+    "application_areas": [
+      "Primer for absorbent concrete",
+      "Pre-treatment for paints/coatings",
+      "Dust-binding on cementitious substrates"
+    ],
+    "tds_url": "https://www.monneli.com/products/primer-ac",
+    "gcc_site": "monneli.com"
+  },
+  "vetonit-vetoprime-ep490-491": {
+    "id": "vetonit-vetoprime-ep490-491",
+    "brand": "vetonit",
+    "name": "VETOPRIME EP490 / EP491",
+    "category": "primers-bonding",
+    "description": "Two-component solvent-free epoxy primer. EP491 as film-forming primer; EP490 as penetrating primer for epoxy floor systems.",
+    "classification": "2K solvent-free epoxy primer",
+    "coverage": {
+      "value": "0.25-0.40",
+      "unit": "kg/m\u00b2 per coat"
+    },
+    "pack_size": [
+      "Two-component kit (A+B)"
+    ],
+    "application_areas": [
+      "Primer for epoxy floor coatings",
+      "Concrete substrate consolidation",
+      "Moisture-vapor barrier application"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoprime-ep491",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoproof-cm745": {
+    "id": "vetonit-vetoproof-cm745",
+    "brand": "vetonit",
+    "name": "VETOPROOF CM745 (VETOPROOF S)",
+    "category": "waterproofing",
+    "description": "Two-component flexible polymer-modified cementitious waterproof coating with unique crack-bridging characteristics even after long-term water immersion. Potable-water-approved and withstands negative hydrostatic pressure.",
+    "classification": "EN 14891 CM O2 P crack-bridging cementitious membrane",
+    "coverage": {
+      "value": "0.7-1.7",
+      "unit": "kg/m\u00b2 per coat"
+    },
+    "pack_size": [
+      "20 kg kit",
+      "28 kg kit"
+    ],
+    "shelf_life": "12 months",
+    "certifications": [
+      "Potable water certified (non-toxic)",
+      "Negative hydrostatic pressure resistant",
+      "Sulfate and chloride barrier"
+    ],
+    "application_areas": [
+      "Swimming pools, wet areas",
+      "Potable water tanks",
+      "Wet areas (bathrooms, showers)",
+      "Roofs, terraces, balconies",
+      "Basement and foundation"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/waterproofing/vetoproof-cm745/",
+    "tds_direct": "https://www.saveto.com/system/files/2024-09/TDS%20-%20Vetoproof%20CM745%20-%20Waterproofing%20-%20EN%20(1).pdf",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoproof-azl": {
+    "id": "vetonit-vetoproof-azl",
+    "brand": "vetonit",
+    "name": "VETOPROOF AZL",
+    "category": "waterproofing",
+    "description": "Single-component, cold liquid-applied waterproofing and protective coating based on hybrid polyurethane technology. Flexible, durable, UV-resistant. High solar reflectance (SRI) cool-roof white colour.",
+    "classification": "1K hybrid polyurethane liquid waterproofing (UV-stable cool roof)",
+    "coverage": {
+      "value": "1.5-2.0",
+      "unit": "kg/m\u00b2 (in 2 coats)"
+    },
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "colors": [
+      "white (high SRI)"
+    ],
+    "recoat_wait": "4-12 hours",
+    "certifications": [
+      "High SRI \u2014 cool roof",
+      "UV stable",
+      "Chloride/sulfate resistant"
+    ],
+    "application_areas": [
+      "Roofs, terraces, balconies",
+      "Metal and gypsum board surfaces",
+      "Aluminium sandwich panels, corrugated sheets",
+      "Wet areas (bathrooms, showers, kitchens)"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoproof-azl",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoproof-s-20kg": {
+    "id": "vetonit-vetoproof-s-20kg",
+    "brand": "vetonit",
+    "name": "VETOPROOF CM745 (20 KG KIT)",
+    "category": "waterproofing",
+    "description": "Compact 20 kg variant of Vetoproof CM745 crack-bridging cementitious waterproofing membrane. Same performance characteristics.",
+    "classification": "EN 14891 CM O2 P crack-bridging cementitious membrane",
+    "coverage": {
+      "value": "0.7-1.7",
+      "unit": "kg/m\u00b2 per coat"
+    },
+    "pack_size": [
+      "20 kg kit (smaller size)"
+    ],
+    "application_areas": [
+      "Smaller projects, wet areas",
+      "Balcony and shower waterproofing",
+      "Small pool patches"
+    ],
+    "tds_url": "https://ae.saveto.com/en/products/waterproofing/vetoproof-cm745/",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-vetoproof-nwp-mesh": {
+    "id": "vetonit-vetoproof-nwp-mesh",
+    "brand": "vetonit",
+    "name": "VETOPROOF NWP MESH",
+    "category": "waterproofing",
+    "description": "Non-woven polypropylene reinforcement mesh for waterproofing systems. Embedded between coats of cementitious or liquid membranes.",
+    "classification": "Non-woven polypropylene reinforcement fabric",
+    "pack_size": [
+      "Rolls (1 m \u00d7 50 m)"
+    ],
+    "application_areas": [
+      "Reinforcement for Vetoproof CM745 and AZL",
+      "Corner and joint bridging",
+      "Crack-prone substrate reinforcement"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoproof-nwp",
+    "gcc_site": "ae.saveto.com"
+  },
+  "vetonit-kretesil-colmef": {
+    "id": "vetonit-kretesil-colmef",
+    "brand": "vetonit",
+    "name": "KRETESIL (COLMEF)",
+    "category": "waterproofing",
+    "description": "Colmef-branded crystalline cementitious waterproofing system. Penetrating silicate-based formulation for positive and negative-side waterproofing.",
+    "classification": "Crystalline / silicate-based cementitious waterproofing",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "application_areas": [
+      "Below-grade basement walls",
+      "Water tank interior lining",
+      "Swimming pool basins",
+      "Concrete structures with water seepage"
+    ],
+    "tds_url": "https://www.colmef.com",
+    "gcc_site": "colmef.com"
+  },
+  "vetonit-monneli-elastoseal-pu40": {
+    "id": "vetonit-monneli-elastoseal-pu40",
+    "brand": "vetonit",
+    "name": "MONNELI ELASTOSEAL PU40",
+    "category": "sealants-joints",
+    "description": "One-component polyurethane elastomeric joint sealant, \u00b125% movement capability. For expansion joints and dynamic joint sealing.",
+    "classification": "ISO 11600 class 25 LM polyurethane sealant",
+    "movement_capability": "\u00b125%",
+    "pack_size": [
+      "600 ml sausage",
+      "300 ml cartridge"
+    ],
+    "colors": [
+      "grey",
+      "white",
+      "black"
+    ],
+    "application_areas": [
+      "Expansion joints",
+      "Construction joints",
+      "Perimeter sealing",
+      "Fa\u00e7ade sealing"
+    ],
+    "tds_url": "https://www.monneli.com/products/elastoseal-pu40",
+    "gcc_site": "monneli.com"
+  },
+  "vetonit-vetoflex-pu780": {
+    "id": "vetonit-vetoflex-pu780",
+    "brand": "vetonit",
+    "name": "VETOFLEX PU780",
+    "category": "sealants-joints",
+    "description": "Single-component liquid-applied polyurethane waterproofing membrane with sealant capability. For joints in waterproofing systems.",
+    "classification": "1K PU liquid-applied waterproofing / joint sealant",
+    "pack_size": [
+      "15 kg pail"
+    ],
+    "colors": [
+      "grey"
+    ],
+    "application_areas": [
+      "Joint sealing in waterproofing systems",
+      "Dynamic structural joints",
+      "Wet-area joint sealing"
+    ],
+    "tds_url": "https://www.saveto.com/products/vetoflex-pu780",
+    "gcc_site": "ae.saveto.com"
+  }
+}

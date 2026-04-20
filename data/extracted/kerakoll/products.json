@@ -1,0 +1,258 @@
+{
+  "kerakoll-super-bio": {
+    "id": "kerakoll-super-bio",
+    "brand": "kerakoll",
+    "name": "SUPER BIO",
+    "category": "tile-adhesives",
+    "description": "Eco-friendly cement-based mineral adhesive for laying ceramic tiles on walls and floors, internal and external areas. Very low VOC emissions. GreenBuilding rated.",
+    "classification": "C2 T / C2 TE (EN 12004)",
+    "coverage": {
+      "value": "~2-3",
+      "unit": "kg/m\u00b2 (at 2-3 mm bed thickness)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004 C2T",
+      "EMICODE EC1 Plus / GreenBuilding 4",
+      "Very low VOC"
+    ],
+    "application_areas": [
+      "Interior and exterior floors and walls",
+      "Ceramic, porcelain, natural stone",
+      "Eco-friendly and LEED/green projects"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/super-bio",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-biofix": {
+    "id": "kerakoll-biofix",
+    "brand": "kerakoll",
+    "name": "BIOFIX",
+    "category": "tile-adhesives",
+    "description": "Mineral adhesive with extremely low chemical additive content for high-performance bonding with no vertical slip and long open time, for porcelain tiles, ceramic tiles and natural stone.",
+    "classification": "C2TE (EN 12004)",
+    "coverage": {
+      "value": "1.25",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "30 kg bag"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004 C2TE",
+      "GreenBuilding rating"
+    ],
+    "application_areas": [
+      "Ceramic, vitrified, porcelain tiles",
+      "Natural stone",
+      "Interior and exterior floors and walls"
+    ],
+    "tds_url": "https://products.kerakoll.com/en-gcc/p/biofix",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-bioflex-white": {
+    "id": "kerakoll-bioflex-white",
+    "brand": "kerakoll",
+    "name": "BIOFLEX WHITE",
+    "category": "tile-adhesives",
+    "description": "Mineral adhesive for high-performance bonding of porcelain tiles, ceramic tiles and natural stone. No vertical slip. Long open time (\u226560 minutes at 23\u00b0C). White Shock version for sensitive stones. GreenBuilding rating 4, EMICODE EC1 Plus.",
+    "classification": "C2TE (EN 12004)",
+    "coverage": {
+      "value": "1.25",
+      "unit": "kg/m\u00b2 per mm of thickness"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "open_time": "\u226560 minutes at +23\u00b0C",
+    "correction_time": "\u226520 minutes",
+    "service_temp": "-30\u00b0C to +80\u00b0C",
+    "mix_ratio": "White Shock: 33%; Grey: 32% water",
+    "colors": [
+      "grey",
+      "White Shock"
+    ],
+    "certifications": [
+      "EN 12004 C2TE",
+      "EMICODE EC1 Plus (very low VOC)",
+      "GreenBuilding Rating 4",
+      "ISO 9001, 14001, 45001"
+    ],
+    "application_areas": [
+      "Porcelain tiles, ceramic tiles, terracotta, klinker, marble, natural stone, mosaics",
+      "Residential, commercial, infrastructure",
+      "Marine and street-furniture projects",
+      "Existing tiles, waterproofing, heated floors",
+      "Various substrates incl. gypsum, timber, metal (with priming)"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/bioflex",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-biogel-no-limit": {
+    "id": "kerakoll-biogel-no-limit",
+    "brand": "kerakoll",
+    "name": "BIOGEL NO LIMIT",
+    "category": "tile-adhesives",
+    "description": "Structural, flexible geo-binder gel adhesive for large-format tiles. Delivers superior bonding, high deformation capacity, and long-term durability under extreme thermal and mechanical stress. Thixotropic and fluid rheology guarantees full-bed wetting for slim and large slabs.",
+    "classification": "C2TE S1 (EN 12004 / EN 12002)",
+    "strength": {
+      "bond": "\u22652.5 N/mm\u00b2",
+      "deformability": "S1 (EN 12002)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004 C2TES1",
+      "GreenBuilding certified"
+    ],
+    "application_areas": [
+      "Large-format porcelain slabs on facades",
+      "High-rise building installations",
+      "Slim tiles in luxury interiors",
+      "Heated floors",
+      "Swimming pools and aquatic environments",
+      "Heavy-stress thermal environments"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/biogel-no-limits",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-biogel-extreme": {
+    "id": "kerakoll-biogel-extreme",
+    "brand": "kerakoll",
+    "name": "BIOGEL EXTREME",
+    "category": "tile-adhesives",
+    "description": "Highly deformable and workable, hybrid gel adhesive. Bonds any material to any substrate and tested under the most extreme working conditions. Extended open time, exceptional bond strength. Revolutionary Biogel gel technology from Kerakoll GreenLab.",
+    "classification": "C2TE S2 (EN 12004 / EN 12002) \u2014 'extreme' class",
+    "pack_size": [
+      "10 kg monopack (8.6 kg powder + 1.4 kg liquid)"
+    ],
+    "strength": {
+      "deformability": "S2 (>5 mm deflection, EN 12002)"
+    },
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004 C2TES2",
+      "GreenBuilding certified"
+    ],
+    "application_areas": [
+      "Any substrate (glass mosaic on timber, natural stone on metal)",
+      "Swimming pools and extreme wet areas",
+      "Heavy dynamic-stress installations",
+      "Facade and external thermal-stress projects"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/biogel-extreme",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-fugabella-color": {
+    "id": "kerakoll-fugabella-color",
+    "brand": "kerakoll",
+    "name": "FUGABELLA COLOR",
+    "category": "tile-grouts",
+    "description": "Decorative resin-cement (hybrid Resina-cemento\u00ae) grout designed by Piero Lissoni with 50 design shades. Water-repellent, very low water absorption, high surface hardness, high resistance to common acids, and total colour uniformity. Eliminates efflorescence risk (no Portland cement).",
+    "classification": "CG2 WA (ISO 13007-3)",
+    "pack_size": [
+      "3 kg bag",
+      "5 kg bag"
+    ],
+    "joint_width": "0-5 mm (thin-grain finish)",
+    "colors": [
+      "50 Piero Lissoni design shades"
+    ],
+    "certifications": [
+      "ISO 13007-3 CG2 WA",
+      "GreenBuilding Rating 4",
+      "Low VOC, bacteriostatic, fungistatic"
+    ],
+    "application_areas": [
+      "Ceramic and porcelain tiles",
+      "Low-thickness slabs, mosaic, marble, natural stone",
+      "Interior and exterior floors and walls",
+      "Residential, commercial, industrial"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/fugabella-color",
+    "tds_direct": "https://products.kerakoll.com/yep-repository/kerakoll/media/Fugabella_Color_2024_GCC.pdf",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-fugalite-color": {
+    "id": "kerakoll-fugalite-color",
+    "brand": "kerakoll",
+    "name": "FUGALITE COLOR",
+    "category": "tile-grouts",
+    "description": "Water- and stain-proof liquid ceramic grout (epoxy-resin-based) for tile joints. High chemical and mechanical resistance. Guarantees aesthetic and functional continuity of ceramic surfaces. Water-based resin (Fugalite Bio variant is hypoallergenic; tested at University of Modena).",
+    "classification": "RG (ISO 13007-4) \u2014 reactive resin grout",
+    "pack_size": [
+      "3 kg kit (A+B)",
+      "5 kg kit (A+B)"
+    ],
+    "joint_width": "0-20 mm",
+    "colors": [
+      "24+ colours (12 wood-effect variants for Fugalite Bio)"
+    ],
+    "certifications": [
+      "ISO 13007-4 RG",
+      "GreenBuilding certified",
+      "HACCP/EC 852/2004 compliant (Fugalite Bio - food hygiene)",
+      "Bacteriostatic (CSTB tested)",
+      "Hypoallergenic dermatologically tested"
+    ],
+    "application_areas": [
+      "Commercial kitchens, food processing",
+      "Hospitals, clinics, healthcare",
+      "Swimming pools, spas",
+      "Chemical-exposed surfaces",
+      "Premium hospitality and luxury projects"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/fugalite-color",
+    "gcc_site": "gcc.kerakoll.com"
+  },
+  "kerakoll-active-prime-grip": {
+    "id": "kerakoll-active-prime-grip",
+    "brand": "kerakoll",
+    "name": "ACTIVE PRIM GRIP",
+    "category": "primers-bonding",
+    "description": "Rapid universal adhesion promoter for self-levelling products, cement-based adhesives, finishing products, plasters and renders. Quartz finish. Single-component, water-based. Active cross-link develops compatibility with absorbent AND non-absorbent substrates.",
+    "classification": "Universal bond-promoter primer with quartz filler",
+    "coverage": {
+      "value": "0.2-0.3",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "5 kg drum",
+      "10 kg drum"
+    ],
+    "colors": [
+      "quartz-filled (white/beige)"
+    ],
+    "certifications": [
+      "GreenBuilding rated",
+      "Interior and exterior use"
+    ],
+    "application_areas": [
+      "Adhesion promoter on smooth/non-absorbent substrates",
+      "Under self-levelling compounds on ceramic/terrazzo",
+      "Over gypsum/anhydrite (neutralises expansive reaction)",
+      "Under mineral plasters, cement adhesives, decorative coverings"
+    ],
+    "tds_url": "https://gcc.kerakoll.com/p/active-prime-grip",
+    "gcc_site": "gcc.kerakoll.com"
+  }
+}

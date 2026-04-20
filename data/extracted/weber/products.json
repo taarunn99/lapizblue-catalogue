@@ -1,0 +1,976 @@
+{
+  "weber-webercol-fix": {
+    "id": "weber-webercol-fix",
+    "brand": "weber",
+    "name": "webercol fix",
+    "category": "tile-adhesives",
+    "description": "Ready-mix cement-based tile adhesive for internal use. Water resistant with strong bonding effect. Thixotropic, crack-resistant, non-slump.",
+    "classification": "C1 (EN 12004)",
+    "coverage": {
+      "value": "3-7",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag"
+    ],
+    "open_time": "15 minutes at 20\u00b0C",
+    "pot_life": "2 hours at 20\u00b0C",
+    "grouting_wait": "24 hours",
+    "mix_ratio": "4-4.8 L water per 20 kg; 5-6 L per 25 kg",
+    "service_temp": "-20\u00b0C to +70\u00b0C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "density": "1.55 \u00b1 0.05 kg/L",
+    "application_areas": [
+      "Interior bathrooms, kitchens, regular rooms, stairs",
+      "Concrete, stone walls, cementitious plaster",
+      "Ceramic tiles (not for gypsum substrates or pools)"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/cementitious-tile-adhesives/webercol-fix",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-tile-fix": {
+    "id": "weber-tile-fix",
+    "brand": "weber",
+    "name": "WEBER TILE FIX",
+    "category": "tile-adhesives",
+    "description": "Weber's basic cement-based tile adhesive (also known as webercol fix plus in some markets). Ready-mix, polymer-modified, water resistant with slip resistance.",
+    "classification": "C1T (EN 12004)",
+    "coverage": {
+      "value": "3-5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag"
+    ],
+    "open_time": "~20 minutes",
+    "pot_life": "~4 hours",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4 latex-Portland cement mortar"
+    ],
+    "application_areas": [
+      "Internal walls and floor tiling",
+      "External flooring",
+      "Ceramic and vitrified tiles"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/cementitious-tile-adhesives/webercol-fix-plus",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webercol-pro": {
+    "id": "weber-webercol-pro",
+    "brand": "weber",
+    "name": "WEBER COL PRO",
+    "category": "tile-adhesives",
+    "description": "Ready-mix cement-based tile adhesive modified with redispersible polymer. Non-sagging slip-resistant with extended open time. For internal walls/floors and external floors. Can become S1-deformable when mixed with weberad 225 MB.",
+    "classification": "C2TE (EN 12004); S1 with weberad 225 MB additive",
+    "coverage": {
+      "value": "3-5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag"
+    ],
+    "open_time": "\u2265 20-30 min (E-class extended)",
+    "pot_life": "~4 hours",
+    "grouting_wait": "24 hours",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4",
+      "EN 12004 C2TE"
+    ],
+    "application_areas": [
+      "Internal walls and floors",
+      "External floors",
+      "Concrete, cementitious substrates",
+      "Deformable version (with weberad 225 MB) for heated floors"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/cementitious-tile-adhesives/webercol-pro",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webercol-plus": {
+    "id": "weber-webercol-plus",
+    "brand": "weber",
+    "name": "WEBER COL PLUS",
+    "category": "tile-adhesives",
+    "description": "Ready-mix cement-based high-performance polymer 'latex' modified tile adhesive for internal and external use. Strong bonding effect for large tiles or permanent humidity exposure. Low Dust technology (90% reduction).",
+    "classification": "C2TE (EN 12004)",
+    "coverage": {
+      "value": "3-5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag",
+      "25 kg bag"
+    ],
+    "open_time": "25 minutes at 20\u00b0C (extended)",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_method": "Notched trowel, 2-3 mm minimum thickness",
+    "certifications": [
+      "EN 12004 C2TE",
+      "Low Dust technology"
+    ],
+    "application_areas": [
+      "Ceramic, sandstone, granite, marble, porcelain tiles",
+      "Concrete, lightweight blocks, stone walls",
+      "Glazed tiles (internal), cementitious plaster",
+      "Gypsum board (with primer)",
+      "Polystyrene fixing",
+      "Over acrylic waterproofing (weberdry gum)"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/cementitious-tile-adhesives/webercol-plus",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webercol-premium": {
+    "id": "weber-webercol-premium",
+    "brand": "weber",
+    "name": "WEBER COL PREMIUM",
+    "category": "tile-adhesives",
+    "description": "Two-component, high-performance cementitious flexible tile adhesive (latex modified). For internal and external use in damp environments. Water resistant, S1 deformable.",
+    "classification": "C2TES1 (EN 12004); S1 deformable per EN 12002",
+    "coverage": {
+      "value": "3-5",
+      "unit": "kg/m\u00b2"
+    },
+    "pack_size": [
+      "20 kg bag + latex bottle"
+    ],
+    "open_time": "Extended (E-class)",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004 C2TES1",
+      "EN 12002 S1 deformability"
+    ],
+    "application_areas": [
+      "Large-format tiles on interior/exterior floors and walls",
+      "Damp environments, water-exposed areas",
+      "Heated floors (flexibility)",
+      "Facades"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/cementitious-tile-adhesives/webercol-premium",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webercol-epo-plus": {
+    "id": "weber-webercol-epo-plus",
+    "brand": "weber",
+    "name": "WEBERCOL EPO PLUS",
+    "category": "tile-adhesives",
+    "description": "100% reactive, solvent-free, water-cleanable, thin-bed epoxy tile adhesive. Chemical resistant, waterproof, moisture insensitive. Fast curing, non-sag formulation.",
+    "classification": "Two-component epoxy thin-bed tile adhesive (RG/R2)",
+    "pack_size": [
+      "5 kg kit (A+B)",
+      "10 kg kit (A+B)"
+    ],
+    "pot_life": "~1 hour at 30\u00b0C",
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "100% reactive epoxy"
+    ],
+    "application_areas": [
+      "Chemical/food/beverage industries",
+      "Car showrooms",
+      "Ceramic, vitrified, stone tiles on cement boards, concrete, steel/metal",
+      "Waterproof wet areas"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/resine-reactive-dispersion-tile-adhesives/webercol-epo-plus",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberjoint-deco": {
+    "id": "weber-weberjoint-deco",
+    "brand": "weber",
+    "name": "WEBER JOINT DECO",
+    "category": "tile-grouts",
+    "description": "High-performance polymer-modified tile grout with non-shading colour technology. High stain resistance, anti-crack, very low water absorption. Wide range of attractive colours.",
+    "classification": "CG2 WA (EN 13888) / ISO 13007 / ANSI A118.6",
+    "pack_size": [
+      "4.5 kg bag",
+      "5 kg bag"
+    ],
+    "joint_width": "up to 10 mm",
+    "grouting_wait_floors": "14 days (min 3 days for walls) after traditional site-mix mortar",
+    "colors": [
+      "Wide range (non-shading colour technology)"
+    ],
+    "certifications": [
+      "EN 13888 CG2 WA",
+      "ANSI A118"
+    ],
+    "application_areas": [
+      "Interior and exterior floor/wall tile grouting",
+      "Wet and dry areas",
+      "High-stain-risk areas (kitchens, bathrooms)"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/tile-grouts/weberjoint-deco",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberjoint-perfect": {
+    "id": "weber-weberjoint-perfect",
+    "brand": "weber",
+    "name": "WEBER JOINT PERFECT",
+    "category": "tile-grouts",
+    "description": "High-performance, low-stain cementitious tile grout with Hydro Repell and Mould Stop technologies. Pre-mixed non-shrink grout for wet and dry areas. Ideal for swimming pools.",
+    "classification": "CG2 WA (EN 13888)",
+    "pack_size": [
+      "5 kg bag"
+    ],
+    "joint_width": "1-20 mm",
+    "pot_life": "25-30 minutes",
+    "set_time": "~2 hours",
+    "application_temp": "+5\u00b0C to +25\u00b0C",
+    "mix_ratio": "~4:1 grout:water (1.3 L per 5 kg)",
+    "colors": [
+      "Wide range"
+    ],
+    "certifications": [
+      "EN 13888 CG2 WA",
+      "Hydro Repell",
+      "Mould Stop",
+      "Frost resistant once set"
+    ],
+    "application_areas": [
+      "Swimming pools",
+      "Wet areas / bathrooms",
+      "Soft-faced marble",
+      "Scratch-resistant grouting"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/tile-grouts/weberjoint-perfect",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberepox-easy": {
+    "id": "weber-weberepox-easy",
+    "brand": "weber",
+    "name": "WEBERPOX EASY",
+    "category": "tile-grouts",
+    "description": "100% reactive, 2-component epoxy tile grout and tile adhesive with easy water-cleanable properties. Chemical resistant, high strength, non-sag, stain resistant. Maintains workability after 1 hour at 40\u00b0C.",
+    "classification": "RG / RG2 reactive resin grout (EN 13888); exceeds ANSI A118.3",
+    "pack_size": [
+      "5 kg kit (A+B)"
+    ],
+    "pot_life": "~1 hour at 30-40\u00b0C",
+    "colors": [
+      "Wide range (consult grout colour chart)"
+    ],
+    "certifications": [
+      "RG2 (EN 13888)",
+      "ANSI A118.3"
+    ],
+    "application_areas": [
+      "Medium and heavy-duty hygienic environments",
+      "Chemical/corrosive conditions",
+      "Swimming pools (saline)",
+      "Food industry, car showrooms",
+      "Dual-use: grout + adhesive"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/tile-grouts/weberepox-easy",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webertec-mc1": {
+    "id": "weber-webertec-mc1",
+    "brand": "weber",
+    "name": "WEBERTEC MC1",
+    "category": "concrete-repair",
+    "description": "Durable mono-component micro concrete with selected sand and aggregates, special cement, green binders and additives. Flowable consistency for congested areas. Shrinkage-compensating for high compressive strength and durability.",
+    "classification": "Mono-component micro-concrete (EN 1504-3)",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "30-200 mm per layer (up to 300 mm with reinforcement)",
+    "strength": {
+      "compressive": "High structural grade"
+    },
+    "application_areas": [
+      "Structural repair at high thicknesses",
+      "Column jacketing",
+      "Repair of congested reinforcement zones",
+      "Pile cap repair"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/grouting-bedding/webertec-mc1",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webertec-301": {
+    "id": "weber-webertec-301",
+    "brand": "weber",
+    "name": "WEBERTEC 301",
+    "category": "concrete-repair",
+    "description": "Ready-to-use non-shrink structural grout. Shrinkage-compensating mortar with excellent adhesion. Used where high compressive strength and shock/vibration resistance are required.",
+    "classification": "Non-shrink structural cementitious grout",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "strength": {
+      "compressive": ">60 MPa typical"
+    },
+    "application_areas": [
+      "Machine base plates",
+      "Column bases",
+      "Anchoring rebar in congested zones",
+      "Precast element joints"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/grouting-bedding/webertec-301",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webertec-grout-p": {
+    "id": "weber-webertec-grout-p",
+    "brand": "weber",
+    "name": "WEBERTEC GROUT P",
+    "category": "concrete-repair",
+    "description": "Ready-to-use free-flow cementitious non-shrink precision grout made of sand, special cement and additives. Easy handling with no bleed and zero shrinkage.",
+    "classification": "Cementitious non-shrink precision grout (EN 1504-6)",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "strength": {
+      "compressive": ">60 MPa typical"
+    },
+    "application_areas": [
+      "Precision anchoring of base plates",
+      "Bridge bearings",
+      "Steel rebar grouting in holes",
+      "Heavy equipment foundation grouting"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/grouting-bedding/webertec-grout-p",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberep-360-ffr": {
+    "id": "weber-weberep-360-ffr",
+    "brand": "weber",
+    "name": "WEBER REP 360 FFR",
+    "category": "concrete-repair",
+    "description": "Pre-mixed cementitious paste for fair-face concrete. Dry pre-mixed coating based on hydraulic binders, siliceous filler, water retaining agents and admixtures. Available in white and grey.",
+    "classification": "Fair-face concrete repair skim paste",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "application_areas": [
+      "Repair of honeycombing in fair-face concrete",
+      "Blemish repair before coatings/painting",
+      "Architectural concrete finish restoration"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/concrete-repair-smoothing/weberep-360-ffr",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberep-331-tx": {
+    "id": "weber-weberep-331-tx",
+    "brand": "weber",
+    "name": "WEBER REP 331TX",
+    "category": "concrete-repair",
+    "description": "Ready-to-use non-shrink thixotropic repair mortar with fiber reinforcement. Made of sand (reconstituted grain size), special cement, fibres and additives. High strength, high adhesion, compactness, non-shrinking. Applied manually or by spraying.",
+    "classification": "EN 1504-3 R3/R4 structural repair mortar (fiber-reinforced)",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "pot_life": "~1 hour",
+    "application_areas": [
+      "Vertical/overhead concrete repair",
+      "Honeycombing repair",
+      "Edges of steps and load-bearing structures",
+      "Cover layer restoration"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/concrete-repair-smoothing/weberep-331-tx",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberep-epo-412-cry-plus": {
+    "id": "weber-weberep-epo-412-cry-plus",
+    "brand": "weber",
+    "name": "WEBER REP EPO 412 CRY PLUS",
+    "category": "concrete-repair",
+    "description": "High strength, thixotropic epoxy patching and bonding paste. Two-component epoxy. Bonding agent for fresh-to-old concrete, patching, and sealant for injection-crack repair systems (used with weberep epo 650 i).",
+    "classification": "EN 1504-4 structural bonding epoxy",
+    "strength": {
+      "compressive": "70 MPa",
+      "flexural": "30 MPa"
+    },
+    "thickness_max": "3 mm (single coat)",
+    "application_areas": [
+      "Epoxy patching and bonding of concrete",
+      "Crack repair (sealant over packers)",
+      "Cold-joint concrete bonding",
+      "Structural adhesion"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/concrete-repair-smoothing/weberep-epo-412-cry-plus",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberanc-405-bfx": {
+    "id": "weber-weberanc-405-bfx",
+    "brand": "weber",
+    "name": "WEBERANC 405 BFX",
+    "category": "concrete-repair",
+    "description": "Pure epoxy anchoring resin in cartridge. Two-component high-strength pure epoxy chemical anchoring system. Specifically for heavy loads, anchoring rebar and studs in solid concrete.",
+    "classification": "Pure epoxy chemical anchoring resin",
+    "pack_size": [
+      "585 ml cartridge",
+      "345 ml cartridge"
+    ],
+    "application_areas": [
+      "Heavy-load rebar anchoring",
+      "Stud anchoring in solid concrete",
+      "Structural strengthening",
+      "Seismic-rated fasteners"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/anchoring-bonding/weberanc-405-bfx",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webertec-epo-430-grt-plus": {
+    "id": "weber-webertec-epo-430-grt-plus",
+    "brand": "weber",
+    "name": "WEBERTEC EPO 430 GRT PLUS",
+    "category": "concrete-repair",
+    "description": "Three-component high-flow epoxy grout: resin, hardener and specific fillers. Very resistant, waterproof, non-shrink resin grout. Fluid consistency for precision grouting/bedding.",
+    "classification": "Three-component structural epoxy grout (EN 1504-6)",
+    "pack_size": [
+      "Multi-component kit"
+    ],
+    "application_areas": [
+      "Free-flowing precision grouting",
+      "Machine foundations (heavy dynamic loads)",
+      "Anchoring under static/dynamic conditions",
+      "Bridge bearings"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/grouting-bedding/webertec-epo-430-grt-plus",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-epo-patch": {
+    "id": "weber-weberfloor-epo-patch",
+    "brand": "weber",
+    "name": "WEBERFLOOR EPO PATCH",
+    "category": "concrete-repair",
+    "description": "Two-component solvent-free epoxy product. Specifically for repairing minor imperfections in concrete substrates and for levelling floors before application of floor coatings, self-levelling, screeds or decorative flooring.",
+    "classification": "Two-component solvent-free epoxy repair paste",
+    "application_areas": [
+      "Blowhole repair on concrete floors",
+      "Levelling before self-levelling screeds",
+      "Minor imperfection patching under decorative flooring",
+      "Substrate preparation for epoxy systems"
+    ],
+    "tds_url": "https://www.middleeast.weber/flooring/epoxy-floor-coating-systems/weberfloor-epopatch",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webertec-epo-450-pc": {
+    "id": "weber-webertec-epo-450-pc",
+    "brand": "weber",
+    "name": "WEBERTEC EPO 450 PC",
+    "category": "concrete-repair",
+    "description": "Three-component epoxy mortar. Specifically for pile capping treatment.",
+    "classification": "Three-component epoxy mortar for PCT (Pile Cap Treatment)",
+    "application_areas": [
+      "Pile cap treatment under waterproofing membranes",
+      "Impermeable coating on pile heads"
+    ],
+    "tds_url": "https://www.middleeast.weber/concrete-repair-anchoring-and-grouting/grouting-bedding/webertec-epo-450-pc",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weber-sp-33": {
+    "id": "weber-weber-sp-33",
+    "brand": "weber",
+    "name": "WEBER SP 33",
+    "category": "concrete-repair",
+    "description": "One-coat high-bonding ready-mix plaster for lightweight blocks. Fibre-reinforced cement-lime ready-mix plaster for traditional masonry rendering.",
+    "classification": "Fibre-reinforced cement-lime plaster (one-coat)",
+    "coverage": {
+      "value": "~1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "50 kg bag"
+    ],
+    "application_areas": [
+      "Render over lightweight concrete blocks",
+      "Single-coat internal/external plaster",
+      "Pre-paint surface preparation"
+    ],
+    "tds_url": "https://www.middleeast.weber/plastering-mortars/weberpremix-sp-33",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weber-sp-11": {
+    "id": "weber-weber-sp-11",
+    "brand": "weber",
+    "name": "WEBER SP 11",
+    "category": "concrete-repair",
+    "description": "Pre-blended sand-cement ready-mix plaster for internal plastering on blockwork and concrete surfaces before painting. Factory-controlled blend for consistent quality.",
+    "classification": "Pre-blended sand-cement internal plaster",
+    "coverage": {
+      "value": "~1.6",
+      "unit": "kg/m\u00b2 per mm thickness"
+    },
+    "pack_size": [
+      "50 kg bag"
+    ],
+    "application_areas": [
+      "Internal plaster on block and concrete walls",
+      "Substrate for paint in residential/commercial"
+    ],
+    "tds_url": "https://www.middleeast.weber/plastering-mortars/weberpremix-sp-11",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-360-pu": {
+    "id": "weber-weberdry-360-pu",
+    "brand": "weber",
+    "name": "WEBERDRY 360 PU",
+    "category": "waterproofing",
+    "description": "One-component liquid-applied polyurethane waterproofing membrane. Creates a continuous watertight seal with excellent adhesion to concrete, metal, bitumen membranes and acrylic paints. Allows moisture vapour transmission.",
+    "classification": "One-component liquid-applied polyurethane membrane",
+    "coverage": {
+      "value": "~0.5 mm/layer; typical total 1.5-2 mm",
+      "unit": "mm DFT per layer"
+    },
+    "pack_size": [
+      "15 kg drum",
+      "25 kg drum"
+    ],
+    "recoat_wait": "24 hours at +23\u00b0C",
+    "application_temp": "+5\u00b0C to +35\u00b0C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Water supply channels",
+      "Water storage tanks",
+      "Flowerbeds and fountains",
+      "Rooftops and terraces",
+      "Under-tile wet areas (pools, bathrooms, balconies)",
+      "Crack bridging"
+    ],
+    "notes": "All cracks and expansion joints must be sealed with weber jointseal PU before application",
+    "tds_url": "https://www.middleeast.weber/waterproofing/polyurethane-liquid-membranes/weberdry-360-pu",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-110-fx": {
+    "id": "weber-weberdry-110-fx",
+    "brand": "weber",
+    "name": "WEBERDRY 110 FX",
+    "category": "waterproofing",
+    "description": "Two-component polymer-modified cementitious waterproof coating. Powder (cements, fillers, admixtures) + liquid (resins, additives). Cures to an elastomeric, waterproof, flexible membrane suitable for potable water tanks, reservoirs, canals, tunnels.",
+    "classification": "Two-component flexible cementitious waterproof coating (EN 14891)",
+    "pack_size": [
+      "A+B kit"
+    ],
+    "tile_wait": "1 week before tiling",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Potable water tanks",
+      "Reservoirs, canals, tunnels",
+      "Basements, foundations",
+      "Wet areas (bathrooms, kitchens)",
+      "Under ceramic tiles (internal & external)"
+    ],
+    "notes": "For use with webercol flex adhesive when tiling over. Certified for potable water contact.",
+    "tds_url": "https://www.middleeast.weber/waterproofing/cement-based-waterproofing-primers/weberdry-110-fx",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-116-fx": {
+    "id": "weber-weberdry-116-fx",
+    "brand": "weber",
+    "name": "WEBERDRY 116 FX",
+    "category": "waterproofing",
+    "description": "Flexible cement-based acrylic waterproof coating. Two-component polymer-modified slurry applied to concrete and mortar structures to prevent water infiltration. Used under interior/exterior ceramic tiles.",
+    "classification": "Two-component flexible cementitious-acrylic waterproofing slurry",
+    "pack_size": [
+      "18 kg kit (A+B)"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "application_areas": [
+      "Under interior/exterior ceramic tiles",
+      "Bathrooms, kitchens",
+      "Damp cement substrates",
+      "Waterproofing, crack sealing, repair works"
+    ],
+    "tds_url": "https://www.middleeast.weber/waterproofing/cement-based-waterproofing-primers/weberdry-116-fx",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-rbe": {
+    "id": "weber-weberdry-rbe",
+    "brand": "weber",
+    "name": "WEBERDRY RBE",
+    "category": "waterproofing",
+    "description": "Rubberized bitumen emulsion protective coating. Dries to form a black, flexible, seamless waterproofing film. Excellent adhesion to most building substrates. Single-component, non-flammable, easy to apply.",
+    "classification": "Rubberized bitumen emulsion (BS EN 15814)",
+    "coverage": {
+      "value": "2-2.5",
+      "unit": "m\u00b2/L per coat",
+      "notes": "400-500 microns WFT, 160-200 microns DFT per coat"
+    },
+    "pack_size": [
+      "20 L drum",
+      "200 L drum"
+    ],
+    "colors": [
+      "black"
+    ],
+    "application_areas": [
+      "Wet area waterproofing",
+      "Sandwich membrane floors",
+      "Vapour barrier for cladded walls",
+      "Roof maintenance (concrete, lightweight screed, timber, slate)",
+      "Shallow concrete/block/brick foundations",
+      "Footings and buried elements",
+      "Curing membrane on green concrete"
+    ],
+    "notes": "Two-coat application recommended; second coat at right angles to first",
+    "tds_url": "https://www.middleeast.weber/waterproofing/bituminous-liquid-membranes/weberdry-rbe",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-rbv": {
+    "id": "weber-weberdry-rbv",
+    "brand": "weber",
+    "name": "WEBERDRY RBV",
+    "category": "waterproofing",
+    "description": "Ready-to-use cold-applied bitumen emulsion modified with SBR (Styrene Butadiene Rubber). Provides a tough, durable, elastic protective coating. Higher performance rubberized bitumen than RBE.",
+    "classification": "SBR-modified rubberized bitumen emulsion",
+    "coverage": {
+      "value": "~2-2.5",
+      "unit": "m\u00b2/L per coat"
+    },
+    "pack_size": [
+      "20 L drum",
+      "200 L drum"
+    ],
+    "colors": [
+      "black"
+    ],
+    "application_areas": [
+      "Below-ground foundations, retaining walls",
+      "Facades under stone cladding",
+      "Damp-proof courses and membranes",
+      "Enhanced flexibility vs standard RBE"
+    ],
+    "tds_url": "https://www.middleeast.weber/waterproofing/bituminous-liquid-membranes/weberdry-rbv",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-roof": {
+    "id": "weber-weberdry-roof",
+    "brand": "weber",
+    "name": "WEBERDRY ROOF",
+    "category": "waterproofing",
+    "description": "Acrylic-based mono-component premium waterproof coating for roofs. Forms seamless durable membrane, highly flexible, UV-resistant, rain and ponded-water resistant. Used as stand-alone roof coating or topcoat.",
+    "classification": "Acrylic mono-component roof waterproof coating",
+    "pack_size": [
+      "20 kg drum"
+    ],
+    "recoat_wait": "6 hours between coats",
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "application_areas": [
+      "Roof waterproofing (new and old buildings)",
+      "Topcoat over other membranes",
+      "UV-exposed roof decks, terraces"
+    ],
+    "tds_url": "https://www.middleeast.weber/waterproofing/acrylic-based-waterproofing/weberdry-roof",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-fabric-fx": {
+    "id": "weber-weberdry-fabric-fx",
+    "brand": "weber",
+    "name": "WEBERDRY FABRIC FX",
+    "category": "waterproofing",
+    "description": "Reinforcing fabric for use in combination with PU-based and cementitious waterproofing membranes. Improves strength, durability, and crack-bridging of the waterproofing system. Used at wall-floor joints, cracks, corners.",
+    "classification": "Non-woven synthetic reinforcement fabric",
+    "pack_size": [
+      "Rolls (various widths)"
+    ],
+    "application_areas": [
+      "Reinforcement layer under/within PU membranes",
+      "Wall-floor intersections (fillet joints)",
+      "Cracks and movement-prone zones",
+      "Corner reinforcement in waterproofing systems"
+    ],
+    "notes": "Apply 5-10 cm stripe overlapping between sheets",
+    "tds_url": "https://www.middleeast.weber/waterproofing/weberdry-fabric-fx",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberdry-150-blc": {
+    "id": "weber-weberdry-150-blc",
+    "brand": "weber",
+    "name": "WEBERDRY 150 BLC",
+    "category": "waterproofing",
+    "description": "Fast-setting hydraulic cement plugging mortar. Instantly and durably stops slight or serious water leaks. Hardens in less than 1 minute and slightly expands during setting. Can be used underwater; resists very high pressure; prevents corrosion.",
+    "classification": "Flash-setting hydraulic plug mortar",
+    "pack_size": [
+      "5 kg bucket",
+      "15 kg bucket"
+    ],
+    "setting_time": "< 1 minute",
+    "application_areas": [
+      "Instant stopping of active water leaks",
+      "Sealing water ingress in underground structures",
+      "Grooves around pipes/penetrations through slabs",
+      "Underwater high-pressure repair"
+    ],
+    "tds_url": "https://www.middleeast.weber/waterproofing/cement-based-waterproofing-primers/weberdry-150-blc",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-epo-coat": {
+    "id": "weber-weberfloor-epo-coat",
+    "brand": "weber",
+    "name": "WEBERFLOOR EPO COAT",
+    "category": "flooring-systems",
+    "description": "Two-component, very low VOC, pigmented solvent-free epoxy floor coating. Self-levelling with excellent smoothness. Heavy-duty pigmented coating for basements, warehouses, industrial factories, ground floor car parks, and traffic decks (no structural movement).",
+    "classification": "Two-component solvent-free self-smoothing epoxy coating",
+    "pack_size": [
+      "Pre-weighed A+B kit"
+    ],
+    "colors": [
+      "Pigmented (multiple colours available)"
+    ],
+    "certifications": [
+      "Very low VOC"
+    ],
+    "application_areas": [
+      "Basements, warehouses",
+      "Industrial factories, workshops",
+      "Ground floor car parks, traffic decks",
+      "Chemical/salt resistant floors",
+      "Rust-preventive coating for concrete/steel tanks"
+    ],
+    "tds_url": "https://www.middleeast.weber/flooring/epoxy-floor-coating-systems/weberfloor-epocoat",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-topcoat-pu": {
+    "id": "weber-weberfloor-topcoat-pu",
+    "brand": "weber",
+    "name": "WEBERFLOOR TOPCOAT PU",
+    "category": "flooring-systems",
+    "description": "Two-component, solvent-based aliphatic isocyanate polyurethane coating. UV-stable with high durability, flexibility, and resistance to abrasion and chemicals. Used as protective topcoat over epoxy or flooring systems.",
+    "classification": "Two-component solvent-based aliphatic polyurethane topcoat",
+    "pack_size": [
+      "A+B kit"
+    ],
+    "colors": [
+      "Pigmented (multiple)"
+    ],
+    "certifications": [
+      "UV stable",
+      "Chemical resistant"
+    ],
+    "application_areas": [
+      "UV-exposed external car parks",
+      "Protective topcoat over epoxy floors",
+      "Chemical-resistant surfaces",
+      "High-abrasion areas requiring flexibility"
+    ],
+    "tds_url": "https://www.middleeast.weber/flooring/polyurethane-floor-coating-systems/weberfloor-topcoat-pu",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-rapid": {
+    "id": "weber-weberfloor-rapid",
+    "brand": "weber",
+    "name": "WEBERFLOOR RAPID",
+    "category": "flooring-systems",
+    "description": "Rapid-drying, ready-to-use polymer-modified hydraulic binder, shrinkage-controlled semi-dry floor screed. Improves quality, strength and drying speed over standard cement screeds. Compliant with EN 13892-1, EN 13813, BS 8204 part 1.",
+    "classification": "EN 13892-1 / EN 13813 / BS 8204 part 1 \u2014 semi-dry screed",
+    "pack_size": [
+      "50 kg bag"
+    ],
+    "working_time": "60 minutes at +20\u00b0C",
+    "thickness_range": "15-100 mm (bonded 25-100 mm; unbonded 50-100 mm)",
+    "ceramic_tile_install": "immediate (bedding screed method) or 24 hours",
+    "natural_stone_install": "48 hours",
+    "resilient_floors": "4 days",
+    "application_temp": "+5\u00b0C to +35\u00b0C",
+    "mix_water": "1.7 L per 25 kg bag",
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "EN 13892-1",
+      "EN 13813",
+      "BS 8204 part 1"
+    ],
+    "application_areas": [
+      "Bonded, unbonded, and floating floor screeds",
+      "Acoustic insulation system overlays",
+      "Logistics-constrained job sites",
+      "Pre-tile/stone/resilient/wood floor screeds"
+    ],
+    "tds_url": "https://www.middleeast.weber/flooring/flooring/weberfloor-rapid",
+    "tds_direct": "https://www.middleeast.weber/files/sodamco/2020-04/weberfloor%20Rapid%20TDS.pdf",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-smooth-fd": {
+    "id": "weber-weberfloor-smooth-fd",
+    "brand": "weber",
+    "name": "WEBERFLOOR SMOOTH FD",
+    "category": "flooring-systems",
+    "description": "Fine smoothing and low-shrinkage flooring levelling compound with fast-drying property. Fast covering (12-48 hours) with different floor finishes. For interior levelling 1-10 mm on new or existing substrates.",
+    "classification": "Polymer-modified self-levelling fine smoothing compound",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "1-10 mm (max per coat)",
+    "light_traffic": "3-4 hours (thickness-dependent)",
+    "floor_covering": "12-48 hours",
+    "colors": [
+      "grey"
+    ],
+    "application_areas": [
+      "Thin-layer floor smoothing (1-10 mm)",
+      "Substrates for vinyl, linoleum, tiles",
+      "Commercial areas with trolley/chair traffic",
+      "Fine finishing over leveller compound"
+    ],
+    "notes": "Interior use only; substrate moisture <4% (CM)",
+    "tds_url": "https://www.middleeast.weber/flooring/flooring/weberfloor-smooth-fd",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-525-fd": {
+    "id": "weber-weberfloor-525-fd",
+    "brand": "weber",
+    "name": "WEBERFLOOR 525 FD",
+    "category": "flooring-systems",
+    "description": "Fast-drying, low-shrinking self-levelling cementitious underlayment flooring compound. For internal smoothing and levelling 2-30 mm. Fast covering (24 hours) with all kinds of floor coverings. Alkalinity barrier >5 mm thickness.",
+    "classification": "Polymer-modified fast-drying self-levelling cementitious underlayment",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "2-30 mm",
+    "light_traffic": "3-4 hours",
+    "floor_covering": "24 hours (all types)",
+    "colors": [
+      "grey"
+    ],
+    "application_areas": [
+      "Thin levelling under vinyl, linoleum, tiles",
+      "Alkalinity-barrier layer (>5 mm)",
+      "High-traffic commercial interior floors",
+      "Trolley/chair-exposed areas"
+    ],
+    "notes": "Interior only; not industrial; not for thicknesses >30 mm",
+    "tds_url": "https://www.middleeast.weber/flooring/flooring/weberfloor-525-fd",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-535-fd": {
+    "id": "weber-weberfloor-535-fd",
+    "brand": "weber",
+    "name": "WEBERFLOOR 535 FD",
+    "category": "flooring-systems",
+    "description": "Fast-drying, HIGH STRENGTH, low-shrinking self-levelling cementitious underlayment. Same thickness range as 525 FD (2-30 mm) but with higher compressive strength. Fast covering at 24 hours. Excellent for high-load areas.",
+    "classification": "Polymer-modified fast-drying high-strength self-levelling cementitious underlayment",
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "2-30 mm",
+    "light_traffic": "3-4 hours",
+    "floor_covering": "24 hours (all types)",
+    "strength": {
+      "compressive": "Higher than WEBERFLOOR 525 FD (premium)"
+    },
+    "colors": [
+      "grey"
+    ],
+    "application_areas": [
+      "High-load commercial/industrial floors",
+      "Under vinyl, linoleum, tiles, wood",
+      "Trolley/chair/heavy traffic areas",
+      "Pumpable by suitable machine"
+    ],
+    "notes": "Interior only; moisture content <4% (CM)",
+    "tds_url": "https://www.middleeast.weber/flooring/flooring/weberfloor-535-fd",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-webercol-prime": {
+    "id": "weber-webercol-prime",
+    "brand": "weber",
+    "name": "WEBERCOL PRIME",
+    "category": "primers-bonding",
+    "description": "Specially formulated acrylic dispersion primer for use before tiling to improve application and adhesion of tile adhesives. Prevents over-rapid absorption of water into very absorbent substrates such as foamed concrete blocks.",
+    "classification": "Acrylic dispersion primer for tiling",
+    "pack_size": [
+      "5 L drum",
+      "10 L drum"
+    ],
+    "colors": [
+      "blue/white (dries clear)"
+    ],
+    "application_areas": [
+      "Foamed concrete blocks (very absorbent)",
+      "Gypsum substrates before tiling",
+      "Wood and difficult substrates",
+      "Reducing water absorption into substrate"
+    ],
+    "tds_url": "https://www.middleeast.weber/tile-fixing-tile-grouting/primer-tiling/webercol-prime",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weberfloor-4716": {
+    "id": "weber-weberfloor-4716",
+    "brand": "weber",
+    "name": "WEBERFLOOR 4716",
+    "category": "primers-bonding",
+    "description": "Styrene acrylate dispersion primer for use prior to application of screeds and self-levelling compounds (weberfloor 535 FD, smooth FD, 525 FD, etc.). Pore sealer preventing air bubbles; prolongs flow life and workability. Dilutable with water. No ammonia. Alkali-resistant.",
+    "classification": "Styrene acrylate dispersion primer (acrylic) for flooring systems",
+    "coverage": {
+      "value": "Varies",
+      "unit": "m\u00b2/L per coat (absorbency-dependent)"
+    },
+    "pack_size": [
+      "5 L drum",
+      "20 L drum"
+    ],
+    "dilution": "1:5 (first coat, porous) to 1:3 (subsequent / dense concrete)",
+    "dry_time": "3-5 hours (touch-dry)",
+    "application_temp": "Above +10\u00b0C floor temp; humidity <70%",
+    "application_areas": [
+      "Pre-treatment before weberfloor self-levelling compounds",
+      "Pore sealing on cement/concrete floors",
+      "Creating bond between concrete substrate and cement overlays"
+    ],
+    "notes": "Not for painted floors, metal substrates, non-porous substrates, or fresh concrete",
+    "tds_url": "https://www.middleeast.weber/flooring/flooring/weberfloor-4716",
+    "tds_direct": "https://www.middleeast.weber/files/sodamco/2019-01/weberfloor%204716%20TDS.pdf",
+    "gcc_site": "middleeast.weber"
+  },
+  "weber-weber-jointseal-pu-300": {
+    "id": "weber-weber-jointseal-pu-300",
+    "brand": "weber",
+    "name": "WEBER JOINT SEAL PU 300",
+    "category": "sealants-joints",
+    "description": "One-component polyurethane sealant for sealing expansion joints, construction joints, and movement joints. Moisture-curing, elastic.",
+    "classification": "One-component polyurethane joint sealant",
+    "pack_size": [
+      "600 ml sausage"
+    ],
+    "colors": [
+      "grey (standard)"
+    ],
+    "application_areas": [
+      "Expansion joints",
+      "Construction joints",
+      "Movement joints in concrete/masonry",
+      "Crack sealing before PU waterproofing membranes",
+      "Interior and exterior joint sealing"
+    ],
+    "tds_url": "https://www.middleeast.weber/waterproofing/joint-sealants/weber-jointseal-pu-300",
+    "gcc_site": "middleeast.weber"
+  }
+}

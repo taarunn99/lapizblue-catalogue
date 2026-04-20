@@ -1,0 +1,66 @@
+{
+  "xcalibur-bugfill": {
+    "id": "xcalibur-bugfill",
+    "brand": "xcalibur",
+    "name": "X-SHIELD BUGFILL",
+    "category": "concrete-repair",
+    "description": "High-build epoxy bug hole filler, skim coat and general-purpose adhesive. Two-component epoxy for filling blowholes, surface crack filling, skim-coating, tank lining, bedding mortar, and anchor-bolt installation.",
+    "classification": "Two-component epoxy repair putty (EN 1504-3 equivalent)",
+    "strength": {
+      "compressive": "10,000 psi (69 MPa)",
+      "tensile": "1,800 psi (12.5 MPa)",
+      "slant_shear": "4,500 psi (31 MPa)"
+    },
+    "application_temp": "+4\u00b0C to +35\u00b0C",
+    "pack_size": [
+      "Part A + Part B kit"
+    ],
+    "application_areas": [
+      "Bug (blow) hole filling in concrete",
+      "Surface crack filling, skim coating, cap-sealing",
+      "Tank lining, bedding mortar",
+      "Anchor bolt installation, slip-brick bonding",
+      "Repair of imperfections in coatings"
+    ],
+    "specific_gravity": "1.75 \u00b1 0.05",
+    "tds_url": "https://www.x-calibur.us/files/X-ShieldBugfill.pdf",
+    "tds_direct": "https://www.x-calibur.us/files/X-ShieldBugfill.pdf",
+    "gcc_site": "x-calibur.us"
+  },
+  "xcalibur-xseal-pu25": {
+    "id": "xcalibur-xseal-pu25",
+    "brand": "xcalibur",
+    "name": "X-SEAL PU25",
+    "category": "sealants-joints",
+    "description": "One-part fast-curing low-modulus polyurethane sealant. Moisture-cure, elastomeric seal with high elasticity. Good adhesion to most industrial substrates (glass, anodized aluminum, lacquered metal, wood, FRP, concrete) without primer.",
+    "classification": "ISO 11600 class 25 LM (low-modulus); SCAQMD Rule 1168 / LEED VOC compliant",
+    "movement_capability": "\u00b125% joint movement",
+    "elongation_at_break": "300%",
+    "colors": [
+      "black",
+      "grey",
+      "white",
+      "beige",
+      "ivory"
+    ],
+    "pack_size": [
+      "600 ml sausage",
+      "300 ml cartridge"
+    ],
+    "application_areas": [
+      "High-movement joints in concrete and masonry",
+      "Construction joints, crack sealing",
+      "Highway structures, precast units",
+      "Basements, cladding, floors, subways",
+      "Potable water reservoirs (non-toxic formulation)"
+    ],
+    "chemical_resistance": "Sewage, sabkha, mineral acids, alkalis, salt water",
+    "certifications": [
+      "SCAQMD Rule 1168",
+      "LEED VOC compliant",
+      "Formaldehyde-free"
+    ],
+    "tds_url": "https://www.x-calibur.us/products/technical-data-sheets/joints/joint-sealants",
+    "gcc_site": "x-calibur.us"
+  }
+}

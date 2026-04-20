@@ -1,0 +1,325 @@
+{
+  "laticrete-305": {
+    "id": "laticrete-305",
+    "brand": "laticrete",
+    "name": "LATICRETE 305",
+    "category": "tile-adhesives",
+    "description": "Cement-based tile adhesive for internal floor and wall ceramic/vitrified tile installation. Economic option in the LATICRETE range. Good bonding to common substrates.",
+    "classification": "C1 T (EN 12004) / ANSI A118.1",
+    "coverage": {
+      "value": "~3-5",
+      "unit": "kg/m\u00b2 (depends on notch)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "ANSI A118.1",
+      "EN 12004 C1T"
+    ],
+    "application_areas": [
+      "Internal floors and walls",
+      "Small to medium ceramic tiles",
+      "Cementitious substrates"
+    ],
+    "tds_url": "https://me.laticrete.com/products/305-plus",
+    "tds_direct": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/middle-east/product-documents/305-plus-pds.pdf",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-315": {
+    "id": "laticrete-315",
+    "brand": "laticrete",
+    "name": "LATICRETE 315",
+    "category": "tile-adhesives",
+    "description": "Single-component, polymer-modified adhesive for interior floor and wall installations and external floor installations. Bonds to concrete, cement mortar beds, brick masonry, existing ceramic tiles, vitrified tiles. Ideal for tile-on-tile bathroom tiling.",
+    "classification": "C2TE (EN 12004 / ISO 13007) / ANSI A118.4 ET",
+    "coverage": {
+      "value": "~5-5.5",
+      "unit": "m\u00b2 per 20 kg bag (6 mm notch)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "open_time": "Standard",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4",
+      "EN 12004 C2TE",
+      "EN/ISO 13007"
+    ],
+    "application_areas": [
+      "Interior floors and walls",
+      "External floors",
+      "Tile-on-tile installations (up to 12 mm bed)",
+      "Bathrooms, kitchens"
+    ],
+    "tds_url": "https://me.laticrete.com/products/315-plus",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-325-plus": {
+    "id": "laticrete-325-plus",
+    "brand": "laticrete",
+    "name": "LATICRETE 325 PLUS",
+    "category": "tile-adhesives",
+    "description": "Premium polymer-modified tile adhesive with smooth and creamy consistency, long open time, water and heat resistance. Ready to use \u2014 just mix with water. For exterior floors and interior floors/walls.",
+    "classification": "C2TE (EN 12004 / ISO 13007) / ANSI A118.4",
+    "coverage": {
+      "value": "5.5-6.5",
+      "unit": "m\u00b2 per 20 kg bag (6\u00d76 mm square notch)"
+    },
+    "pack_size": [
+      "20 kg bag (72 bags/pallet)"
+    ],
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4",
+      "EN 12004 C2TE",
+      "EN/ISO 13007",
+      "DCLD-certified (Dubai Central Laboratory \u2014 low emitting)"
+    ],
+    "application_areas": [
+      "Wet areas (bathrooms, kitchens)",
+      "Exterior floors",
+      "Interior floors and walls",
+      "Ceramic and porcelain tiles",
+      "High-traffic areas"
+    ],
+    "tds_url": "https://me.laticrete.com/products/325-plus",
+    "tds_direct": "http://laticrete.me/wp-content/uploads/2017/04/DS-325-Premium-Plus-Tile-Adhesive.pdf",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-335-premium-white": {
+    "id": "laticrete-335-premium-white",
+    "brand": "laticrete",
+    "name": "LATICRETE 335 PREMIUM WHITE",
+    "category": "tile-adhesives",
+    "description": "Polymer-modified flexible cement-based thin-set adhesive for interior ceramics, porcelain, mosaic and natural stone. Interior/exterior, floor/wall. Water and shock resistant. Suitable for swimming pools, washrooms, large-format tiles.",
+    "classification": "C2TES1 (EN 12004 / EN 12002) / ANSI A118.4 shear bond",
+    "coverage": {
+      "value": "~5",
+      "unit": "m\u00b2 per 20 kg bag"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "mix_ratio": "5-6 L water per 20 kg bag",
+    "strength": {
+      "deformability": "S1 (2.5-5 mm deflection, EN 12002)"
+    },
+    "colors": [
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4",
+      "EN 12004 C2TES1"
+    ],
+    "application_areas": [
+      "Large-format porcelain tiles on walls and floors",
+      "Submerged applications (swimming pools)",
+      "Glass mosaic tiles, natural stone",
+      "External tile installations with thermal stress",
+      "Heavy-duty installations"
+    ],
+    "tds_url": "https://me.laticrete.com/products/335-pro-premium-flexible-adhesive",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-254-platinum": {
+    "id": "laticrete-254-platinum",
+    "brand": "laticrete",
+    "name": "LATICRETE 254 PLATINUM",
+    "category": "tile-adhesives",
+    "description": "Multipurpose, one-step thin-set mortar mixed with water. Factory prepared to the highest quality. Lightweight, smooth creamy formula with incredible bond strength. Equipped with Microban antimicrobial technology.",
+    "classification": "C2TES1 / ANSI A118.4 & A118.11 / EN 12004",
+    "coverage": {
+      "value": "~4.5-9",
+      "unit": "m\u00b2 per 22.7 kg bag (trowel dependent)"
+    },
+    "pack_size": [
+      "22.7 kg (50 lb) bag"
+    ],
+    "mix_ratio": "5.2 L water per 22.7 kg (5.5 qt per 50 lb)",
+    "pot_life": "~4 hours",
+    "open_time": "~20 minutes",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "ANSI A118.4",
+      "ANSI A118.11",
+      "EN 12004 C2TES1",
+      "GREENGUARD Gold",
+      "Microban antimicrobial technology"
+    ],
+    "application_areas": [
+      "Porcelain and ceramic tiles",
+      "Natural stone, mosaic",
+      "Exterior installations",
+      "Swimming pools, submerged applications",
+      "Large-format panels/slabs (with 254 Platinum Plus)",
+      "Over STRATA_MAT/STRATA_MAT XT"
+    ],
+    "tds_url": "https://me.laticrete.com/products/254-platinum",
+    "tds_direct": "https://cdn-global.laticrete.com/-/media/project/laticrete-international/middle-east/product-documents/254-pds.pdf",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-latapoxy-300": {
+    "id": "laticrete-latapoxy-300",
+    "brand": "laticrete",
+    "name": "LATAPOXY 300",
+    "category": "tile-adhesives",
+    "description": "100% solids epoxy adhesive for installation of ceramic tile, stone, thin brick, and thin glass tile. Ultimate adhesion on difficult or unusual substrates (metal, mirror-mesh mosaics, fiberglass, plastic laminates, plywood). Chemical and water resistant.",
+    "classification": "R2T (EN 12004) / ANSI A118.3",
+    "pack_size": [
+      "4 gal kit (A+B+C)",
+      "Parts A+B+C pre-measured"
+    ],
+    "pot_life": "~45 min at +21\u00b0C",
+    "application_temp": "+16\u00b0C to +32\u00b0C",
+    "voc": "24 g/L",
+    "colors": [
+      "off-white (mortar)"
+    ],
+    "certifications": [
+      "ANSI A118.3 epoxy adhesive",
+      "EN 12004 R2T"
+    ],
+    "application_areas": [
+      "Metal substrates",
+      "Glass tile, mirror mosaics",
+      "Chemical-attack environments",
+      "Mesh-backed mosaics",
+      "Fiberglass, plastic laminates",
+      "Exterior installations (with limitations)"
+    ],
+    "tds_url": "https://me.laticrete.com/products/latapoxy-300",
+    "tds_direct": "https://cdnmdm.laticrete.com/Datasheet/NA/96/Datasheet_NA_en_96.pdf",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-permacolor": {
+    "id": "laticrete-permacolor",
+    "brand": "laticrete",
+    "name": "PERMACOLOR",
+    "category": "tile-grouts",
+    "description": "High-performance cement grout with advanced non-shading colour-consistency technology. Fast-setting, stain-resistant, anti-efflorescence. For joints up to 12 mm wide.",
+    "classification": "CG2 WA (EN 13888) / ANSI A118.7 high-performance cement grout",
+    "pack_size": [
+      "11.3 kg (25 lb) bag"
+    ],
+    "joint_width": "up to 12 mm (1/32\" to 1/2\")",
+    "colors": [
+      "Wide range (40+ colours)"
+    ],
+    "certifications": [
+      "ANSI A118.7",
+      "EN 13888 CG2 WA",
+      "Non-shading colour technology"
+    ],
+    "application_areas": [
+      "Interior and exterior floors/walls",
+      "Wet areas (showers, pools - with sealer)",
+      "Commercial and residential"
+    ],
+    "tds_url": "https://me.laticrete.com/products/permacolor-select",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-spectralock": {
+    "id": "laticrete-spectralock",
+    "brand": "laticrete",
+    "name": "SPECTRALOCK",
+    "category": "tile-grouts",
+    "description": "High-performance epoxy grout. Stain-resistant, colour-consistent, easy to clean. Premium grout for interior and exterior tiling with uniform colour and chemical resistance. Water-cleanable during the installation window.",
+    "classification": "RG (EN 13888) / ANSI A118.3 \u2014 reactive resin grout",
+    "pack_size": [
+      "Mini Unit",
+      "Commercial Unit (A+B+C kit)"
+    ],
+    "joint_width": "1.5 mm to 12 mm (1/16\" to 1/2\")",
+    "pot_life": "60-80 minutes",
+    "colors": [
+      "40+ colours"
+    ],
+    "certifications": [
+      "ANSI A118.3",
+      "EN 13888 RG",
+      "NSF-51 for food-zone use",
+      "Stain-proof"
+    ],
+    "application_areas": [
+      "Swimming pools, spas",
+      "Kitchens and food-service areas",
+      "Commercial wet areas",
+      "Chemical-exposed surfaces",
+      "Translucent version for glass tiles"
+    ],
+    "tds_url": "https://me.laticrete.com/products/spectralock-pro-premium-grout",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-latascreed-pm-30": {
+    "id": "laticrete-latascreed-pm-30",
+    "brand": "laticrete",
+    "name": "LATASCREED PM-30",
+    "category": "flooring-systems",
+    "description": "Ready-to-use polymer-modified semi-dry screeding mix. Blend of Portland cement, polymer, fibres, and graded fillers. Produces quality screed with controlled shrinkage and high mechanical strength for early installation.",
+    "classification": "EN 13813:2002 / BS 8204-1:2003 \u2014 semi-dry polymer-modified screed",
+    "pack_size": [
+      "25 kg bag",
+      "50 kg bag"
+    ],
+    "strength": {
+      "compressive": "\u226530 N/mm\u00b2"
+    },
+    "application_areas": [
+      "Bonded, unbonded, and floating screeds",
+      "Interior and exterior use",
+      "Under ceramic, natural stone, resilient flooring, wood",
+      "Early-trafficability projects"
+    ],
+    "certifications": [
+      "BS 8204-1:2003",
+      "EN 13813:2002"
+    ],
+    "tds_url": "https://me.laticrete.com/products/latascreed-pm-30",
+    "gcc_site": "me.laticrete.com"
+  },
+  "laticrete-aqua-barrier": {
+    "id": "laticrete-aqua-barrier",
+    "brand": "laticrete",
+    "name": "AQUA BARRIER",
+    "category": "waterproofing",
+    "description": "Two-part polymer-modified cementitious waterproof slurry (liquid polymer + cement-based powder). Cures to a flexible elastomeric membrane. For concrete/masonry water-retaining structures, balconies, terraces, swimming pools (with AQUA BARRIER NET).",
+    "classification": "EN 14891 CM P / ASTM D751 / EN 12390-8",
+    "pack_size": [
+      "Powder + liquid kit"
+    ],
+    "strength": {
+      "crack_bridging": "up to 1 mm (non-structural cracks)"
+    },
+    "colors": [
+      "grey"
+    ],
+    "certifications": [
+      "EN 14891",
+      "ASTM D751",
+      "EN 12390-8"
+    ],
+    "application_areas": [
+      "Water-retaining structures (tanks, basins)",
+      "Balconies, terraces, swimming pools (with NET reinforcement)",
+      "Carbonation protection of concrete",
+      "Below-tile waterproofing (interior and exterior)"
+    ],
+    "notes": "Reinforce with WPM TAPE across construction joints, bends, and hairline cracks",
+    "tds_url": "https://me.laticrete.com/products/aqua-barrier",
+    "gcc_site": "me.laticrete.com"
+  }
+}
