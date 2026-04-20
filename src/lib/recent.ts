@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 
 const STORAGE_KEY = 'lapizblue:recent';
 const MAX = 8;
@@ -15,7 +15,7 @@ export function useRecentlyViewed() {
     } catch {}
   }, []);
 
-  const record = (id: string) => {
+  const record = useCallback((id: string) => {
     setIds((prev) => {
       const filtered = prev.filter((x) => x !== id);
       const next = [id, ...filtered].slice(0, MAX);
@@ -24,7 +24,7 @@ export function useRecentlyViewed() {
       } catch {}
       return next;
     });
-  };
+  }, []);
 
   return { ids, record };
 }
