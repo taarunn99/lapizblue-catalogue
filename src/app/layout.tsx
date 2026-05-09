@@ -9,7 +9,7 @@ import { CompareProvider } from '@/lib/compare-context';
 export const metadata: Metadata = {
   title: 'LapizBlue Catalogue — Construction Chemicals Cross-Reference',
   description:
-    'UAE cross-reference catalogue for 183 construction chemical products across 9 leading brands: MAPEI, Weber, Laticrete, Kerakoll, Pidilite/Puma, X-Chem, X-Calibur, Vetonit/Saveto and Colmef.',
+    'UAE cross-reference catalogue for 198 construction chemical products across 10 leading brands: MAPEI, Weber, Laticrete, Kerakoll, Pidilite/Puma, X-Chem, X-Calibur, Vetonit/Saveto, Colmef and Matex.',
   manifest: '/manifest.webmanifest',
   icons: {
     icon: '/favicon.ico',
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'LapizBlue Catalogue',
-    description: 'Cross-reference UAE construction chemicals across 9 brands.',
+    description: 'Cross-reference UAE construction chemicals across 10 brands.',
     url: 'https://lapizblue-catalogue.vercel.app',
     siteName: 'LapizBlue Catalogue',
     type: 'website',

@@ -7,7 +7,8 @@ export type BrandKey =
   | 'xchem'
   | 'xcalibur'
   | 'vetonit'
-  | 'colmef';
+  | 'colmef'
+  | 'matex';
 
 export type CategoryKey =
   | 'tile-adhesives'

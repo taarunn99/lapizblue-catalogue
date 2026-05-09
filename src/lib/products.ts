@@ -38,23 +38,51 @@ export interface Alternative {
 
 /**
  * Extract broad classification family from a classification string.
- * e.g. "C2 TE S1 (EN 12004)"   -> ["C2TE", "S1"]
+ * Handles both spaced ("C2 TE S1") and concatenated ("C2TE", "C2TES1") forms.
+ *
+ * e.g. "C2 TE S1 (EN 12004)"   -> ["C2", "TE", "S1"]
+ *      "C2TE"                  -> ["C2", "TE"]
+ *      "C2TES1"                -> ["C2", "TE", "S1"]
+ *      "C2F S1"                -> ["C2", "F", "S1"]
  *      "C1 (EN 12004)"         -> ["C1"]
- *      "R2 (EN 12004)"         -> ["R2"]
- *      "CG2 W A (EN 13888)"    -> ["CG2WA"]
+ *      "R2T"                   -> ["R2", "T"]
+ *      "CG2 WA"                -> ["CG2", "WA"]
+ *      "CG2WAF"                -> ["CG2", "WA", "F"]
  *      "EN 14891 CM O1 P"      -> ["CM", "O1P"]
  */
 function extractClassTokens(cls?: string): string[] {
   if (!cls) return [];
-  // Pull out codes before parentheses/dashes and normalize
+  // Strip parentheses content and uppercase
   const up = cls.toUpperCase().replace(/\(.*?\)/g, ' ');
   const tokens: string[] = [];
-  // Main class: C1/C2/CG1/CG2/R1/R2/CM/RG/CT/D1/D2
-  const mainMatch = up.match(/\b(C[12]|CG[12]|R[12]|CM|RG|CT|D[12]|GP)\b/);
+
+  // Find main class with prefix-only word boundary (allow letters after, e.g. C2TE)
+  // (?<![A-Z0-9]) ensures we don't match middle of another code
+  const mainMatch = up.match(/(?<![A-Z0-9])(CG[12]|C[12]|R[12]|CM|RG|CT|D[12]|GP)/);
   if (mainMatch) tokens.push(mainMatch[1]);
-  // Modifiers: TE, T, E, FT, F, WA, S1, S2, O1P, O2P
-  const mods = up.match(/\b(F?TE|FT|TE|WA|O[12]P|S[12]|R[23456])\b/g);
-  if (mods) mods.forEach((m) => !tokens.includes(m) && tokens.push(m));
+
+  // Strip the main token and parse remaining string for modifiers, code-by-code.
+  // Modifiers may appear concatenated (TES1) or spaced (TE S1), in any order.
+  let rest = mainMatch
+    ? up.slice(0, mainMatch.index!) + ' ' + up.slice(mainMatch.index! + mainMatch[1].length)
+    : up;
+
+  // Greedy match of known modifier tokens, longest-first to avoid partials.
+  // Codes may concatenate (TES1, FTS1, FES1) or be separated by spaces.
+  const modOrder = ['FTE', 'FT', 'TE', 'WA', 'O1P', 'O2P', 'S1', 'S2', 'R3', 'R4', 'R5', 'R6', 'F', 'T', 'E'];
+  let progress = true;
+  while (progress) {
+    progress = false;
+    for (const m of modOrder) {
+      const idx = rest.indexOf(m);
+      if (idx === -1) continue;
+      if (!tokens.includes(m)) tokens.push(m);
+      rest = rest.slice(0, idx) + ' '.repeat(m.length) + rest.slice(idx + m.length);
+      progress = true;
+      break;
+    }
+  }
+
   return tokens;
 }
 

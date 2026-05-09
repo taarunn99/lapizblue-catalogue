@@ -1,10 +1,10 @@
 # LapizBlue Catalogue
 
-**Cross-reference catalogue for UAE construction chemicals — 183 products across 9 brands.**
+**Cross-reference catalogue for UAE construction chemicals — 198 products across 10 brands.**
 
-A fast, offline-capable web app for LapizBlue's sales team and showroom staff. When a customer asks *"what's the Weber equivalent of MAPEI Keraflex Maxi S1?"* this app answers in one search.
+A fast, offline-capable web app for LapizBlue's sales team and showroom staff. When a customer asks *"what's the Matex equivalent of MAPEI Keraflex Maxi S1?"* this app answers in one search.
 
-Built with Next.js 15, React 19, Tailwind CSS, and Fuse.js. Pre-renders all 206 pages at build time — loads instantly, works offline, installable as a PWA.
+Built with Next.js 16, React 19, Tailwind CSS, and Fuse.js. Pre-renders all 221 pages at build time — loads instantly, works offline, installable as a PWA.
 
 ---
 
@@ -16,11 +16,12 @@ Built with Next.js 15, React 19, Tailwind CSS, and Fuse.js. Pre-renders all 206 
 | Weber (Sodamco Weber) | 38 | France |
 | Vetonit / Saveto | 32 | Saudi Arabia |
 | Pidilite / Grupo Puma | 26 | India / Spain |
+| Matex | 15 | UAE |
 | Laticrete | 10 | USA |
 | Kerakoll | 8 | Italy |
 | X-Chem | 6 | UAE |
 | X-Calibur | 2 | USA |
-| **Total** | **183** | |
+| **Total** | **198** | |
 
 Across 8 categories: Tile Adhesives, Tile Grouts, Concrete Repair, Waterproofing, Flooring Systems, Primers & Bonding, Sealants & Joints, Specialty Adhesives.
 
@@ -73,7 +74,7 @@ npm run build
 npm start
 ```
 
-The build generates 206 static pages (183 products + 9 brands + 8 categories + home + brands + compare + 404).
+The build generates 221 static pages (198 products + 10 brands + 8 categories + home + brands + compare + 404).
 
 ---
 
@@ -105,7 +106,8 @@ lapizblue-catalogue/
 │       ├── xchem/products.json
 │       ├── xcalibur/products.json
 │       ├── vetonit/products.json
-│       └── all_products.json      # Unified 183-product dataset
+│       ├── matex/products.json
+│       └── all_products.json      # Unified 198-product dataset
 ├── public/                        # Static assets
 │   ├── lapizblue-logo.png
 │   ├── manifest.webmanifest       # PWA manifest
@@ -143,7 +145,7 @@ lapizblue-catalogue/
 │   │   ├── compare-context.tsx    # Max-3 compare with localStorage
 │   │   └── recent.ts              # Recently viewed hook
 │   └── data/
-│       └── products.json          # Bundled 183-product dataset
+│       └── products.json          # Bundled 198-product dataset
 ├── next.config.mjs
 ├── package.json
 ├── tailwind.config.mjs
@@ -181,7 +183,7 @@ See `src/lib/products.ts` → `findAlternatives()` for the implementation.
    python3 -c "
    import json
    all_products = {}
-   for brand in ['mapei','weber','laticrete','kerakoll','pidilite','xchem','xcalibur','vetonit']:
+   for brand in ['mapei','weber','laticrete','kerakoll','pidilite','xchem','xcalibur','vetonit','matex']:
        with open(f'data/extracted/{brand}/products.json') as f:
            all_products.update(json.load(f))
    json.dump(all_products, open('src/data/products.json', 'w'), indent=2)
