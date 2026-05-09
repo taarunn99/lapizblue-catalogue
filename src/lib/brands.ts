@@ -82,6 +82,15 @@ export const BRANDS: Record<BrandKey, BrandMeta> = {
     gcc_url: 'https://www.colmef.com',
     color: '#D9261C',
   },
+  matex: {
+    key: 'matex',
+    name: 'MATEX',
+    label: 'MATEX',
+    description: 'UAE construction chemicals — Dubai based, with manufacturing at Jebel Ali. Full range from tile adhesives and grouts to waterproofing, flooring and protective coatings.',
+    origin: 'UAE',
+    gcc_url: 'https://matex-global.com',
+    color: '#E30613',
+  },
 };
 
 export const CATEGORIES: Record<CategoryKey, CategoryMeta> = {
@@ -172,4 +181,5 @@ export const BRAND_ORDER: BrandKey[] = [
   'xcalibur',
   'vetonit',
   'colmef',
+  'matex',
 ];

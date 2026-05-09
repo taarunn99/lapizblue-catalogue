@@ -6,6 +6,7 @@ export default function HomePage() {
   const catStats = categoryStats();
   const brStats = brandStats();
   const totalProducts = ALL_PRODUCTS.length;
+  const totalBrands = BRAND_ORDER.length;
 
   return (
     <div>
@@ -24,7 +25,7 @@ export default function HomePage() {
               </h1>
               <p className="mt-8 text-lg text-lapiz-ink/65 leading-relaxed max-w-2xl">
                 A precise cross-reference of <span className="nums font-medium text-lapiz-ink">{totalProducts}</span> construction chemical
-                products across <span className="nums font-medium text-lapiz-ink">9</span> leading brands — built for UAE showrooms and sales teams
+                products across <span className="nums font-medium text-lapiz-ink">{totalBrands}</span> leading brands — built for UAE showrooms and sales teams
                 that need to answer "what else have we got?" without leaving the customer waiting.
               </p>
               <div className="mt-10 flex flex-wrap items-center gap-3">
@@ -46,7 +47,7 @@ export default function HomePage() {
                 </div>
                 <div className="lg:py-5">
                   <dt className="deco-num mb-1">— brands</dt>
-                  <dd className="text-3xl font-display font-light nums">9</dd>
+                  <dd className="text-3xl font-display font-light nums">{totalBrands}</dd>
                 </div>
                 <div className="lg:py-5">
                   <dt className="deco-num mb-1">— categories</dt>
@@ -116,7 +117,7 @@ export default function HomePage() {
             <div>
               <div className="deco-num mb-3">— 003 · Brands</div>
               <h2 className="font-display text-3xl lg:text-4xl font-light tracking-tight">
-                The nine brands we distribute
+                The brands we distribute
               </h2>
             </div>
             <Link href="/brands" className="btn btn-ghost text-sm">

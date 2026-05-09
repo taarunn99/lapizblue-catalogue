@@ -1,0 +1,741 @@
+{
+  "matex-tilegrip-flex": {
+    "id": "matex-tilegrip-flex",
+    "brand": "matex",
+    "name": "TILEGRIP FLEX",
+    "category": "tile-adhesives",
+    "description": "High performance, fibre reinforced cementitious tile adhesive with extended open time and no vertical slip. Class C2TE — flexible, waterproof, suitable for large tiles and tile-on-tile.",
+    "classification": "C2 TE (EN 12004 / ISO 13007)",
+    "classification_detail": "Improved (2) cementitious adhesive with extended open time (E) and reduced slip (T). C2TES1 when mixed with ELASTOGRIP.",
+    "coverage": {
+      "value": "2-5",
+      "unit": "kg/m²",
+      "notes": "Small tiles ~2, medium ~3, large ~5"
+    },
+    "strength": {
+      "bond": "1.8 N/mm² initial (EN 1348)",
+      "flexural": "2.1 N/mm²"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "50 minutes adjustable @ 20°C",
+    "open_time": "> 30 minutes",
+    "mix_ratio": "100 parts powder : 22-25 parts water",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "24 hours"
+    },
+    "thickness_range": "up to 10 mm",
+    "service_temp": "-30°C to +90°C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ISO 13007",
+      "ANSI 118.4"
+    ],
+    "application_areas": [
+      "Internal and external walls/floors",
+      "Swimming pools and water features",
+      "Tile-on-tile renovation",
+      "Showers, bathrooms, kitchens",
+      "Facades — natural stone with ELASTOGRIP"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-flex/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-FLEX-1.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-FLEX.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-fx": {
+    "id": "matex-tilegrip-fx",
+    "brand": "matex",
+    "name": "TILEGRIP FX",
+    "category": "tile-adhesives",
+    "description": "Fast-setting, fibre-reinforced, deformable, slip-resistant flexible cementitious tile adhesive. Class C2FES1 — floors trafficable in 2 hours, ready for use in 24 hours.",
+    "classification": "C2 FE S1 (EN 12004)",
+    "classification_detail": "Improved (2) fast-setting (F) cementitious adhesive with extended open time (E) and deformability (S1). C2TFS2 when mixed with ELASTOGRIP.",
+    "coverage": {
+      "value": "1.57",
+      "unit": "kg/m²/mm",
+      "notes": "3 kg/m² with 4 mm notched trowel; 17 L yield per 20 kg bag"
+    },
+    "strength": {
+      "bond": ">1.6 N/mm² initial (EN 1348)",
+      "deformability": "S1 (>2.5 mm)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "45 minutes",
+    "open_time": "30 minutes",
+    "setting_time": "Floor traffic in 3-4 hours; full ready in 24 hours",
+    "grouting_wait": {
+      "walls": "3-4 hours",
+      "floors": "3-4 hours"
+    },
+    "service_temp": "-30°C to +80°C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "DIN 18156-2",
+      "ANSI A 118.4"
+    ],
+    "application_areas": [
+      "Rapid renovation — restaurants, malls, swimming pools",
+      "All types of ceramic, porcelain, klinker, terracotta",
+      "Tile-on-tile (with ARMOPRIME GRIP primer)",
+      "External marble and stone",
+      "Moisture-sensitive mosaics"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-fx/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-FX-1.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-FX.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-max": {
+    "id": "matex-tilegrip-max",
+    "brand": "matex",
+    "name": "TILEGRIP MAX",
+    "category": "tile-adhesives",
+    "description": "High performance, fibre-reinforced, deformable cementitious tile adhesive with extended open time and no vertical slip. Class C2TES1 — recommended for large porcelain and natural stone.",
+    "classification": "C2 TE S1 (EN 12004 / EN 12002)",
+    "classification_detail": "Improved (2) cementitious adhesive with extended open time (E), reduced slip (T) and deformability (S1). C2TES2 when mixed with ELASTOGRIP.",
+    "coverage": {
+      "value": "1.45",
+      "unit": "kg/m²/mm",
+      "notes": "17.5 L yield per 20 kg bag; 3 mm notched trowel"
+    },
+    "strength": {
+      "bond": "1.9 N/mm² initial (EN 1348)",
+      "flexural": "2.1 N/mm²",
+      "deformability": "S1 (>2.5 mm)"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "45 minutes adjustable @ 20°C",
+    "open_time": "> 30 minutes",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "24 hours"
+    },
+    "thickness_range": "up to 10 mm (15 mm uneven)",
+    "service_temp": "-30°C to +90°C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "EN 12002",
+      "ISO 13007-1",
+      "ANSI 118.4"
+    ],
+    "application_areas": [
+      "Large porcelain and natural stone tiles",
+      "Balconies, terraces, thermal-gradient zones",
+      "Marine plywood, stable wood floors",
+      "Heavy-traffic floors",
+      "Bituminous waterproofing substrates",
+      "Swimming pools — submerged"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-max/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-MAX-2.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-MAX.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-mt": {
+    "id": "matex-tilegrip-mt",
+    "brand": "matex",
+    "name": "TILEGRIP MT",
+    "category": "tile-adhesives",
+    "description": "High performance, mould-resistant, waterproof bright-white cementitious adhesive and grout for sheet-mounted glass and marble mosaic. Class C2T — non-sag, ideal for backsplash and pool installations.",
+    "classification": "C2 T (EN 12004 / ISO 13007)",
+    "classification_detail": "Improved (2) cementitious slip-resistant (T) adhesive. C2TS1 when mixed with ELASTOGRIP.",
+    "coverage": {
+      "value": "1.6",
+      "unit": "kg/m²/mm",
+      "notes": "2.4 kg/m² at 3 mm with 3 mm notched trowel; 15 L yield per 20 kg bag"
+    },
+    "strength": {
+      "bond": "1.6 N/mm² initial (EN 1348)",
+      "tensile": "1.65 N/mm² shear"
+    },
+    "pack_size": [
+      "20 kg bag"
+    ],
+    "pot_life": "> 45 minutes workable",
+    "open_time": "20 minutes (EN 1346)",
+    "service_temp": "-30°C to +90°C",
+    "colors": [
+      "bright white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ANSI A 118.4",
+      "ISO 13007"
+    ],
+    "application_areas": [
+      "Sheet-mounted glass and marble mosaic",
+      "Glass tile backsplash installations",
+      "Swimming pools, fountains, water features (with ELASTOGRIP)",
+      "Submerged installations",
+      "Kitchens, bathrooms, outdoor wet areas"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-mt/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-MT.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-MT.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-paste": {
+    "id": "matex-tilegrip-paste",
+    "brand": "matex",
+    "name": "TILEGRIP PASTE",
+    "category": "tile-adhesives",
+    "description": "One-part ready-to-use latex paste tile adhesive — direct application on gypsum and cement boards without primer. Class D1TE — ideal for maintenance and DIY.",
+    "classification": "D1 TE (EN 12004)",
+    "classification_detail": "Normal (1) dispersion (D) adhesive with extended open time (E) and reduced slip (T).",
+    "coverage": {
+      "value": "1.65",
+      "unit": "kg/m²/mm",
+      "notes": "4.8 kg/m² at 3 mm with 6 mm notched trowel"
+    },
+    "strength": {
+      "bond": "1.5 N/mm²",
+      "tensile": ">1.5 N/mm² (EN 1348)"
+    },
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "pot_life": "Ready-to-use, no mixing",
+    "open_time": "40 minutes",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "24 hours"
+    },
+    "colors": [
+      "white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ANSI A 136.1"
+    ],
+    "application_areas": [
+      "Gypsum and cement boards (no primer needed)",
+      "Plaster, concrete, blockwork",
+      "Mosaic and tile on walls and floors",
+      "Wet areas — kitchens, bathrooms",
+      "EPS insulation panels, rock wool"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-paste/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-PASTE.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-PASTE.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-pu": {
+    "id": "matex-tilegrip-pu",
+    "brand": "matex",
+    "name": "TILEGRIP PU",
+    "category": "tile-adhesives",
+    "description": "Two-component high-performance flexible thixotropic polyurethane tile adhesive. Class R2T — highly deformable, non-sag, for moisture-sensitive applications.",
+    "classification": "R2 T (EN 12004 / ISO 13007)",
+    "classification_detail": "Improved (2) reactive (R) polyurethane adhesive with reduced slip (T). Highly deformable.",
+    "coverage": {
+      "value": "1.5",
+      "unit": "kg/m²/mm",
+      "notes": "2.3 kg/m² with 3 mm notched trowel; 6.8 L yield per 10 kg kit"
+    },
+    "strength": {
+      "bond": ">2.5 N/mm² shear",
+      "tensile": "3 N/mm² pull-out"
+    },
+    "pack_size": [
+      "10 kg kit (Part A + Part B)"
+    ],
+    "pot_life": "45 minutes @ 25°C",
+    "open_time": "50 minutes @ 25°C",
+    "setting_time": "12 hours @ 25°C",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "24 hours"
+    },
+    "service_temp": "-5°C to +85°C",
+    "cure_time": "7 days full curing",
+    "colors": [
+      "thixotropic paste"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ISO 13007"
+    ],
+    "application_areas": [
+      "Laboratories and medical facilities",
+      "Workshops with chemical/oil spillage",
+      "Swimming pools and water features",
+      "Public showers, bathrooms",
+      "Heavy-duty workshops and garages",
+      "Catering and food facilities"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-pu/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-PU.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-PU.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-poxy": {
+    "id": "matex-tilegrip-poxy",
+    "brand": "matex",
+    "name": "TILEGRIP POXY",
+    "category": "tile-adhesives",
+    "description": "High-performance two-component epoxy-based tile adhesive with high chemical resistance for harsh environments and heavy traffic. Class R2T.",
+    "classification": "R2 T (EN 12004 / ISO 13007)",
+    "classification_detail": "Improved (2) reactive (R) epoxy adhesive with reduced slip (T). BS 5980-1980 Type 5, Class AA.",
+    "coverage": {
+      "value": "1.9",
+      "unit": "kg/m²/mm",
+      "notes": "2.8 kg/m² with 3 mm notched trowel; 5.26 L yield per 10 kg kit"
+    },
+    "strength": {
+      "bond": "6.5 N/mm² shear",
+      "tensile": "16 N/mm²",
+      "compressive": ">60 N/mm² (EN 12808-3)",
+      "flexural": "30 N/mm² (EN 12808-3)"
+    },
+    "pack_size": [
+      "10 kg kit (Part A + Part B metal containers)"
+    ],
+    "pot_life": "60 minutes @ 25°C",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "12 hours"
+    },
+    "cure_time": "7 days full curing",
+    "service_temp": "-5°C to +85°C",
+    "colors": [
+      "thixotropic grey paste"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ISO 13007",
+      "BS 5980-1980 Type 5 Class AA"
+    ],
+    "application_areas": [
+      "Walls and floors — indoor/outdoor",
+      "Laboratories and medical facilities",
+      "Chemical workshops with oil/chemical spillage",
+      "Swimming pools and water features",
+      "Hygiene facilities — catering, hospitals",
+      "Heavy-duty workshops and garages"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-poxy/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-POXY-2.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-POXY.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-tilegrip-poxy-wb": {
+    "id": "matex-tilegrip-poxy-wb",
+    "brand": "matex",
+    "name": "TILEGRIP POXY WB",
+    "category": "tile-adhesives",
+    "description": "Water-based two-component water-cleanable epoxy tile adhesive — environmentally friendly, low-odour. Class R2T — high chemical resistance for heavy-duty wet areas.",
+    "classification": "R2 T (EN 12004 / ISO 13007-1)",
+    "classification_detail": "Improved (2) reactive (R) water-cleanable epoxy adhesive with reduced slip (T). ANSI A 118.3.",
+    "coverage": {
+      "value": "1.85",
+      "unit": "kg/m²/mm",
+      "notes": "2.2 kg/m² with 3 mm notched trowel; 5.5 L yield per 10 kg kit"
+    },
+    "strength": {
+      "bond": "2.0 N/mm² (cohesive failure on concrete)",
+      "tensile": "16 N/mm²",
+      "compressive": ">50 N/mm² (EN 12808-3)",
+      "flexural": "12 N/mm² (EN 12808-3)"
+    },
+    "pack_size": [
+      "10 kg kit (Part A + Part B metal containers)"
+    ],
+    "pot_life": "60 minutes @ 25°C",
+    "grouting_wait": {
+      "walls": "12 hours",
+      "floors": "24 hours"
+    },
+    "cure_time": "7 days full curing",
+    "service_temp": "-5°C to +80°C",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 12004",
+      "ISO 13007-1",
+      "ANSI A 118.3"
+    ],
+    "application_areas": [
+      "Laboratories and medical facilities",
+      "Public showers, bathrooms",
+      "Food processing — breweries, dairies",
+      "Swimming pools and water features",
+      "Restaurants and high-traffic shops",
+      "Restricted spaces — low odour"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/tilegrip-poxy-wb/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/TILEGRIP-POXY-WB.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-TILEGRIP-POXY-WB.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-colortec": {
+    "id": "matex-colortec",
+    "brand": "matex",
+    "name": "COLORTEC",
+    "category": "tile-grouts",
+    "description": "Latex-modified single-component water-repellent cement-based tile grout with smooth finish. Class CG2 WA — for joints up to 6 mm, designed for tropical climate.",
+    "classification": "CG2 WA (EN 13888 / ISO 13007-3)",
+    "classification_detail": "Improved (2) cementitious grout with reduced water absorption (W) and high abrasion resistance (A). ANSI 118.6, 118.7.",
+    "coverage": {
+      "value": "varies",
+      "unit": "kg/m²",
+      "notes": "Calculated from joint width × depth × tile size; density 1.8 kg/L"
+    },
+    "strength": {
+      "bond": "1.80 N/mm²",
+      "compressive": ">25 N/mm² (EN 12808-3)",
+      "flexural": ">5 N/mm² (EN 12808-3)"
+    },
+    "pack_size": [
+      "5 kg bag",
+      "10 kg bag"
+    ],
+    "pot_life": "30-40 minutes",
+    "joint_width": "Up to 6 mm",
+    "mix_ratio": "100 parts powder : 25-26 parts water",
+    "colors": [
+      "Refer to MATEX color chart"
+    ],
+    "certifications": [
+      "EN 13888",
+      "ISO 13007-3",
+      "ANSI 118.6",
+      "ANSI 118.7"
+    ],
+    "application_areas": [
+      "Residential and commercial floor/wall joints",
+      "Bathrooms and kitchens",
+      "Facades, balconies, terraces, swimming pools",
+      "Wet and dry areas — internal/external"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/colortec/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/COLORTEC-1.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-COLORTEC.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-colortec-prima": {
+    "id": "matex-colortec-prima",
+    "brand": "matex",
+    "name": "COLORTEC PRIMA",
+    "category": "tile-grouts",
+    "description": "High-performance, quick-dry, anti-bacterial, anti-fungus, water-repellent latex-modified cementitious tile grout. Class CG2 WAF — for joints from 2 to 20 mm.",
+    "classification": "CG2 WAF (EN 13888 / ISO 13007)",
+    "classification_detail": "Improved (2) cementitious grout with reduced water absorption (W), high abrasion resistance (A), and reduced shrinkage (F). ANSI A118.6, A118.7.",
+    "coverage": {
+      "value": "varies",
+      "unit": "kg/m²",
+      "notes": "Calculated from joint width × depth × tile size; density 1.63 kg/L"
+    },
+    "strength": {
+      "bond": "1.80 N/mm²",
+      "compressive": ">30 N/mm² (EN 12808-3)",
+      "flexural": "10 N/mm² (EN 12808-3)"
+    },
+    "pack_size": [
+      "5 kg bag",
+      "10 kg bag"
+    ],
+    "pot_life": "25-30 minutes",
+    "joint_width": "2 to 20 mm",
+    "light_traffic": "~3 hours",
+    "ready_for_use": "24 hours (48 hours for pools)",
+    "colors": [
+      "Refer to MATEX color chart"
+    ],
+    "certifications": [
+      "EN 13888",
+      "ISO 13007",
+      "ANSI A118.6",
+      "ANSI A118.7"
+    ],
+    "application_areas": [
+      "Bathrooms, kitchens, showers, saunas",
+      "Swimming pools, fountains, water features",
+      "Hygienic environments — restaurants, hospitals, clinics",
+      "High-traffic — airports, malls, hotels",
+      "Wet and dry, internal/external"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/colortec-prima/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/COLORTEC-PRIMA.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-COLORTEC-PRIMA.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-colortec-poxy": {
+    "id": "matex-colortec-poxy",
+    "brand": "matex",
+    "name": "COLORTEC POXY",
+    "category": "tile-grouts",
+    "description": "High-performance two-component epoxy-based coloured tile grout. Class RG — chemical-resistant, hygienic, non-shrink, for joints from 3 to 10 mm.",
+    "classification": "RG (EN 13888 / ISO 13007)",
+    "classification_detail": "Reactive (R) epoxy grout (G). ANSI A 118.3.",
+    "coverage": {
+      "value": "varies",
+      "unit": "kg/m²",
+      "notes": "Calculated from joint width × depth × tile size; density 1.77 kg/L"
+    },
+    "strength": {
+      "bond": "7 N/mm² shear (ANSI A118.3)",
+      "compressive": "65 N/mm² (EN 12808-3)",
+      "flexural": ">30 N/mm² (EN 12808-3)"
+    },
+    "pack_size": [
+      "6 kg kit (Part A + Part B)"
+    ],
+    "pot_life": ">45 minutes @ 25°C",
+    "joint_width": "3 to 10 mm",
+    "cure_time": "7 days full curing",
+    "colors": [
+      "white",
+      "grey",
+      "other colors on request"
+    ],
+    "certifications": [
+      "EN 13888",
+      "ISO 13007",
+      "ANSI A 118.3"
+    ],
+    "application_areas": [
+      "Laboratories, hospitals, mechanical rooms",
+      "Chemical factories, acid tanks",
+      "Showers, bathrooms, kitchens",
+      "Swimming pools and water features",
+      "Catering and food production facilities"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/colortec-poxy/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/COLORTEC-POXY.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-COLORTEC-POXY.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-colortec-poxy-wb": {
+    "id": "matex-colortec-poxy-wb",
+    "brand": "matex",
+    "name": "COLORTEC POXY WB",
+    "category": "tile-grouts",
+    "description": "Two-component water-cleanable chemical-resistant epoxy tile grout. Class RG — hygienic, low-odour, for joints from 2 to 10 mm.",
+    "classification": "RG (EN 13888 / ISO 13007)",
+    "classification_detail": "Reactive (R) water-cleanable epoxy grout (G). ANSI A 118.3 / A 118.8.",
+    "coverage": {
+      "value": "varies",
+      "unit": "kg/m²",
+      "notes": "Calculated from joint width × depth × tile size; density 1.65 kg/L"
+    },
+    "strength": {
+      "bond": ">7.0 N/mm² shear (ANSI 118.3)",
+      "compressive": "50 N/mm² (EN 12808-3)",
+      "flexural": "30 N/mm² @ 7 days (EN 12808-3)"
+    },
+    "pack_size": [
+      "3 kg kit",
+      "6 kg kit (Part A + Part B)"
+    ],
+    "pot_life": "60 minutes @ 25°C",
+    "joint_width": "2 to 10 mm",
+    "cure_time": "7 days full curing",
+    "service_temp": "-5°C to +80°C",
+    "colors": [
+      "white",
+      "grey",
+      "other colors on request"
+    ],
+    "certifications": [
+      "EN 13888",
+      "ISO 13007",
+      "ANSI A 118.3",
+      "ANSI A 118.8"
+    ],
+    "application_areas": [
+      "Laboratories and hospitals",
+      "Mechanical rooms and chemical facilities",
+      "Factories, workshops, service facilities",
+      "Showers, bathrooms, kitchens",
+      "Swimming pools and water features",
+      "Catering, food production, central kitchens"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/colortec-poxy-wb/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/COLORTEC-POXY-WB-1.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-COLORTEC-POXY-WB.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-hydrocem-2k-flex": {
+    "id": "matex-hydrocem-2k-flex",
+    "brand": "matex",
+    "name": "HYDROCEM 2K FLEX",
+    "category": "waterproofing",
+    "description": "Two-part elastomeric cementitious waterproofing coating — acrylic-modified, flexible, crack-bridging. Suitable for water-retaining structures, drinking water tanks and tile-on-membrane systems.",
+    "classification": "EN 14891 CM",
+    "classification_detail": "Cementitious (CM) liquid-applied waterproofing membrane. EN 1504-2 protective coating. Positive pressure to 5 bar.",
+    "coverage": {
+      "value": "3.4",
+      "unit": "kg/m²",
+      "notes": "8.0-8.5 m² per 30 kg kit at 2.0 mm finished thickness"
+    },
+    "strength": {
+      "bond": ">1.00 N/mm² to concrete (ASTM D4541-02)",
+      "tensile": ">1.50 N/mm² (ASTM D412)",
+      "elongation": "40% un-bonded (ASTM D412)",
+      "crack_bridging": ">1.0 mm (BS EN 1062)"
+    },
+    "pack_size": [
+      "15 kg kit",
+      "30 kg kit (Powder + Liquid)"
+    ],
+    "pot_life": ">45 minutes @ 25°C",
+    "recoat_wait": "4-8 hours",
+    "tile_wait": "Compatible — fix tiles with flexible adhesive",
+    "full_immersion_wait": "After full curing — protect from water/rain for 24 hours",
+    "service_temp": "-5°C to +80°C",
+    "colors": [
+      "cement grey",
+      "white"
+    ],
+    "certifications": [
+      "EN 14891",
+      "EN 1504-2",
+      "EN 12390/8",
+      "EN 1062",
+      "ASTM C836",
+      "BS 6920 (drinking water)"
+    ],
+    "application_areas": [
+      "Swimming pools, water tanks, reservoirs, canals",
+      "Wet areas — bathrooms, kitchens, balconies, terraces",
+      "Retaining walls, basements, foundations",
+      "Drinking water tanks (BS 6920 non-toxic)",
+      "Maintenance over existing tiles",
+      "Concrete structures exposed to chemicals"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/hydrocem-2k-flex/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/HYDROCEM-2K-FLEX-2.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-HYDROCEM-2K-FLEX.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-armolevel": {
+    "id": "matex-armolevel",
+    "brand": "matex",
+    "name": "ARMOLEVEL",
+    "category": "flooring-systems",
+    "description": "Cement-based, single-component, free-flowing self-levelling thin-layer underlayment. EN 13813 — 3 to 40 mm thick (L10 grade 3-10 mm; L40 grade 5-40 mm).",
+    "classification": "CT (EN 13813)",
+    "classification_detail": "Cementitious (CT) self-levelling underlayment for floor finishes. ASTM C109, C580, C1042, C191.",
+    "coverage": {
+      "value": "1.7",
+      "unit": "kg/m²/mm",
+      "notes": "5.0 m² per 25 kg bag at 3 mm thickness"
+    },
+    "strength": {
+      "bond": "1.0 N/mm² pull-off (ASTM C1042)",
+      "compressive": "20 N/mm² L10 / 30 N/mm² L40 (ASTM C109)",
+      "flexural": ">5.0 N/mm² L10 / 7.0 N/mm² L40 (ASTM C580)"
+    },
+    "pack_size": [
+      "25 kg bag"
+    ],
+    "thickness_range": "3 mm to 40 mm",
+    "final_set": "4 hours @ 25°C",
+    "ready_for_ceramic": "48 hours",
+    "ready_for_stone": "48 hours",
+    "ready_for_wood": "48 hours",
+    "mix_ratio": "5.0-5.25 L water per 25 kg bag",
+    "colors": [
+      "cement grey"
+    ],
+    "certifications": [
+      "EN 13813",
+      "ASTM C109",
+      "ASTM C580",
+      "ASTM C1042",
+      "ASTM C191"
+    ],
+    "application_areas": [
+      "Underlayment for tiles, parquet, vinyl, carpet",
+      "Schools, hotel lobbies, theatres, hospitals",
+      "Interior smoothing over concrete substrates",
+      "Pump or manual application",
+      "Use with ARMOPRIME AC primer"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/armolevel/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/ARMOLEVEL.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-ARMOLEVEL.pdf",
+    "gcc_site": "matex-global.com"
+  },
+  "matex-armoprime-grip": {
+    "id": "matex-armoprime-grip",
+    "brand": "matex",
+    "name": "ARMOPRIME GRIP",
+    "category": "primers-bonding",
+    "description": "Multi-purpose ready-to-use bonding promoter primer for non-porous surfaces — synthetic resin with silica sand for tough mortar bond on glazed tiles, concrete, gypsum boards.",
+    "classification_detail": "Acrylic bonding promoter primer for cementitious overlays, tile adhesives, levelling compounds.",
+    "coverage": {
+      "value": "0.20-0.30",
+      "unit": "kg/m²",
+      "notes": "Varies with substrate absorption"
+    },
+    "pack_size": [
+      "20 kg pail"
+    ],
+    "pot_life": "Ready-to-use, single-component",
+    "recoat_wait": "20-50 minutes (substrate-dependent)",
+    "service_temp": "+5°C to +35°C application",
+    "colors": [
+      "greenish creamy liquid"
+    ],
+    "certifications": [
+      "Low VOC (<10 g/L)",
+      "Non-flammable",
+      "Non-hazardous"
+    ],
+    "key_features": [
+      "Ready-to-use, no dilution",
+      "Faster cure time",
+      "Strong adhesion on smooth/low-absorbency substrates",
+      "Resistance to humidity and ageing",
+      "Low VOC, odourless"
+    ],
+    "application_areas": [
+      "Render on smooth concrete, brickwork",
+      "Internal/external floors and walls",
+      "Levelling over old ceramic, terrazzo, stone",
+      "Tile-on-tile adhesion preparation",
+      "Non-porous substrate roughening"
+    ],
+    "shelf_life": "12 months",
+    "tds_url": "https://matex-global.com/product/armoprime-grip/",
+    "tds_direct": "https://matex-global.com/wp-content/uploads/2025/03/ARMOPRIME-GRIP.pdf",
+    "sds_url": "https://matex-global.com/wp-content/uploads/2025/03/MSDS-ARMOPRIME-GRIP.pdf",
+    "gcc_site": "matex-global.com"
+  }
+}
